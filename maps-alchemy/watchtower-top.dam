@@ -1,0 +1,4501 @@
+{
+  "Version": 6,
+  "settings": {
+    "biomeData": {
+      "Version": 1,
+      "biomeId": "ef8c9a3de48310843af4f3c713cb8c4e#5560173517633146112",
+      "elevationId": "e152ff80ae763c44cbd6f4caab5e030f#7218541416670209819",
+      "vegetationId": "4f2364d8dc619934c89a7415f837294c#4646785408564571159",
+      "weatherId": "4ebaa09d75e1d4446b6aeedcfd58db7d#3229148265001948906",
+      "minTerrainHeight": -3.0,
+      "maxTerrainHeight": 6.0
+    },
+    "customLayout": true,
+    "customSizeInMm": "250 250",
+    "tileSizeInMm": 25
+  },
+  "lightingType": 1,
+  "terrain": "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",
+  "waterMap": "21 21 ",
+  "caveTiles": "0 ",
+  "showCaveCeiling": true,
+  "width": 10,
+  "height": 10,
+  "origin": {
+    "x": 5.0,
+    "y": 5.0
+  },
+  "originalSize": "10 10",
+  "randSeed": 409024868,
+  "foundations": [
+    {
+      "height": 0.2,
+      "priority": -1,
+      "id": "4eee7d98-1f00-41c8-a812-159daffb98ab"
+    }
+  ],
+  "rooms": [
+    {
+      "Version": 4,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomId": "4f2364d8dc619934c89a7415f837294c#4646785408564571159",
+      "parts": [
+        "0 0",
+        "0 1",
+        "0 2",
+        "0 3",
+        "0 4",
+        "0 5",
+        "0 6",
+        "0 7",
+        "0 8",
+        "0 9",
+        "1 0",
+        "1 1",
+        "1 2",
+        "1 3",
+        "1 4",
+        "1 5",
+        "1 6",
+        "1 7",
+        "1 8",
+        "1 9",
+        "2 0",
+        "2 1",
+        "2 8",
+        "2 9",
+        "3 0",
+        "3 1",
+        "3 8",
+        "3 9",
+        "4 0",
+        "4 1",
+        "4 8",
+        "4 9",
+        "5 0",
+        "5 1",
+        "5 8",
+        "5 9",
+        "6 0",
+        "6 1",
+        "6 8",
+        "6 9",
+        "7 0",
+        "7 1",
+        "7 8",
+        "7 9",
+        "8 0",
+        "8 1",
+        "8 2",
+        "8 3",
+        "8 4",
+        "8 5",
+        "8 6",
+        "8 7",
+        "8 8",
+        "8 9",
+        "9 0",
+        "9 1",
+        "9 2",
+        "9 3",
+        "9 4",
+        "9 5",
+        "9 6",
+        "9 7",
+        "9 8",
+        "9 9"
+      ],
+      "exterior": true,
+      "id": "7003873e-4175-4a21-8733-d5bcbc73716e"
+    },
+    {
+      "Version": 4,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomId": "f6154721ae81842f29a188f46cce6f44#4646785408564571159",
+      "parts": [
+        "2 2",
+        "2 3",
+        "3 2",
+        "3 3",
+        "4 2",
+        "4 3",
+        "5 2",
+        "5 3",
+        "6 2",
+        "6 3",
+        "7 2",
+        "7 3",
+        "7 4",
+        "6 4",
+        "7 5",
+        "6 5",
+        "7 6",
+        "6 6",
+        "7 7",
+        "6 7",
+        "5 7",
+        "4 7",
+        "5 6",
+        "4 6",
+        "5 5",
+        "4 5",
+        "5 4",
+        "4 4",
+        "3 4",
+        "2 4",
+        "3 5",
+        "2 5",
+        "3 6",
+        "2 6",
+        "3 7",
+        "2 7"
+      ],
+      "placeOrder": 1,
+      "id": "7b449470-1fee-4478-98d5-57d086ec1c17"
+    }
+  ],
+  "floors": [
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "id": "15ae4517-7bf6-4d26-8702-f30f8b199b84"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "0 1",
+      "height": 1,
+      "id": "a1fdf44b-105a-41f3-921c-45dce7b22b0d"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "0 2",
+      "height": 2,
+      "id": "2a01b968-27dd-4862-86d8-11915bb38bb4"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "0 3",
+      "height": 3,
+      "id": "7e915035-a9bd-49f3-a6ff-cb5854e976e0"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "0 4",
+      "height": 4,
+      "id": "686ef1ff-c8df-4e27-9a89-2a6e9edcd6f2"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "0 5",
+      "height": 5,
+      "id": "aee75cf4-a2ce-4c99-9200-c6dd15e57520"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "0 6",
+      "height": 6,
+      "id": "15f831a1-03ed-4f03-b6c6-4812a00fbc6e"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "0 7",
+      "height": 7,
+      "id": "1c79a8af-4f62-48f8-9363-723a78783b51"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "0 8",
+      "height": 8,
+      "id": "7d484faa-0217-4dbd-8175-d1a6306bb3b3"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "0 9",
+      "height": 9,
+      "id": "08aeb856-22c2-4822-9dec-eca1ef243e84"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "1 0",
+      "height": 10,
+      "id": "8282350e-3e27-4a7b-a7e8-7399fd4c23e4"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "1 1",
+      "height": 11,
+      "id": "8bc5e9b2-4cb5-405a-95c8-ee01943b21af"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "1 2",
+      "height": 12,
+      "id": "a3c8888b-fa2c-4946-8182-37dc349fc2c2"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "1 3",
+      "height": 13,
+      "id": "1844612b-be22-40f7-acf6-d508fb9e97ec"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "1 4",
+      "height": 14,
+      "id": "db17e5ae-58e5-42ef-a93e-1f796dff24eb"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "1 5",
+      "height": 15,
+      "id": "770538a8-1529-48d7-9049-613cff84d0f9"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "1 6",
+      "height": 16,
+      "id": "3a527f18-4917-4148-9aeb-8da86ae1e686"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "1 7",
+      "height": 17,
+      "id": "a92b2146-652a-49c9-9499-972fd1e99900"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "1 8",
+      "height": 18,
+      "id": "2d615dc0-4f20-4fb6-9b00-7cbb00316ad0"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "1 9",
+      "height": 19,
+      "id": "2e780edd-9b79-45a1-9bed-90a12224b881"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "2 0",
+      "height": 20,
+      "id": "68ad7513-9030-4bcf-b5ec-28f000653654"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "2 1",
+      "height": 21,
+      "id": "6c6187bd-e075-4343-9aa3-bd7ca25704c8"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "2 8",
+      "height": 28,
+      "id": "b32f69f9-3a90-4c69-8c5c-11f1b3daf951"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "2 9",
+      "height": 29,
+      "id": "922c1d39-6818-4818-ae22-83ced83f6358"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "3 0",
+      "height": 30,
+      "id": "b4888abd-29b0-4141-945b-6f23c03f28d0"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "3 1",
+      "height": 31,
+      "id": "a226b1cb-a07d-4cd2-bb9c-f1a43aa7179b"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "3 8",
+      "height": 38,
+      "id": "69140e3e-5f3d-4fda-9ebb-dc87506d4dae"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "3 9",
+      "height": 39,
+      "id": "433d5668-d808-464c-a474-8e2d61255db7"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "4 0",
+      "height": 40,
+      "id": "e578f805-fbd1-4e39-866d-433b3a0de739"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "4 1",
+      "height": 41,
+      "id": "d45e3211-efb5-4e95-b222-c337c2a5e983"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "4 8",
+      "height": 48,
+      "id": "871ebecb-1c6c-4ea2-9a28-620bb2dce154"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "4 9",
+      "height": 49,
+      "id": "e20d883b-5ec9-4ddb-ba8a-6e16350d38de"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "5 0",
+      "height": 50,
+      "id": "39879832-c57c-43ad-8980-d7c76035e2c6"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "5 1",
+      "height": 51,
+      "id": "e5a911b6-cab2-4241-864e-110314634508"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "5 8",
+      "height": 58,
+      "id": "97839003-8a40-47db-a133-835d4cc0606f"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "5 9",
+      "height": 59,
+      "id": "71781446-b769-47f8-93a2-5ab4e4c355a1"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "6 0",
+      "height": 60,
+      "id": "74b82c28-6187-4829-a303-1f0032bbd8e5"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "6 1",
+      "height": 61,
+      "id": "cc18d65a-1de9-4715-8a9d-fbcd5f740129"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "6 8",
+      "height": 68,
+      "id": "5269f912-c951-467a-9abf-934f779e48d1"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "6 9",
+      "height": 69,
+      "id": "a64103e1-54cc-40e7-8c87-00c6e2e8555c"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "7 0",
+      "height": 70,
+      "id": "8273e2b8-e970-46d6-be91-a996e2b1ef2f"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "7 1",
+      "height": 71,
+      "id": "de04335e-228e-451b-bc97-8aa7af63b744"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "7 8",
+      "height": 78,
+      "id": "8caa05c5-b708-4d5f-8c67-e5b1be52f949"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "7 9",
+      "height": 79,
+      "id": "796dac30-89e6-4e3a-90c3-2452d0f9eabd"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "8 0",
+      "height": 80,
+      "id": "f1833cbd-3745-445d-af3b-2cc2de883227"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "8 1",
+      "height": 81,
+      "id": "5d7970e0-d9c8-4062-b484-9eb51d03faa1"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "8 2",
+      "height": 82,
+      "id": "eedeba5e-d633-40f0-90da-c2b1b6038eca"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "8 3",
+      "height": 83,
+      "id": "040fb7f5-37df-4490-95e3-99ceef4d9037"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "8 4",
+      "height": 84,
+      "id": "0a25fc17-2af9-400a-8a17-e26dee29fc44"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "8 5",
+      "height": 85,
+      "id": "6461b3cf-4da9-43ed-b5a5-45c8e6ec561c"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "8 6",
+      "height": 86,
+      "id": "edc2f2e5-3675-499e-bb70-fce9d76b4921"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "8 7",
+      "height": 87,
+      "id": "44a33139-6184-44b1-a64a-60de8100d03a"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "8 8",
+      "height": 88,
+      "id": "8fa1c7f7-c670-4a64-9fd7-7c9fcc567998"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "8 9",
+      "height": 89,
+      "id": "21c21ca8-47d5-4741-bb19-c9f424b8eba1"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "9 0",
+      "height": 90,
+      "id": "ad8bf7c1-9901-42b2-b088-577e4ae84298"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "9 1",
+      "height": 91,
+      "id": "624af727-ca4c-4a5a-af03-302a760cd38b"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "9 2",
+      "height": 92,
+      "id": "00a0d6a1-b1d2-4dc9-ab02-96f5abbb897f"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "9 3",
+      "height": 93,
+      "id": "1a90e66f-cbc1-4b71-b7ac-0f6831bd483a"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "9 4",
+      "height": 94,
+      "id": "0aa9bc79-a25c-44bf-aa8d-2d7ed47941c3"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "9 5",
+      "height": 95,
+      "id": "b5fc7b9c-e93b-4189-9451-02515be7b5b4"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "9 6",
+      "height": 96,
+      "id": "e03e76d6-4ddc-4f87-bbaf-e2076223c0ab"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "9 7",
+      "height": 97,
+      "id": "4ed0cd49-d52c-4b20-af99-d4cf0d0c93ce"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "9 8",
+      "height": 98,
+      "id": "05167405-3826-4ed3-a70c-21134991a1fb"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "tile": "9 9",
+      "height": 99,
+      "id": "03bf8a9f-074f-4cfd-8a7f-70526b494ffa"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "2 2",
+      "height": 72,
+      "buildingBlockInstanceId": "4cb1fd61-65ab-443a-92a2-6f4cbede7039",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "413ab807-0c39-4f7b-8a79-29777f0878a7"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "2 3",
+      "height": 73,
+      "buildingBlockInstanceId": "aeb9ebe2-c461-4b6d-8129-acd14f522b4d",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "a47fadd5-b7ff-4d8f-bf31-13e01d04903b"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "3 2",
+      "height": 74,
+      "buildingBlockInstanceId": "6f5b2f5c-7b63-4c92-a64c-bc24e6b63c29",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "3ae8be1d-5d30-4682-be28-f3cb41eeba7e"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "3 3",
+      "height": 75,
+      "buildingBlockInstanceId": "40bbd503-5dfb-47ea-9957-5778924b3847",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "0605699c-c818-439c-8140-56d5d0b67b91"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "4 2",
+      "height": 76,
+      "buildingBlockInstanceId": "379c5539-2e13-4618-8daf-748005ecf68e",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "cc54bb19-671f-450b-9676-6c8155198c5c"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "4 3",
+      "height": 77,
+      "buildingBlockInstanceId": "0fb754df-93fa-426f-8fb3-879bdd1fbac7",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "f4efff7e-a98b-43ab-a28f-72cd31d1ad56"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "5 2",
+      "height": 78,
+      "buildingBlockInstanceId": "858ba17a-5646-4840-91ad-85d8208b528d",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "d928f336-6d71-49c3-9d0f-2b64eef1c9be"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "5 3",
+      "height": 79,
+      "buildingBlockInstanceId": "7ca4e957-12a5-4a2a-af23-0bbbf4e3ab20",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "7421ea1c-c321-47f3-b363-f02bd73e8339"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "6 2",
+      "height": 80,
+      "buildingBlockInstanceId": "4aa9f68a-a82f-443a-b266-c9f3e8d35bd1",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "2bbda3f0-6ec3-4b73-935b-1800b9be76cb"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "6 3",
+      "height": 81,
+      "buildingBlockInstanceId": "d720d8a2-32f0-40b1-8a94-2aef4fd368c2",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "41bb87fd-ec21-421e-861c-f0f287b2d68a"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "7 2",
+      "height": 82,
+      "buildingBlockInstanceId": "f777d2f1-9354-4ed8-bfb9-166fc7b11414",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "46973beb-3f0e-44f4-82ea-2294b3fd1f7c"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "7 3",
+      "height": 83,
+      "buildingBlockInstanceId": "6e99b1ad-d4a7-408c-97da-a343aee32c7c",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "a8fc6938-3199-49e8-8635-e3b32af60487"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "7 4",
+      "height": 84,
+      "buildingBlockInstanceId": "3a816b5d-43d9-4f90-abbe-6138a3379e20",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "297b606a-15e3-4e5f-87a1-13d20f27f592"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "6 4",
+      "height": 85,
+      "buildingBlockInstanceId": "e3f0c9e0-f076-472f-8fb0-b31d3c378b9d",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "f49c90f2-bf9a-43d5-90d9-4f1b18d5dfdf"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "7 5",
+      "height": 86,
+      "buildingBlockInstanceId": "53234e69-b5bb-43de-bf3f-8c8389296875",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "bfdc65ed-0bd4-4b10-b815-108016fdc516"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "6 5",
+      "height": 87,
+      "buildingBlockInstanceId": "d8b863eb-c4f1-4ccc-a019-04d7ba48ad2b",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "46e5f361-c9fc-47f1-8209-f9c9f072d039"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "7 6",
+      "height": 96,
+      "buildingBlockInstanceId": "6798b397-7d97-4e2b-8551-9bbe47321c0f",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "b57bec0a-7022-44e6-8146-5b9333f23681"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "6 6",
+      "height": 97,
+      "buildingBlockInstanceId": "9cb08131-1343-482f-9dbc-7c80d8656143",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "23758bd8-1876-4897-b310-0514a6c10e43"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "7 7",
+      "height": 98,
+      "buildingBlockInstanceId": "a1bbadd3-b802-4ae1-98f8-17af88d09b88",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "ee718fc6-cdda-433c-8268-e95ce94ee791"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "6 7",
+      "height": 99,
+      "buildingBlockInstanceId": "e8053329-a17d-48fa-b0bc-1fb49765ea2d",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "1510d4f7-9f2b-4455-9bb6-054898aef130"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "5 7",
+      "height": 100,
+      "buildingBlockInstanceId": "0c2a8598-2a3f-47af-a608-106745425775",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "b7172790-1da1-4589-8f24-271a43170cfa"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "4 7",
+      "height": 57,
+      "floorBlockId": "ea1b3e63-dd4a-4c0b-bb96-e2e42e477d69",
+      "id": "fe677e4d-a98c-406c-9c4f-a47b40bb2567"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "5 6",
+      "height": 101,
+      "buildingBlockInstanceId": "3f923ebf-e28e-403d-bfcc-7eb23fe4298e",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "a4dd0f3b-7fa7-4857-bb9c-93b45bf742d4"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "4 6",
+      "height": 59,
+      "floorBlockId": "ea1b3e63-dd4a-4c0b-bb96-e2e42e477d69",
+      "id": "62888010-628f-42f7-a63e-9ccc528f6e13"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "5 5",
+      "height": 105,
+      "buildingBlockInstanceId": "37de9b4b-c1c0-4275-9668-cac887592155",
+      "floorBlockId": "b0a84040-86e3-4ca5-8fca-74e4e9042e2b",
+      "id": "64823b67-26a9-41ad-9100-b3cfe9eb4fcf"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "4 5",
+      "height": 104,
+      "buildingBlockInstanceId": "0ab2831f-91fd-4c2d-b120-26bbebcca016",
+      "floorBlockId": "b0a84040-86e3-4ca5-8fca-74e4e9042e2b",
+      "id": "b8509418-8fde-44c7-bc13-84fd39297e46"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "5 4",
+      "height": 102,
+      "buildingBlockInstanceId": "f1699f5d-7790-4625-96e2-0a72278e81f5",
+      "floorBlockId": "a760bb34-f963-40d7-b8ad-9d50b85b6265",
+      "id": "ca04907c-5d66-48c9-b224-699428fc9edd"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "4 4",
+      "height": 103,
+      "buildingBlockInstanceId": "a50cc0ad-3b10-48a2-9e66-e66e96bc34bc",
+      "floorBlockId": "b0a84040-86e3-4ca5-8fca-74e4e9042e2b",
+      "id": "0a19e227-8c4a-4fcf-a9b5-a7d965ea94cb"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "3 4",
+      "height": 92,
+      "buildingBlockInstanceId": "2fd4a2b8-2fee-490a-a08e-b107588e343d",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "f53928df-d070-4d45-a12c-fe1e0d8effe2"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "2 4",
+      "height": 93,
+      "buildingBlockInstanceId": "c15934e4-1698-4143-b4be-00f7c8c41770",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "de6511d2-af52-466a-8ca9-fe5697c2faf3"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "3 5",
+      "height": 94,
+      "buildingBlockInstanceId": "6185b67b-2d9a-4923-844f-8c7b84679ed9",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "b67da80e-1500-4edd-8b02-e93d64691a69"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "2 5",
+      "height": 95,
+      "buildingBlockInstanceId": "ee246119-cebc-4ecc-aa78-6994e37ec4ef",
+      "floorBlockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "id": "0e556353-479f-46a4-acbd-6344f917d104"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "3 6",
+      "height": 68,
+      "floorBlockId": "ea1b3e63-dd4a-4c0b-bb96-e2e42e477d69",
+      "id": "85b93b05-09bb-438b-b488-5c7190a9b59d"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "2 6",
+      "height": 69,
+      "floorBlockId": "ea1b3e63-dd4a-4c0b-bb96-e2e42e477d69",
+      "id": "d21e137a-af17-44b8-a2ad-c2bb5600d8b7"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "3 7",
+      "height": 70,
+      "floorBlockId": "ea1b3e63-dd4a-4c0b-bb96-e2e42e477d69",
+      "id": "5a2c598a-1c73-4103-a321-e157227bf703"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "tile": "2 7",
+      "height": 71,
+      "floorBlockId": "ea1b3e63-dd4a-4c0b-bb96-e2e42e477d69",
+      "id": "c393f5c4-c19c-43bb-8fd5-f0460e853d9f"
+    }
+  ],
+  "pillars": [
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 800",
+        "offset": "-1 -1"
+      },
+      "buildingBlockInstanceId": "4357d99f-c8da-430f-96ad-697e0386163c",
+      "id": "46027e7a-b713-4638-a4a1-06b7ed5e8477"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 800",
+        "offset": "1 -1"
+      },
+      "buildingBlockInstanceId": "7bcaa63e-7f3c-44c7-972c-db8ae2836307",
+      "id": "9edfa5f4-8849-4118-94cb-e8233ac84d05"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 800",
+        "offset": "1 1"
+      },
+      "buildingBlockInstanceId": "bcb53086-30a2-46a1-b8d2-957ef8f71763",
+      "id": "6af0f953-6729-483b-abdd-e1f66a564432"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 800",
+        "offset": "-1 1"
+      },
+      "buildingBlockInstanceId": "720c6af0-2d48-4eaf-a35e-af5c07b25442",
+      "id": "f0db7c4f-9cd3-4cc7-b717-3b5f275b4779"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "800 800",
+        "offset": "-1 -1"
+      },
+      "buildingBlockInstanceId": "5fffe56a-16b1-41e3-a7cb-d4f86eae54fd",
+      "id": "047cd6bf-c801-447f-a3f2-bce5d1fe950a"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "800 800",
+        "offset": "1 -1"
+      },
+      "buildingBlockInstanceId": "b9412cab-e5ad-4d06-92ca-1aaef200423a",
+      "id": "81a23ccb-f26b-4dcc-899c-a303db03e26e"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "800 800",
+        "offset": "1 1"
+      },
+      "buildingBlockInstanceId": "53e208f0-1594-4608-8cf6-b1393110cf4c",
+      "id": "d6d41d84-a568-41cf-92ca-b182bad46c84"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "800 800",
+        "offset": "-1 1"
+      },
+      "buildingBlockInstanceId": "0ac95384-199a-4c4d-804b-a9cb531fdabe",
+      "id": "8181c14c-0d4f-4673-b066-9f0b758e8661"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "800 200",
+        "offset": "-1 -1"
+      },
+      "buildingBlockInstanceId": "75c10823-a4f1-443c-8206-1ba60e6dd4dc",
+      "id": "3783b7ae-257f-4fa3-837d-e88f811c672f"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "800 200",
+        "offset": "1 -1"
+      },
+      "buildingBlockInstanceId": "eb8af566-8e60-428e-ab88-63267732b229",
+      "id": "667be039-c8ea-4273-9858-e79a13e9c2aa"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "800 200",
+        "offset": "1 1"
+      },
+      "buildingBlockInstanceId": "94ee369a-2582-47c3-bd6b-1aa8be4d3a72",
+      "id": "ec0341e7-6d6b-4952-98cf-7556ccb67f6d"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "800 200",
+        "offset": "-1 1"
+      },
+      "buildingBlockInstanceId": "c8edcb6c-bec1-467e-a228-8bfce2fdf9ef",
+      "id": "ff2b1167-8d9a-4b79-abf4-affc970b1c02"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 200",
+        "offset": "-1 -1"
+      },
+      "buildingBlockInstanceId": "2de16590-cbaf-48e1-8830-3d14fcdd41f9",
+      "id": "1f35f7e2-4271-4b81-802a-6fdef55b1b6b"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 200",
+        "offset": "1 -1"
+      },
+      "buildingBlockInstanceId": "c1bc3b8b-6781-4b6c-90b1-cfaa5325979a",
+      "id": "d670d719-e747-4967-8e51-f4b7bc98e431"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 200",
+        "offset": "1 1"
+      },
+      "buildingBlockInstanceId": "ac5fe6bb-dd38-4fc0-8e4b-4be729a7d161",
+      "id": "3b6efaee-0b29-477e-baaf-37b59f13dc06"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 200",
+        "offset": "-1 1"
+      },
+      "buildingBlockInstanceId": "d348e939-98fb-4b96-8f4c-c657f4cb7e91",
+      "id": "8373e6ef-b273-4b76-9046-d56cefc09844"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 700",
+        "offset": "-1 -1"
+      },
+      "buildingBlockInstanceId": "dd8f1970-f6c6-4726-80ea-8b065878eff5",
+      "id": "5cb60ecd-3812-4572-8107-a7243429bbe5"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 700",
+        "offset": "1 -1"
+      },
+      "buildingBlockInstanceId": "c14ede86-8ca8-48fb-8640-5cc2a43863d0",
+      "id": "fa8bb6e0-874e-4b6b-82f1-cf9c3e9c01d2"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 700",
+        "offset": "1 1"
+      },
+      "buildingBlockInstanceId": "ea16697e-4e78-4c17-9334-0ea885f922e6",
+      "id": "44e24fd5-6b23-4f86-aa59-d11e891d7bf6"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 700",
+        "offset": "-1 1"
+      },
+      "buildingBlockInstanceId": "5a95c3f0-b216-4d71-9d5d-e2e570b248b9",
+      "id": "a8486730-e119-41cd-b048-299577b4fc78"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 600",
+        "offset": "-1 -1"
+      },
+      "buildingBlockInstanceId": "14b37d67-ce8b-488e-a90b-5f062023f1c2",
+      "id": "a664d328-411f-4b4f-bfe6-d148cdad0abe"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 600",
+        "offset": "1 -1"
+      },
+      "buildingBlockInstanceId": "7ef63ed7-392b-42eb-a88e-e5d264efd3ff",
+      "id": "f3c346e4-34e9-4a6d-b77b-a0060db5f24f"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 600",
+        "offset": "1 1"
+      },
+      "buildingBlockInstanceId": "66ec9c57-1de0-42a9-ba58-929e1496ac1d",
+      "id": "16a368ce-42ea-4979-94f4-8e299ea7561c"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "200 600",
+        "offset": "-1 1"
+      },
+      "buildingBlockInstanceId": "1cd1658e-2afb-4630-917e-34760d258922",
+      "id": "a88f05ed-dff9-4330-bf6b-93b1ec5ca529"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "400 600",
+        "offset": "-1 -1"
+      },
+      "buildingBlockInstanceId": "ebcd4629-8cec-43b8-9e58-c6061a0b8002",
+      "id": "ad1316d0-b2f4-472a-bed6-f15b00dd929f"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "500 600",
+        "offset": "-1 -1"
+      },
+      "buildingBlockInstanceId": "5ab7d599-7899-4f82-968e-84aea08c43c4",
+      "id": "5d81a313-cc2f-4032-ab76-a108a00f535a"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "500 800",
+        "offset": "-1 -1"
+      },
+      "buildingBlockInstanceId": "209630e8-24ba-4f71-be9b-f77a8eae88f7",
+      "id": "00b436d4-5b1d-4c4d-beb8-4d4ddeaa7a4a"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "500 800",
+        "offset": "1 -1"
+      },
+      "buildingBlockInstanceId": "5cf9fb54-dc3d-4a75-8726-f992aeae80d9",
+      "id": "6577959d-2e13-48f2-888f-824728cfa261"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "500 800",
+        "offset": "1 1"
+      },
+      "buildingBlockInstanceId": "6c03f3d4-fbab-4428-97a3-05066cf65c59",
+      "id": "b148703c-6bcb-4947-be51-6989717efb81"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "position": {
+        "positionInCm": "500 800",
+        "offset": "-1 1"
+      },
+      "buildingBlockInstanceId": "aac92a7f-2e84-468b-a396-921e9999824b",
+      "id": "f186fd64-ff5f-4c6e-982c-2b565aad3aa6"
+    }
+  ],
+  "walls": [
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "2 8",
+        "p2": "2 7"
+      },
+      "buildingBlockInstanceId": "23d7f4fa-5dc7-4bc6-a29e-b64ee00714e6",
+      "wallBlockIds": {
+        "2 8 2 7 0 True": "c670c533-8022-4ccc-a952-fe1f38e39a2a",
+        "2 8 2 7 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "90f12037-3d88-4173-97c0-6f8aeaf8e014"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "3 8",
+        "p2": "2 8"
+      },
+      "buildingBlockInstanceId": "16097e59-3677-483b-ac91-c8e46a971a7f",
+      "wallBlockIds": {
+        "3 8 2 8 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "3 8 2 8 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "ce7bb630-f67d-45b6-8e76-1cca55302ac0"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "5 8",
+        "p2": "4 8"
+      },
+      "buildingBlockInstanceId": "5d6e92df-8652-422a-916c-a53c1014ec96",
+      "wallBlockIds": {
+        "5 8 4 8 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "5 8 4 8 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "5c39ad27-a5b5-4067-8162-b4417a440edb"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "6 8",
+        "p2": "5 8"
+      },
+      "buildingBlockInstanceId": "2baec6f0-c750-432d-b2d9-9c1be77b6f65",
+      "wallBlockIds": {
+        "6 8 5 8 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "6 8 5 8 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "4ea0313f-7382-4095-8b9e-9ffcf7909caf"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "4 8",
+        "p2": "3 8"
+      },
+      "buildingBlockInstanceId": "b084ef91-2581-46f8-a8ba-8091c7753800",
+      "wallBlockIds": {
+        "4 8 3 8 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "4 8 3 8 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "d75d805c-c53e-4d50-a2c6-b2eadfc7bfe5"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "7 8",
+        "p2": "6 8"
+      },
+      "buildingBlockInstanceId": "ef34a41a-c3ea-4869-8920-0b4e9a93b569",
+      "wallBlockIds": {
+        "7 8 6 8 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "7 8 6 8 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "d31cd1c3-1dfa-45c5-b2fd-fde132249a07"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "8 8",
+        "p2": "7 8"
+      },
+      "buildingBlockInstanceId": "84e3784a-235a-487c-a994-9f239f18c8fc",
+      "wallBlockIds": {
+        "8 8 7 8 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "8 8 7 8 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "2f15f328-c836-4d72-b388-e37489512243"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "8 7",
+        "p2": "8 8"
+      },
+      "buildingBlockInstanceId": "2865c816-161e-4f9c-90f6-7d0907d26ab1",
+      "wallBlockIds": {
+        "8 7 8 8 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "8 7 8 8 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "d1eba2d5-be92-425a-b961-25447d424e0e"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "8 6",
+        "p2": "8 7"
+      },
+      "buildingBlockInstanceId": "46ce0eda-85b0-4ea3-b618-83c36cfdb679",
+      "wallBlockIds": {
+        "8 6 8 7 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "8 6 8 7 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "b6e192da-d704-440a-8bfb-30ac265dc147"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "8 5",
+        "p2": "8 6"
+      },
+      "buildingBlockInstanceId": "6ad1d670-13d0-4db6-b3a0-389e4d9da466",
+      "wallBlockIds": {
+        "8 5 8 6 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "8 5 8 6 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "c2126a62-f232-4d9e-8902-d5a17036f8bf"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "8 4",
+        "p2": "8 5"
+      },
+      "buildingBlockInstanceId": "c305abda-03a6-4391-9b3f-2c915369f497",
+      "wallBlockIds": {
+        "8 4 8 5 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "8 4 8 5 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "ff4ef5c1-9cf7-42d2-ae81-c0875fbd76f4"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "8 3",
+        "p2": "8 4"
+      },
+      "buildingBlockInstanceId": "ec276824-f14f-4a2d-9d7a-43e0b7abdaf2",
+      "wallBlockIds": {
+        "8 3 8 4 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "8 3 8 4 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "363cf183-cb1e-4edf-92af-b4a7cfdfe766"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "8 2",
+        "p2": "8 3"
+      },
+      "buildingBlockInstanceId": "75109591-5533-45dd-b4c6-d98f4b9fa00c",
+      "wallBlockIds": {
+        "8 2 8 3 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "8 2 8 3 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "7d540907-5dd7-4360-8e4b-e88395759dc8"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "7 2",
+        "p2": "8 2"
+      },
+      "buildingBlockInstanceId": "7217b894-2f2d-4d03-bf5d-3a0e2fb37d41",
+      "wallBlockIds": {
+        "7 2 8 2 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "7 2 8 2 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "5a0d5dfe-adb7-4215-befb-2706cb1a210f"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "6 2",
+        "p2": "7 2"
+      },
+      "buildingBlockInstanceId": "6215ee3d-60c6-465a-91bd-b48c968a884b",
+      "wallBlockIds": {
+        "6 2 7 2 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "6 2 7 2 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "ee109c05-4a31-433c-a7cd-51e7d73cfcb8"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "5 2",
+        "p2": "6 2"
+      },
+      "buildingBlockInstanceId": "50b2808c-8f79-446a-99cf-f8464774fcf6",
+      "wallBlockIds": {
+        "5 2 6 2 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "5 2 6 2 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "a43042f3-aa26-474b-8b97-ac0cb8952966"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "4 2",
+        "p2": "5 2"
+      },
+      "buildingBlockInstanceId": "bf302ca9-0944-4abc-bfea-5e292cabfe39",
+      "wallBlockIds": {
+        "4 2 5 2 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "4 2 5 2 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "8c5d1f2a-891d-44ab-9f97-2d30e34b20e9"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "3 2",
+        "p2": "4 2"
+      },
+      "buildingBlockInstanceId": "7a46bb7e-d058-4f9f-bf28-bb70982fb3bf",
+      "wallBlockIds": {
+        "3 2 4 2 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "3 2 4 2 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "2dc842cc-8dc3-4277-8f0d-79014f39cfaa"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "2 2",
+        "p2": "3 2"
+      },
+      "buildingBlockInstanceId": "a1c68886-26d2-4571-b842-7b8f56e848e5",
+      "wallBlockIds": {
+        "2 2 3 2 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "2 2 3 2 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "7e342cbd-7619-49d9-9f7a-3da401791f3f"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "2 3",
+        "p2": "2 2"
+      },
+      "buildingBlockInstanceId": "412308f4-1251-4a53-812c-384adbbbbdc5",
+      "wallBlockIds": {
+        "2 3 2 2 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "2 3 2 2 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "8415137a-d7df-4232-b839-62a49927ce50"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "2 4",
+        "p2": "2 3"
+      },
+      "buildingBlockInstanceId": "08e7f196-4401-46c4-bd59-9085976511db",
+      "wallBlockIds": {
+        "2 4 2 3 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "2 4 2 3 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "cd7748ff-9d07-43be-ba76-7a7f25eba6d5"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "2 5",
+        "p2": "2 4"
+      },
+      "buildingBlockInstanceId": "fe61c040-7c86-4982-affc-1acfd383fbfc",
+      "wallBlockIds": {
+        "2 5 2 4 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "2 5 2 4 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "b5b72c67-b19e-4fa1-9043-cb807ddfe017"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "2 6",
+        "p2": "2 5"
+      },
+      "buildingBlockInstanceId": "8bb231fc-fbad-404c-a487-b0ad5397bd31",
+      "wallBlockIds": {
+        "2 6 2 5 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "2 6 2 5 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "1d3e0ee2-6be7-4d4b-9dca-f0d3ee624e9a"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "2 7",
+        "p2": "2 6"
+      },
+      "buildingBlockInstanceId": "65b47d1c-2d7c-414a-bc59-318a48aa016a",
+      "wallBlockIds": {
+        "2 7 2 6 0 True": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+        "2 7 2 6 0 False": "28703bee-a9a9-420d-a4fd-26d4d5c065e7"
+      },
+      "id": "6cfa2f4f-0169-4310-b3a4-cd1e5f523023"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "2 6",
+        "p2": "3 6"
+      },
+      "buildingBlockInstanceId": "87ebf410-b450-42ab-87b1-44db09908a7a",
+      "wallBlockIds": {
+        "2 6 3 6 0 True": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+        "2 6 3 6 0 False": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05"
+      },
+      "id": "64892d7a-6b93-4ba2-8100-c8dab64eae30"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "3 6",
+        "p2": "4 6"
+      },
+      "buildingBlockInstanceId": "ffae8fc2-9990-4230-ad1c-ceef10c9b824",
+      "wallBlockIds": {
+        "3 6 4 6 0 True": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+        "3 6 4 6 0 False": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05"
+      },
+      "id": "c0f82b1b-ae4d-4e66-ac28-2e14de654d15"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "5 6",
+        "p2": "5 7"
+      },
+      "buildingBlockInstanceId": "1df14395-4f0d-41d6-bb6a-8e93ccaa9f66",
+      "wallBlockIds": {
+        "5 6 5 7 0 True": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+        "5 6 5 7 0 False": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05"
+      },
+      "id": "4b91ee90-cd4e-4587-9e04-91a9671efedf"
+    },
+    {
+      "Version": 3,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wall": {
+        "p1": "5 7",
+        "p2": "5 8"
+      },
+      "buildingBlockInstanceId": "df44358f-7e17-4e30-86c9-052006119ec9",
+      "wallBlockIds": {
+        "5 7 5 8 0 True": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+        "5 7 5 8 0 False": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05"
+      },
+      "id": "1592a789-8363-4041-b78d-df644e80601a"
+    }
+  ],
+  "wallOpenings": [
+    {
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wallPieceSection": "2 6 2 7 0;0;1",
+      "buildingBlockInstanceId": "2e60936e-e6fc-4434-a7b4-57d71d223776",
+      "id": "3ed0b97f-38ad-405f-bb78-095bf462185c"
+    },
+    {
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wallPieceSection": "2 3 2 4 0;0;1",
+      "buildingBlockInstanceId": "d7fa5e6d-f346-4fde-8052-6695acbbbe8d",
+      "id": "ad00b3ab-a0cc-4b0a-ad75-c15e10aeb9a9"
+    },
+    {
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wallPieceSection": "4 2 3 2 0;0;1",
+      "buildingBlockInstanceId": "dfdba9cb-1d30-44df-8fdd-2be49a1bbd80",
+      "id": "c738bf6c-226f-40d4-a0c6-298632991427"
+    },
+    {
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wallPieceSection": "7 2 6 2 0;0;1",
+      "buildingBlockInstanceId": "6cad3eab-5d3a-4716-986a-fbdc5375ffdf",
+      "id": "97e45961-4fcd-4f2c-ba66-863695be8fd1"
+    },
+    {
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wallPieceSection": "8 4 8 3 0;0;1",
+      "buildingBlockInstanceId": "369e1f1b-c90f-4828-9604-894753537f61",
+      "id": "51ea9a0c-3096-444c-b68e-d9fd0ce820cb"
+    },
+    {
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wallPieceSection": "8 7 8 6 0;0;1",
+      "buildingBlockInstanceId": "cd0f1a68-b47e-472c-a528-ad589dcab46b",
+      "id": "0ee572e2-d448-4739-a840-d6da89e79549"
+    },
+    {
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wallPieceSection": "6 8 7 8 0;0;1",
+      "buildingBlockInstanceId": "d23a3aa3-ac5a-4291-b90a-10ae76bf9eaa",
+      "id": "36a07a09-b180-43f3-bc0f-edce0c44a62d"
+    },
+    {
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "wallPieceSection": "3 8 4 8 0;0;1",
+      "buildingBlockInstanceId": "bffb96c2-482a-43f8-8171-761dd4e15efb",
+      "id": "2dfe031b-90b9-4e51-a542-dd712c2223a3"
+    }
+  ],
+  "objects": [
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "087c607c-d09d-4f70-9592-8c277a84608c",
+      "id": "a7252c6b-52c9-4a47-900a-f31df4cb4378"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "50b84c87-367e-4c45-931b-ae9e8725976b",
+      "id": "024d7c98-58de-4fc1-bd4d-fc427821f023"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "49dbae80-a207-49ba-b77e-fa4fa7000f54",
+      "id": "a43bf24d-9c01-4a84-a5bd-8270dce2c2b2"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "42563c42-6b0e-4e38-9bb0-47ea51191ab6",
+      "id": "3e27e654-b4e0-4cf0-8df7-c20d4b23b3c8"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "buildingBlockInstanceId": "aaf2824e-88ff-4c0d-a08d-211b1e7576db",
+      "id": "e29537fc-f508-4f89-91e4-a73101523c3f"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "buildingBlockInstanceId": "04647803-4a72-47c6-a21c-435675fed4a3",
+      "id": "77815346-82cd-43b2-a378-e321d09e34fb"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "buildingBlockInstanceId": "7d4c3803-931f-4bea-b92c-c528ea0bd7e6",
+      "id": "ee58496c-a47b-4052-8df5-035ef8d2b031"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "buildingBlockInstanceId": "ed355600-7e35-4814-b896-9099ae429743",
+      "id": "e76bfed3-a26c-4fef-9651-f414eaa078d4"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "5bc3f1e7-6abc-4139-9770-52216314e0a0",
+      "removedTiles": [
+        "2 6",
+        "2 7",
+        "3 6",
+        "3 7",
+        "4 6",
+        "4 7"
+      ],
+      "id": "ccbf3e62-1264-47f0-b824-471146a5ea4d"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "c5e031bb-fdb5-4c77-a3a0-0d8466ee7e0b",
+      "id": "86a3a70a-e1e7-412b-880a-07772e4ab0c2"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "4c93211e-b67c-4ac4-ab94-70128710147f",
+      "id": "c9a5f5c2-b487-4aed-825b-a384c12f1791"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "78300ea5-bb0e-45dc-8c84-bd1495980b26",
+      "id": "b6f02dfb-16eb-44ec-8df9-4fad8589ca6a"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "10e43ac0-3978-4f95-a0ef-ccfc6baa5ace",
+      "id": "c8d277dd-f270-41be-bb49-0f35d3e33025"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "12d4165e-61ce-4a44-89cc-7c45d9d854ac",
+      "id": "050e1b1d-fc6f-4415-b612-8241094a88d6"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "753b894e-b4f0-42fe-8a90-5eed8678e4d6",
+      "id": "a36aeac3-a4a8-4019-bee4-262135709a63"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "749cb7e5-4c0c-4d5e-bede-53c40ff96488",
+      "id": "dd8f8e94-2546-45ea-a0aa-bdea2c3f4239"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "f5f53113-5725-4fb9-9b81-ba8e64f81fd4",
+      "id": "6f9f25ce-cf09-41c9-958c-4dd4e619a0d0"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "f28e1c14-802a-4f76-955d-8dc9cc82de99",
+      "id": "91cb7f4d-f71c-4ac6-85b9-4d1a4b0fc319"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "e57fc54e-6339-4bbc-b4c3-1f6100390740",
+      "id": "d50a185b-7df6-4bc9-bf4d-a9e24fdd3d5e"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "931889f1-f902-4da1-843a-4f14c7199632",
+      "id": "8274d24e-6d38-4167-aca0-574c994e1328"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "49e9ed7b-aa02-4d9d-87bf-277344a6fd58",
+      "id": "e5d42f9a-b1e4-4f1c-aca6-565b59c0a214"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "2048a905-006a-4248-ad5d-b453d0a2a049",
+      "id": "5b37e897-49de-4b7b-8acc-10bbe8045ba9"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "653cadf2-d4da-4618-b652-f62a79d9dffd",
+      "id": "f7b7e8c5-3a88-4328-91f7-8f36d521f30d"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "25681985-90b0-4669-846b-114920eae77f",
+      "id": "44f2ae03-e6ea-450b-bce6-d696a450100c"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "0246d13c-d2d5-4df6-a7c9-eeb440864c22",
+      "id": "0723bf83-34a5-476a-98c0-a530bf23d0eb"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "c4757a1f-86ef-4c38-8aaa-b193f4a8cc82",
+      "id": "c3410f4e-4b07-4cf3-b168-80b7c17b0444"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "0cd81038-7ec1-4f85-9782-cc06425af7db",
+      "id": "b8633669-e7d7-464b-aed4-e3802b94b645"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "db5abc23-eabe-425d-a998-d931cd62a9bd",
+      "id": "6adbee98-1da8-473a-bbd8-6bee4a55e8cc"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "6d76acf4-a411-46d8-8103-1af3ce38000d",
+      "id": "d74c80c4-70c6-4e27-805c-f52259c88e5e"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "d0287f0d-b9d4-4ba9-b10e-cc918af23d0d",
+      "id": "7b77bbe6-32fe-4cf5-8bf2-336cb492aa2f"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "26943af7-a2eb-4c5a-98b6-e212de0d1152",
+      "id": "459ce4ef-6510-4b3e-9747-2df15ccf080e"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "9fd2da87-c32f-434d-8abf-686c63bf466c",
+      "id": "0e6e6e64-eb1a-479a-bd32-764f30ba1cea"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "ae101cdf-076b-4249-b6e4-3ef538c564ae",
+      "id": "6a3f8392-b849-4c53-83b0-673dd8c5c378"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "09489da9-a637-4d61-81bc-6fa2cc6986e0",
+      "id": "57b9e699-36c3-46fb-a949-dc9f36528c7b"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "5c167c86-051d-42b7-b35f-85067b29daf3",
+      "id": "0a5bb23c-4aed-4918-a0a2-844c2ee57e6b"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "d11e639b-1b00-4136-be23-4f73d2727f59",
+      "id": "9e352301-d9a0-4d7f-b11a-baaf076cccdd"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "05160691-6095-4f1d-80e7-2efd830ac0e0",
+      "id": "8dc78023-e0c5-4412-bc3c-74594c88d97a"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "adc85164-0679-4a8e-85d9-aee8d7d817bf",
+      "id": "86da4501-9c52-4f0e-90b5-845e99edd749"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7003873e-4175-4a21-8733-d5bcbc73716e",
+      "buildingBlockInstanceId": "73600cab-1695-48c2-b093-7cf5c1d68d09",
+      "id": "e512ff8c-0d76-4ad3-9189-dee4b1defb71"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "fdf8d5ae-2dcc-426e-a425-70895a9fd47e",
+      "id": "78bd71ed-3ea8-4f68-9fe7-d6c027df4e68"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "2f460751-a374-43d1-b67d-53a44f68f6a6",
+      "id": "2345cde5-3b1d-4b19-a4db-51ca5e17a329"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "616a6a9c-e0b1-44ed-8de4-5c4763ee074a",
+      "id": "8cab3440-02e0-449e-9284-ae1d936a5813"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "190afe09-a900-46e8-807c-be874e2fba21",
+      "id": "2c75f4c5-aa9b-4741-ba5c-43009500b86e"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "8bfca3d6-7c3d-47a7-9ba6-90aaa881177d",
+      "id": "7649b667-060c-4327-a30a-8e714719f538"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "ec1f3bcb-7062-4650-9ed5-7872910ef02e",
+      "id": "fe6a1783-87bb-452d-90fc-3e2959b87773"
+    },
+    {
+      "Version": 1,
+      "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+      "roomInstanceId": "7b449470-1fee-4478-98d5-57d086ec1c17",
+      "buildingBlockInstanceId": "f9dc45ae-5bec-4412-be71-46f8be5ad86a",
+      "id": "7ff20c12-338f-45d3-8bf1-92c087ce407b"
+    }
+  ],
+  "overlays": [],
+  "buildingBlockInstances": [
+    {
+      "Version": 11,
+      "blockId": "c670c533-8022-4ccc-a952-fe1f38e39a2a",
+      "center": {
+        "x": 2.0,
+        "y": 7.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -90.0,
+      "modifierValues": {},
+      "randSeed": 563019382,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "2 8",
+          "p2": "2 7"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "23d7f4fa-5dc7-4bc6-a29e-b64ee00714e6"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 2.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 -1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "4357d99f-c8da-430f-96ad-697e0386163c"
+    },
+    {
+      "Version": 11,
+      "blockId": "2f6c70ab-ef84-462d-9b85-eca029158cb0",
+      "center": {
+        "x": 2.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 -1\",\r\n  \"capstoneEnabled\": true\r\n}"
+      },
+      "id": "7bcaa63e-7f3c-44c7-972c-db8ae2836307"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 2.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "bcb53086-30a2-46a1-b8d2-957ef8f71763"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 2.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "720c6af0-2d48-4eaf-a35e-af5c07b25442"
+    },
+    {
+      "Version": 11,
+      "blockId": "fcdcdf51-a031-420c-b6be-8abdcf08c9cd",
+      "center": {
+        "x": 2.54,
+        "y": 5.49677849
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -90.0,
+      "modifierValues": {},
+      "attachmentPointDir": {
+        "x": -1.0,
+        "y": 0.0
+      },
+      "isAttached": true,
+      "attachedWall": {
+        "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+        "wallPieceSection": "2 6 2 5 0;0;1"
+      },
+      "variantId": "7c353a42-6a85-488d-a452-dcfab538c765",
+      "variantSetId": "a4dfae8a-4807-46d2-912b-e762c3dc2458",
+      "variantRootInstanceId": "087c607c-d09d-4f70-9592-8c277a84608c",
+      "randSeed": 1893307928,
+      "id": "087c607c-d09d-4f70-9592-8c277a84608c"
+    },
+    {
+      "Version": 11,
+      "blockId": "c545a0e4-28d6-4390-87ac-b0e1b5bcaf09",
+      "center": {
+        "x": 2.24316549,
+        "y": 5.289883
+      },
+      "height": 1.0387001,
+      "scale": 0.6070727,
+      "rotation": -22.5,
+      "modifierValues": {},
+      "parentInstanceId": "087c607c-d09d-4f70-9592-8c277a84608c",
+      "variantRootInstanceId": "087c607c-d09d-4f70-9592-8c277a84608c",
+      "randSeed": 1893307928,
+      "id": "50b84c87-367e-4c45-931b-ae9e8725976b"
+    },
+    {
+      "Version": 11,
+      "blockId": "c545a0e4-28d6-4390-87ac-b0e1b5bcaf09",
+      "center": {
+        "x": 2.260353,
+        "y": 5.7569766
+      },
+      "height": 1.0387001,
+      "scale": 0.60707283,
+      "rotation": -22.5,
+      "modifierValues": {},
+      "parentInstanceId": "087c607c-d09d-4f70-9592-8c277a84608c",
+      "variantRootInstanceId": "087c607c-d09d-4f70-9592-8c277a84608c",
+      "randSeed": 1893307928,
+      "id": "49dbae80-a207-49ba-b77e-fa4fa7000f54"
+    },
+    {
+      "Version": 11,
+      "blockId": "ea3fc57d-3082-4252-8978-5d9cbfbfdb46",
+      "center": {
+        "x": 6.20445442,
+        "y": 6.226916
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -149.921051,
+      "modifierValues": {},
+      "randSeed": 98893634,
+      "id": "42563c42-6b0e-4e38-9bb0-47ea51191ab6"
+    },
+    {
+      "Version": 11,
+      "blockId": "5cc4045a-f39d-4364-bc07-2bc78e8ef0e8",
+      "center": {
+        "x": 1.4599998,
+        "y": 5.49010134
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 90.0,
+      "modifierValues": {},
+      "attachmentPointDir": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "isAttached": true,
+      "attachedWall": {
+        "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+        "wallPieceSection": "2 6 2 5 0;0;1"
+      },
+      "randSeed": 1148273136,
+      "id": "aaf2824e-88ff-4c0d-a08d-211b1e7576db"
+    },
+    {
+      "Version": 11,
+      "blockId": "6f7717e5-c340-438a-9340-13d913e3d221",
+      "center": {
+        "x": 1.45999992,
+        "y": 4.5369935
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 90.0,
+      "modifierValues": {},
+      "attachmentPointDir": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "isAttached": true,
+      "attachedWall": {
+        "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+        "wallPieceSection": "2 5 2 4 0;0;1"
+      },
+      "randSeed": 60687353,
+      "id": "04647803-4a72-47c6-a21c-435675fed4a3"
+    },
+    {
+      "Version": 11,
+      "blockId": "aae7bc66-4969-4891-915b-85cbe4a99d2a",
+      "center": {
+        "x": 1.45999992,
+        "y": 2.440699
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 90.0,
+      "modifierValues": {},
+      "attachmentPointDir": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "isAttached": true,
+      "attachedWall": {
+        "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+        "wallPieceSection": "2 3 2 2 0;0;1"
+      },
+      "randSeed": 2095368459,
+      "id": "7d4c3803-931f-4bea-b92c-c528ea0bd7e6"
+    },
+    {
+      "Version": 11,
+      "blockId": "3a850d9a-14c3-4608-9b57-eeb45ca1ac6b",
+      "center": {
+        "x": 2.48260784,
+        "y": 1.45999992
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {},
+      "attachmentPointDir": {
+        "x": 0.0,
+        "y": 1.0
+      },
+      "isAttached": true,
+      "attachedWall": {
+        "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+        "wallPieceSection": "2 2 3 2 0;0;1"
+      },
+      "randSeed": 359518600,
+      "id": "ed355600-7e35-4814-b896-9099ae429743"
+    },
+    {
+      "Version": 11,
+      "blockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+      "center": {
+        "x": 2.0,
+        "y": 6.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -270.0,
+      "modifierValues": {},
+      "wallOpeningModelData": {
+        "wallPieceSection": "2 6 2 7 0;0;1"
+      },
+      "id": "2e60936e-e6fc-4434-a7b4-57d71d223776"
+    },
+    {
+      "Version": 11,
+      "blockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+      "center": {
+        "x": 2.0,
+        "y": 3.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -270.0,
+      "modifierValues": {},
+      "wallOpeningModelData": {
+        "wallPieceSection": "2 3 2 4 0;0;1"
+      },
+      "id": "d7fa5e6d-f346-4fde-8052-6695acbbbe8d"
+    },
+    {
+      "Version": 11,
+      "blockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+      "center": {
+        "x": 3.5,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -360.0,
+      "modifierValues": {},
+      "wallOpeningModelData": {
+        "wallPieceSection": "4 2 3 2 0;0;1"
+      },
+      "id": "dfdba9cb-1d30-44df-8fdd-2be49a1bbd80"
+    },
+    {
+      "Version": 11,
+      "blockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+      "center": {
+        "x": 6.5,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -360.0,
+      "modifierValues": {},
+      "wallOpeningModelData": {
+        "wallPieceSection": "7 2 6 2 0;0;1"
+      },
+      "id": "6cad3eab-5d3a-4716-986a-fbdc5375ffdf"
+    },
+    {
+      "Version": 11,
+      "blockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+      "center": {
+        "x": 8.0,
+        "y": 3.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -90.0,
+      "modifierValues": {},
+      "wallOpeningModelData": {
+        "wallPieceSection": "8 4 8 3 0;0;1"
+      },
+      "id": "369e1f1b-c90f-4828-9604-894753537f61"
+    },
+    {
+      "Version": 11,
+      "blockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+      "center": {
+        "x": 8.0,
+        "y": 6.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -90.0,
+      "modifierValues": {},
+      "wallOpeningModelData": {
+        "wallPieceSection": "8 7 8 6 0;0;1"
+      },
+      "id": "cd0f1a68-b47e-472c-a528-ad589dcab46b"
+    },
+    {
+      "Version": 11,
+      "blockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+      "center": {
+        "x": 6.5,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -180.0,
+      "modifierValues": {},
+      "wallOpeningModelData": {
+        "wallPieceSection": "6 8 7 8 0;0;1"
+      },
+      "id": "d23a3aa3-ac5a-4291-b90a-10ae76bf9eaa"
+    },
+    {
+      "Version": 11,
+      "blockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+      "center": {
+        "x": 3.5,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -180.0,
+      "modifierValues": {},
+      "wallOpeningModelData": {
+        "wallPieceSection": "3 8 4 8 0;0;1"
+      },
+      "id": "bffb96c2-482a-43f8-8171-761dd4e15efb"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 2.5,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -360.0,
+      "modifierValues": {},
+      "randSeed": 302037358,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "3 8",
+          "p2": "2 8"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "16097e59-3677-483b-ac91-c8e46a971a7f"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 4.5,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -360.0,
+      "modifierValues": {},
+      "randSeed": 2011187879,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "5 8",
+          "p2": "4 8"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "5d6e92df-8652-422a-916c-a53c1014ec96"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 5.5,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -360.0,
+      "modifierValues": {},
+      "randSeed": 1698496584,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "6 8",
+          "p2": "5 8"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "2baec6f0-c750-432d-b2d9-9c1be77b6f65"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 3.5,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -360.0,
+      "modifierValues": {},
+      "randSeed": 856488345,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "4 8",
+          "p2": "3 8"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": [
+          {
+            "cutoutBlockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+            "cutoutFlipped": true
+          }
+        ]
+      },
+      "id": "b084ef91-2581-46f8-a8ba-8091c7753800"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 6.5,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -360.0,
+      "modifierValues": {},
+      "randSeed": 958434691,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "7 8",
+          "p2": "6 8"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": [
+          {
+            "cutoutBlockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+            "cutoutFlipped": true
+          }
+        ]
+      },
+      "id": "ef34a41a-c3ea-4869-8920-0b4e9a93b569"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 7.5,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -360.0,
+      "modifierValues": {},
+      "randSeed": 1485461618,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "8 8",
+          "p2": "7 8"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "84e3784a-235a-487c-a994-9f239f18c8fc"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 8.0,
+        "y": 7.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -270.0,
+      "modifierValues": {},
+      "randSeed": 44998580,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "8 7",
+          "p2": "8 8"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "2865c816-161e-4f9c-90f6-7d0907d26ab1"
+    },
+    {
+      "Version": 11,
+      "blockId": "7f71979d-28ac-4e82-adc8-8f375def8878",
+      "center": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 -1\",\r\n  \"capstoneEnabled\": true\r\n}"
+      },
+      "id": "5fffe56a-16b1-41e3-a7cb-d4f86eae54fd"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 -1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "b9412cab-e5ad-4d06-92ca-1aaef200423a"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "53e208f0-1594-4608-8cf6-b1393110cf4c"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 8.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "0ac95384-199a-4c4d-804b-a9cb531fdabe"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 8.0,
+        "y": 6.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -270.0,
+      "modifierValues": {},
+      "randSeed": 1841374289,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "8 6",
+          "p2": "8 7"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": [
+          {
+            "cutoutBlockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+            "cutoutFlipped": true
+          }
+        ]
+      },
+      "id": "46ce0eda-85b0-4ea3-b618-83c36cfdb679"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 8.0,
+        "y": 5.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -270.0,
+      "modifierValues": {},
+      "randSeed": 77043347,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "8 5",
+          "p2": "8 6"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "6ad1d670-13d0-4db6-b3a0-389e4d9da466"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 8.0,
+        "y": 4.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -270.0,
+      "modifierValues": {},
+      "randSeed": 365204056,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "8 4",
+          "p2": "8 5"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "c305abda-03a6-4391-9b3f-2c915369f497"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 8.0,
+        "y": 3.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -270.0,
+      "modifierValues": {},
+      "randSeed": 994022308,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "8 3",
+          "p2": "8 4"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": [
+          {
+            "cutoutBlockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+            "cutoutFlipped": true
+          }
+        ]
+      },
+      "id": "ec276824-f14f-4a2d-9d7a-43e0b7abdaf2"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 8.0,
+        "y": 2.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -270.0,
+      "modifierValues": {},
+      "randSeed": 1643311405,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "8 2",
+          "p2": "8 3"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "75109591-5533-45dd-b4c6-d98f4b9fa00c"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 7.5,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -180.0,
+      "modifierValues": {},
+      "randSeed": 2096368576,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "7 2",
+          "p2": "8 2"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "7217b894-2f2d-4d03-bf5d-3a0e2fb37d41"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 8.0,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 -1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "75c10823-a4f1-443c-8206-1ba60e6dd4dc"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 8.0,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 -1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "eb8af566-8e60-428e-ab88-63267732b229"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 8.0,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "94ee369a-2582-47c3-bd6b-1aa8be4d3a72"
+    },
+    {
+      "Version": 11,
+      "blockId": "7f71979d-28ac-4e82-adc8-8f375def8878",
+      "center": {
+        "x": 8.0,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 1\",\r\n  \"capstoneEnabled\": true\r\n}"
+      },
+      "id": "c8edcb6c-bec1-467e-a228-8bfce2fdf9ef"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 6.5,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -180.0,
+      "modifierValues": {},
+      "randSeed": 1447247947,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "6 2",
+          "p2": "7 2"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": [
+          {
+            "cutoutBlockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+            "cutoutFlipped": true
+          }
+        ]
+      },
+      "id": "6215ee3d-60c6-465a-91bd-b48c968a884b"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 5.5,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -180.0,
+      "modifierValues": {},
+      "randSeed": 1480023713,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "5 2",
+          "p2": "6 2"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "50b2808c-8f79-446a-99cf-f8464774fcf6"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 4.5,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -180.0,
+      "modifierValues": {},
+      "randSeed": 9971388,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "4 2",
+          "p2": "5 2"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "bf302ca9-0944-4abc-bfea-5e292cabfe39"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 3.5,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -180.0,
+      "modifierValues": {},
+      "randSeed": 195877431,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "3 2",
+          "p2": "4 2"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": [
+          {
+            "cutoutBlockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+            "cutoutFlipped": true
+          }
+        ]
+      },
+      "id": "7a46bb7e-d058-4f9f-bf28-bb70982fb3bf"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 2.5,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -180.0,
+      "modifierValues": {},
+      "randSeed": 1679323176,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "2 2",
+          "p2": "3 2"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "a1c68886-26d2-4571-b842-7b8f56e848e5"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 2.0,
+        "y": 2.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -90.0,
+      "modifierValues": {},
+      "randSeed": 1593480652,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "2 3",
+          "p2": "2 2"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "412308f4-1251-4a53-812c-384adbbbbdc5"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 2.0,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 -1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "2de16590-cbaf-48e1-8830-3d14fcdd41f9"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 2.0,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 -1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "c1bc3b8b-6781-4b6c-90b1-cfaa5325979a"
+    },
+    {
+      "Version": 11,
+      "blockId": "7f71979d-28ac-4e82-adc8-8f375def8878",
+      "center": {
+        "x": 2.0,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 1\",\r\n  \"capstoneEnabled\": true\r\n}"
+      },
+      "id": "ac5fe6bb-dd38-4fc0-8e4b-4be729a7d161"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 2.0,
+        "y": 2.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "d348e939-98fb-4b96-8f4c-c657f4cb7e91"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 2.0,
+        "y": 3.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -90.0,
+      "modifierValues": {},
+      "randSeed": 479966841,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "2 4",
+          "p2": "2 3"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": [
+          {
+            "cutoutBlockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+            "cutoutFlipped": true
+          }
+        ]
+      },
+      "id": "08e7f196-4401-46c4-bd59-9085976511db"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 2.0,
+        "y": 4.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -90.0,
+      "modifierValues": {},
+      "randSeed": 556731504,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "2 5",
+          "p2": "2 4"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "fe61c040-7c86-4982-affc-1acfd383fbfc"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 2.0,
+        "y": 5.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -90.0,
+      "modifierValues": {},
+      "randSeed": 513379687,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "2 6",
+          "p2": "2 5"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": []
+      },
+      "id": "8bb231fc-fbad-404c-a487-b0ad5397bd31"
+    },
+    {
+      "Version": 11,
+      "blockId": "76fed8d2-80bb-49cb-805d-fda58b7df20e",
+      "center": {
+        "x": 2.0,
+        "y": 6.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -90.0,
+      "modifierValues": {},
+      "randSeed": 256634602,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "2 7",
+          "p2": "2 6"
+        },
+        "backBlockId": "28703bee-a9a9-420d-a4fd-26d4d5c065e7",
+        "cutouts": [
+          {
+            "cutoutBlockId": "3dac721f-f5d4-42d3-9607-32e585056faf",
+            "cutoutFlipped": true
+          }
+        ]
+      },
+      "id": "65b47d1c-2d7c-414a-bc59-318a48aa016a"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 2.0,
+        "y": 7.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 -1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "dd8f1970-f6c6-4726-80ea-8b065878eff5"
+    },
+    {
+      "Version": 11,
+      "blockId": "2f6c70ab-ef84-462d-9b85-eca029158cb0",
+      "center": {
+        "x": 2.0,
+        "y": 7.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 -1\",\r\n  \"capstoneEnabled\": true\r\n}"
+      },
+      "id": "c14ede86-8ca8-48fb-8640-5cc2a43863d0"
+    },
+    {
+      "Version": 11,
+      "blockId": "2f6c70ab-ef84-462d-9b85-eca029158cb0",
+      "center": {
+        "x": 2.0,
+        "y": 7.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "ea16697e-4e78-4c17-9334-0ea885f922e6"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 2.0,
+        "y": 7.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "5a95c3f0-b216-4d71-9d5d-e2e570b248b9"
+    },
+    {
+      "Version": 11,
+      "blockId": "e57a19c3-0579-4ffc-b624-6050e950e315",
+      "center": {
+        "x": 3.5,
+        "y": 7.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {},
+      "variantId": "bbbf980f-8b50-4e30-9ec4-00fbf60e4426",
+      "variantSetId": "403e8d8a-e834-4f6a-afda-7de520ed313c",
+      "variantRootInstanceId": "5bc3f1e7-6abc-4139-9770-52216314e0a0",
+      "randSeed": 402277925,
+      "id": "5bc3f1e7-6abc-4139-9770-52216314e0a0"
+    },
+    {
+      "Version": 11,
+      "blockId": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+      "center": {
+        "x": 2.5,
+        "y": 6.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -180.0,
+      "modifierValues": {},
+      "parentInstanceId": "5bc3f1e7-6abc-4139-9770-52216314e0a0",
+      "randSeed": 402277925,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "2 6",
+          "p2": "3 6"
+        },
+        "backBlockId": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+        "cutouts": []
+      },
+      "id": "87ebf410-b450-42ab-87b1-44db09908a7a"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 2.0,
+        "y": 6.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 -1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "14b37d67-ce8b-488e-a90b-5f062023f1c2"
+    },
+    {
+      "Version": 11,
+      "blockId": "7f71979d-28ac-4e82-adc8-8f375def8878",
+      "center": {
+        "x": 2.0,
+        "y": 6.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 -1\",\r\n  \"capstoneEnabled\": true\r\n}"
+      },
+      "id": "7ef63ed7-392b-42eb-a88e-e5d264efd3ff"
+    },
+    {
+      "Version": 11,
+      "blockId": "7f71979d-28ac-4e82-adc8-8f375def8878",
+      "center": {
+        "x": 2.0,
+        "y": 6.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "66ec9c57-1de0-42a9-ba58-929e1496ac1d"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 2.0,
+        "y": 6.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "1cd1658e-2afb-4630-917e-34760d258922"
+    },
+    {
+      "Version": 11,
+      "blockId": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+      "center": {
+        "x": 3.5,
+        "y": 6.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -180.0,
+      "modifierValues": {},
+      "parentInstanceId": "5bc3f1e7-6abc-4139-9770-52216314e0a0",
+      "randSeed": 402277925,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "3 6",
+          "p2": "4 6"
+        },
+        "backBlockId": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+        "cutouts": []
+      },
+      "id": "ffae8fc2-9990-4230-ad1c-ceef10c9b824"
+    },
+    {
+      "Version": 11,
+      "blockId": "73dfdb62-e8e6-4a9b-8e4f-0d61e2ac602e",
+      "center": {
+        "x": 4.0,
+        "y": 6.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {},
+      "id": "ebcd4629-8cec-43b8-9e58-c6061a0b8002"
+    },
+    {
+      "Version": 11,
+      "blockId": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+      "center": {
+        "x": 5.0,
+        "y": 6.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -270.0,
+      "modifierValues": {},
+      "parentInstanceId": "5bc3f1e7-6abc-4139-9770-52216314e0a0",
+      "randSeed": 402277925,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "5 6",
+          "p2": "5 7"
+        },
+        "backBlockId": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+        "cutouts": []
+      },
+      "id": "1df14395-4f0d-41d6-bb6a-8e93ccaa9f66"
+    },
+    {
+      "Version": 11,
+      "blockId": "73dfdb62-e8e6-4a9b-8e4f-0d61e2ac602e",
+      "center": {
+        "x": 5.0,
+        "y": 6.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {},
+      "id": "5ab7d599-7899-4f82-968e-84aea08c43c4"
+    },
+    {
+      "Version": 11,
+      "blockId": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+      "center": {
+        "x": 5.0,
+        "y": 7.5
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -270.0,
+      "modifierValues": {},
+      "parentInstanceId": "5bc3f1e7-6abc-4139-9770-52216314e0a0",
+      "randSeed": 402277925,
+      "basicWallModelData": {
+        "wall": {
+          "p1": "5 7",
+          "p2": "5 8"
+        },
+        "backBlockId": "53f7f346-e1ee-413f-b7b8-ac7bd5ae1f05",
+        "cutouts": []
+      },
+      "id": "df44358f-7e17-4e30-86c9-052006119ec9"
+    },
+    {
+      "Version": 11,
+      "blockId": "7f71979d-28ac-4e82-adc8-8f375def8878",
+      "center": {
+        "x": 5.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 -1\",\r\n  \"capstoneEnabled\": true\r\n}"
+      },
+      "id": "209630e8-24ba-4f71-be9b-f77a8eae88f7"
+    },
+    {
+      "Version": 11,
+      "blockId": "7f71979d-28ac-4e82-adc8-8f375def8878",
+      "center": {
+        "x": 5.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 -1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "5cf9fb54-dc3d-4a75-8726-f992aeae80d9"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 5.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "6c03f3d4-fbab-4428-97a3-05066cf65c59"
+    },
+    {
+      "Version": 11,
+      "blockId": "410ff75a-e318-487a-885a-e169bb77bb74",
+      "center": {
+        "x": 5.0,
+        "y": 8.0
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "PillarCapstoneRenderer": "{\r\n  \"offset\": \"-1 1\",\r\n  \"capstoneEnabled\": false\r\n}"
+      },
+      "id": "aac92a7f-2e84-468b-a396-921e9999824b"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 2.5,
+        "y": 2.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "4cb1fd61-65ab-443a-92a2-6f4cbede7039"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 2.5,
+        "y": 3.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "aeb9ebe2-c461-4b6d-8129-acd14f522b4d"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 3.5,
+        "y": 2.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "6f5b2f5c-7b63-4c92-a64c-bc24e6b63c29"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 3.5,
+        "y": 3.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "40bbd503-5dfb-47ea-9957-5778924b3847"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 4.5,
+        "y": 2.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "379c5539-2e13-4618-8daf-748005ecf68e"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 4.5,
+        "y": 3.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 1,\r\n  \"overlayBuildingBlockConfigs\": [\r\n    \"b0a84040-86e3-4ca5-8fca-74e4e9042e2b\"\r\n  ],\r\n  \"overlaySides\": [\r\n    1\r\n  ],\r\n  \"overlayRotations\": [\r\n    1\r\n  ]\r\n}"
+      },
+      "id": "0fb754df-93fa-426f-8fb3-879bdd1fbac7"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 5.5,
+        "y": 2.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "858ba17a-5646-4840-91ad-85d8208b528d"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 5.5,
+        "y": 3.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 1,\r\n  \"overlayBuildingBlockConfigs\": [\r\n    \"a760bb34-f963-40d7-b8ad-9d50b85b6265\"\r\n  ],\r\n  \"overlaySides\": [\r\n    1\r\n  ],\r\n  \"overlayRotations\": [\r\n    1\r\n  ]\r\n}"
+      },
+      "id": "7ca4e957-12a5-4a2a-af23-0bbbf4e3ab20"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 6.5,
+        "y": 2.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "4aa9f68a-a82f-443a-b266-c9f3e8d35bd1"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 6.5,
+        "y": 3.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "d720d8a2-32f0-40b1-8a94-2aef4fd368c2"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 7.5,
+        "y": 2.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "f777d2f1-9354-4ed8-bfb9-166fc7b11414"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 7.5,
+        "y": 3.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "6e99b1ad-d4a7-408c-97da-a343aee32c7c"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 7.5,
+        "y": 4.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "3a816b5d-43d9-4f90-abbe-6138a3379e20"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 6.5,
+        "y": 4.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 1,\r\n  \"overlayBuildingBlockConfigs\": [\r\n    \"a760bb34-f963-40d7-b8ad-9d50b85b6265\"\r\n  ],\r\n  \"overlaySides\": [\r\n    1\r\n  ],\r\n  \"overlayRotations\": [\r\n    2\r\n  ]\r\n}"
+      },
+      "id": "e3f0c9e0-f076-472f-8fb0-b31d3c378b9d"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 7.5,
+        "y": 5.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "53234e69-b5bb-43de-bf3f-8c8389296875"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 6.5,
+        "y": 5.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 1,\r\n  \"overlayBuildingBlockConfigs\": [\r\n    \"b0a84040-86e3-4ca5-8fca-74e4e9042e2b\"\r\n  ],\r\n  \"overlaySides\": [\r\n    1\r\n  ],\r\n  \"overlayRotations\": [\r\n    2\r\n  ]\r\n}"
+      },
+      "id": "d8b863eb-c4f1-4ccc-a019-04d7ba48ad2b"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 3.5,
+        "y": 4.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 1,\r\n  \"overlayBuildingBlockConfigs\": [\r\n    \"b0a84040-86e3-4ca5-8fca-74e4e9042e2b\"\r\n  ],\r\n  \"overlaySides\": [\r\n    1\r\n  ],\r\n  \"overlayRotations\": [\r\n    0\r\n  ]\r\n}"
+      },
+      "id": "2fd4a2b8-2fee-490a-a08e-b107588e343d"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 2.5,
+        "y": 4.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "c15934e4-1698-4143-b4be-00f7c8c41770"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 3.5,
+        "y": 5.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 1,\r\n  \"overlayBuildingBlockConfigs\": [\r\n    \"b0a84040-86e3-4ca5-8fca-74e4e9042e2b\"\r\n  ],\r\n  \"overlaySides\": [\r\n    1\r\n  ],\r\n  \"overlayRotations\": [\r\n    0\r\n  ]\r\n}"
+      },
+      "id": "6185b67b-2d9a-4923-844f-8c7b84679ed9"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 2.5,
+        "y": 5.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {},
+      "id": "ee246119-cebc-4ecc-aa78-6994e37ec4ef"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 7.5,
+        "y": 6.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "6798b397-7d97-4e2b-8551-9bbe47321c0f"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 6.5,
+        "y": 6.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "9cb08131-1343-482f-9dbc-7c80d8656143"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 7.5,
+        "y": 7.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "a1bbadd3-b802-4ae1-98f8-17af88d09b88"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 6.5,
+        "y": 7.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "e8053329-a17d-48fa-b0bc-1fb49765ea2d"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 5.5,
+        "y": 7.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "0c2a8598-2a3f-47af-a608-106745425775"
+    },
+    {
+      "Version": 11,
+      "blockId": "068403fb-8654-4f20-816e-a998ede1e78c",
+      "center": {
+        "x": 5.5,
+        "y": 6.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 1,\r\n  \"overlayBuildingBlockConfigs\": [\r\n    \"b0a84040-86e3-4ca5-8fca-74e4e9042e2b\"\r\n  ],\r\n  \"overlaySides\": [\r\n    1\r\n  ],\r\n  \"overlayRotations\": [\r\n    3\r\n  ]\r\n}"
+      },
+      "id": "3f923ebf-e28e-403d-bfcc-7eb23fe4298e"
+    },
+    {
+      "Version": 11,
+      "blockId": "64629343-3dab-4c86-948a-88ccd587e34a",
+      "center": {
+        "x": 2.380103,
+        "y": 2.411523
+      },
+      "height": 0.2,
+      "scale": 0.5556292,
+      "rotation": -105.739914,
+      "modifierValues": {},
+      "randSeed": 1594868290,
+      "id": "c5e031bb-fdb5-4c77-a3a0-0d8466ee7e0b"
+    },
+    {
+      "Version": 11,
+      "blockId": "1ea46876-2d5f-415c-a8c5-c87c838b6156",
+      "center": {
+        "x": 2.903006,
+        "y": 2.2248
+      },
+      "height": 0.2,
+      "scale": 0.631359339,
+      "rotation": -172.381256,
+      "modifierValues": {},
+      "randSeed": 584816371,
+      "id": "4c93211e-b67c-4ac4-ab94-70128710147f"
+    },
+    {
+      "Version": 11,
+      "blockId": "1ea46876-2d5f-415c-a8c5-c87c838b6156",
+      "center": {
+        "x": 3.33331323,
+        "y": 2.74263287
+      },
+      "height": 0.2,
+      "scale": 1.49092,
+      "rotation": 26.0744953,
+      "modifierValues": {},
+      "randSeed": 1082420801,
+      "id": "78300ea5-bb0e-45dc-8c84-bd1495980b26"
+    },
+    {
+      "Version": 11,
+      "blockId": "8551fd1b-3758-479e-9b0c-bf40364161f6",
+      "center": {
+        "x": 2.55784655,
+        "y": 3.58659267
+      },
+      "height": 0.2,
+      "scale": 0.5039271,
+      "rotation": -276.102448,
+      "modifierValues": {},
+      "randSeed": 1639966583,
+      "id": "10e43ac0-3978-4f95-a0ef-ccfc6baa5ace"
+    },
+    {
+      "Version": 11,
+      "blockId": "1ea46876-2d5f-415c-a8c5-c87c838b6156",
+      "center": {
+        "x": 5.70587349,
+        "y": 5.883567
+      },
+      "height": 0.2,
+      "scale": 0.640458941,
+      "rotation": 118.340485,
+      "modifierValues": {},
+      "randSeed": 1239819525,
+      "id": "12d4165e-61ce-4a44-89cc-7c45d9d854ac"
+    },
+    {
+      "Version": 11,
+      "blockId": "62c4b1a4-d5d1-4685-b15d-5099cbe79a73",
+      "center": {
+        "x": 5.467227,
+        "y": 6.39877033
+      },
+      "height": 0.2,
+      "scale": 0.62213856,
+      "rotation": 29.4024277,
+      "modifierValues": {},
+      "randSeed": 1251044361,
+      "id": "753b894e-b4f0-42fe-8a90-5eed8678e4d6"
+    },
+    {
+      "Version": 11,
+      "blockId": "62c4b1a4-d5d1-4685-b15d-5099cbe79a73",
+      "center": {
+        "x": 5.698627,
+        "y": 7.27868366
+      },
+      "height": 0.2,
+      "scale": 1.222197,
+      "rotation": 99.69276,
+      "modifierValues": {},
+      "randSeed": 63447504,
+      "id": "749cb7e5-4c0c-4d5e-bede-53c40ff96488"
+    },
+    {
+      "Version": 11,
+      "blockId": "08322cb1-3a01-4ccd-8be4-ddbfb93c54e9",
+      "center": {
+        "x": 2.51348162,
+        "y": 7.46
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {
+        "EnableLightModifierRenderer": "false"
+      },
+      "attachmentPointDir": {
+        "x": 0.0,
+        "y": 1.0
+      },
+      "isAttached": true,
+      "attachedWall": {
+        "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+        "wallPieceSection": "3 8 2 8 0;0;1"
+      },
+      "randSeed": 297273441,
+      "id": "f5f53113-5725-4fb9-9b81-ba8e64f81fd4"
+    },
+    {
+      "Version": 11,
+      "blockId": "08322cb1-3a01-4ccd-8be4-ddbfb93c54e9",
+      "center": {
+        "x": 7.486519,
+        "y": 2.54
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 180.0,
+      "modifierValues": {
+        "EnableLightModifierRenderer": "false"
+      },
+      "attachmentPointDir": {
+        "x": 0.0,
+        "y": -1.0
+      },
+      "isAttached": true,
+      "attachedWall": {
+        "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+        "wallPieceSection": "7 2 8 2 0;0;1"
+      },
+      "randSeed": 1845567181,
+      "id": "f28e1c14-802a-4f76-955d-8dc9cc82de99"
+    },
+    {
+      "Version": 11,
+      "blockId": "460a415d-e517-4d56-8a33-becd476445c0",
+      "center": {
+        "x": 5.08358669,
+        "y": 2.77341
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {},
+      "randSeed": 1347108542,
+      "placedWithCollisionsEnabled": false,
+      "id": "e57fc54e-6339-4bbc-b4c3-1f6100390740"
+    },
+    {
+      "Version": 11,
+      "blockId": "b74375ab-a303-4193-8f09-8c253cad545f",
+      "center": {
+        "x": 3.67157221,
+        "y": 4.13169575
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 337.5,
+      "modifierValues": {},
+      "randSeed": 2076647938,
+      "placedWithCollisionsEnabled": false,
+      "id": "931889f1-f902-4da1-843a-4f14c7199632"
+    },
+    {
+      "Version": 11,
+      "blockId": "b74375ab-a303-4193-8f09-8c253cad545f",
+      "center": {
+        "x": 5.232752,
+        "y": 3.49050951
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 337.5,
+      "modifierValues": {},
+      "randSeed": 1850937142,
+      "placedWithCollisionsEnabled": false,
+      "id": "49e9ed7b-aa02-4d9d-87bf-277344a6fd58"
+    },
+    {
+      "Version": 11,
+      "blockId": "0cc75d14-b34b-4bf5-88ed-4f0f3bebf85d",
+      "center": {
+        "x": 4.42898464,
+        "y": 2.6992147
+      },
+      "height": 0.90952605,
+      "scale": 1.0,
+      "modifierValues": {},
+      "parentInstanceId": "e57fc54e-6339-4bbc-b4c3-1f6100390740",
+      "randSeed": 987248723,
+      "placedWithCollisionsEnabled": false,
+      "id": "2048a905-006a-4248-ad5d-b453d0a2a049"
+    },
+    {
+      "Version": 11,
+      "blockId": "d699c788-302b-4243-85fb-4653109993ea",
+      "center": {
+        "x": 5.84404469,
+        "y": 2.51266313
+      },
+      "height": 0.90952605,
+      "scale": 1.0,
+      "modifierValues": {},
+      "parentInstanceId": "e57fc54e-6339-4bbc-b4c3-1f6100390740",
+      "randSeed": 936011645,
+      "placedWithCollisionsEnabled": false,
+      "id": "653cadf2-d4da-4618-b652-f62a79d9dffd"
+    },
+    {
+      "Version": 11,
+      "blockId": "7570a5db-a6d3-48a8-a577-7a3f2769f9c4",
+      "center": {
+        "x": 5.683095,
+        "y": 2.78566527
+      },
+      "height": 0.90952605,
+      "scale": 1.0,
+      "modifierValues": {},
+      "parentInstanceId": "e57fc54e-6339-4bbc-b4c3-1f6100390740",
+      "randSeed": 554471056,
+      "placedWithCollisionsEnabled": false,
+      "id": "25681985-90b0-4669-846b-114920eae77f"
+    },
+    {
+      "Version": 11,
+      "blockId": "8d9126c1-b19f-4fa3-a55f-140cd009e861",
+      "center": {
+        "x": 4.66558552,
+        "y": 2.94036651
+      },
+      "height": 0.90952605,
+      "scale": 1.0,
+      "rotation": 112.5,
+      "modifierValues": {},
+      "parentInstanceId": "e57fc54e-6339-4bbc-b4c3-1f6100390740",
+      "randSeed": 764567986,
+      "placedWithCollisionsEnabled": false,
+      "id": "0246d13c-d2d5-4df6-a7c9-eeb440864c22"
+    },
+    {
+      "Version": 11,
+      "blockId": "312a6dfd-70f7-4ae6-bb2b-2b7c34235308",
+      "center": {
+        "x": 3.41349125,
+        "y": 3.55177665
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {},
+      "randSeed": 1223037857,
+      "id": "c4757a1f-86ef-4c38-8aaa-b193f4a8cc82"
+    },
+    {
+      "Version": 11,
+      "blockId": "d98cc25c-69a5-4e58-a2a9-23a5ece80590",
+      "center": {
+        "x": 4.7910223,
+        "y": 2.6121037
+      },
+      "height": 0.90952605,
+      "scale": 0.889012754,
+      "modifierValues": {},
+      "parentInstanceId": "e57fc54e-6339-4bbc-b4c3-1f6100390740",
+      "randSeed": 307959851,
+      "placedWithCollisionsEnabled": false,
+      "id": "0cd81038-7ec1-4f85-9782-cc06425af7db"
+    },
+    {
+      "Version": 11,
+      "blockId": "1ec733ff-7b23-4339-9b70-2d517f098548",
+      "center": {
+        "x": 6.198865,
+        "y": 5.79567766
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 382.5,
+      "modifierValues": {},
+      "randSeed": 751452256,
+      "id": "db5abc23-eabe-425d-a998-d931cd62a9bd"
+    },
+    {
+      "Version": 11,
+      "blockId": "937e703e-42b8-4b5b-b539-fd1516a9a951",
+      "center": {
+        "x": 5.99891138,
+        "y": 3.54657936
+      },
+      "height": 0.225000381,
+      "fixedHeight": true,
+      "scale": 1.0,
+      "rotation": 472.5,
+      "modifierValues": {},
+      "randSeed": 1210205385,
+      "placedWithCollisionsEnabled": false,
+      "id": "6d76acf4-a411-46d8-8103-1af3ce38000d"
+    },
+    {
+      "Version": 11,
+      "blockId": "784277bb-9b39-4fde-810a-20425bca3179",
+      "center": {
+        "x": 7.05237675,
+        "y": 3.39117074
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 22.5,
+      "modifierValues": {},
+      "randSeed": 1748563189,
+      "placedWithCollisionsEnabled": false,
+      "id": "d0287f0d-b9d4-4ba9-b10e-cc918af23d0d"
+    },
+    {
+      "Version": 11,
+      "blockId": "784277bb-9b39-4fde-810a-20425bca3179",
+      "center": {
+        "x": 7.28181458,
+        "y": 5.648838
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {},
+      "randSeed": 1795118023,
+      "placedWithCollisionsEnabled": false,
+      "id": "26943af7-a2eb-4c5a-98b6-e212de0d1152"
+    },
+    {
+      "Version": 11,
+      "blockId": "784277bb-9b39-4fde-810a-20425bca3179",
+      "center": {
+        "x": 3.1565218,
+        "y": 4.82745
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 67.5,
+      "modifierValues": {},
+      "randSeed": 1943739049,
+      "placedWithCollisionsEnabled": false,
+      "id": "9fd2da87-c32f-434d-8abf-686c63bf466c"
+    },
+    {
+      "Version": 11,
+      "blockId": "aa8abfe4-0fec-4392-97d0-65064919b334",
+      "center": {
+        "x": 5.15937376,
+        "y": 3.001258
+      },
+      "height": 0.90952605,
+      "scale": 0.0441996269,
+      "rotation": -540.0,
+      "modifierValues": {},
+      "parentInstanceId": "e57fc54e-6339-4bbc-b4c3-1f6100390740",
+      "randSeed": 2005217520,
+      "placedWithCollisionsEnabled": false,
+      "id": "ae101cdf-076b-4249-b6e4-3ef538c564ae"
+    },
+    {
+      "Version": 11,
+      "blockId": "a760bb34-f963-40d7-b8ad-9d50b85b6265",
+      "center": {
+        "x": 5.5,
+        "y": 4.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "f1699f5d-7790-4625-96e2-0a72278e81f5"
+    },
+    {
+      "Version": 11,
+      "blockId": "62c4b1a4-d5d1-4685-b15d-5099cbe79a73",
+      "center": {
+        "x": 7.40957928,
+        "y": 7.396938
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -112.5,
+      "modifierValues": {},
+      "randSeed": 2048192709,
+      "placedWithCollisionsEnabled": false,
+      "id": "09489da9-a637-4d61-81bc-6fa2cc6986e0"
+    },
+    {
+      "Version": 11,
+      "blockId": "8bb9ca91-b592-4cd8-9036-9dcea15e6325",
+      "center": {
+        "x": 6.65564346,
+        "y": 6.81846428
+      },
+      "height": 0.2,
+      "scale": 0.7621154,
+      "rotation": 132.902924,
+      "modifierValues": {},
+      "randSeed": 1046432083,
+      "placedWithCollisionsEnabled": false,
+      "id": "5c167c86-051d-42b7-b35f-85067b29daf3"
+    },
+    {
+      "Version": 11,
+      "blockId": "4976fd89-5a60-46fe-af32-e1ac1eb0b9dd",
+      "center": {
+        "x": 2.1409142,
+        "y": 2.3470552
+      },
+      "height": 0.2,
+      "scale": 1.05768251,
+      "rotation": 202.5,
+      "modifierValues": {},
+      "randSeed": 1068935029,
+      "placedWithCollisionsEnabled": false,
+      "id": "d11e639b-1b00-4136-be23-4f73d2727f59"
+    },
+    {
+      "Version": 11,
+      "blockId": "4976fd89-5a60-46fe-af32-e1ac1eb0b9dd",
+      "center": {
+        "x": 6.90876865,
+        "y": 2.324094
+      },
+      "height": 0.2,
+      "scale": 1.00126231,
+      "modifierValues": {},
+      "randSeed": 1562178688,
+      "placedWithCollisionsEnabled": false,
+      "id": "05160691-6095-4f1d-80e7-2efd830ac0e0"
+    },
+    {
+      "Version": 11,
+      "blockId": "4976fd89-5a60-46fe-af32-e1ac1eb0b9dd",
+      "center": {
+        "x": 6.557091,
+        "y": 7.89521027
+      },
+      "height": 0.2,
+      "scale": 0.902177632,
+      "rotation": -112.5,
+      "modifierValues": {},
+      "randSeed": 757352944,
+      "placedWithCollisionsEnabled": false,
+      "id": "adc85164-0679-4a8e-85d9-aee8d7d817bf"
+    },
+    {
+      "Version": 11,
+      "blockId": "4976fd89-5a60-46fe-af32-e1ac1eb0b9dd",
+      "center": {
+        "x": 4.099634,
+        "y": 8.204022
+      },
+      "height": 0.2,
+      "scale": 0.972539067,
+      "modifierValues": {},
+      "randSeed": 217577636,
+      "placedWithCollisionsEnabled": false,
+      "id": "73600cab-1695-48c2-b093-7cf5c1d68d09"
+    },
+    {
+      "Version": 11,
+      "blockId": "e79d0b9d-2aa0-4b0a-8e46-641b3b53edc5",
+      "center": {
+        "x": 2.21791267,
+        "y": 5.711559
+      },
+      "height": 1.117234,
+      "scale": 1.03819132,
+      "rotation": 360.0,
+      "modifierValues": {},
+      "parentInstanceId": "49dbae80-a207-49ba-b77e-fa4fa7000f54",
+      "randSeed": 1594213194,
+      "placedWithCollisionsEnabled": false,
+      "id": "fdf8d5ae-2dcc-426e-a425-70895a9fd47e"
+    },
+    {
+      "Version": 11,
+      "blockId": "f74afa2d-88fd-4cf4-bafe-673a4c7d7ec8",
+      "center": {
+        "x": 3.73642635,
+        "y": 2.40371346
+      },
+      "height": 0.831932,
+      "scale": 0.9669139,
+      "modifierValues": {},
+      "parentInstanceId": "78300ea5-bb0e-45dc-8c84-bd1495980b26",
+      "randSeed": 408140900,
+      "placedWithCollisionsEnabled": false,
+      "id": "2f460751-a374-43d1-b67d-53a44f68f6a6"
+    },
+    {
+      "Version": 11,
+      "blockId": "f74afa2d-88fd-4cf4-bafe-673a4c7d7ec8",
+      "center": {
+        "x": 7.52628231,
+        "y": 4.50559139
+      },
+      "height": 0.2,
+      "scale": 1.01482272,
+      "rotation": 360.0,
+      "modifierValues": {},
+      "randSeed": 1248682281,
+      "placedWithCollisionsEnabled": false,
+      "id": "616a6a9c-e0b1-44ed-8de4-5c4763ee074a"
+    },
+    {
+      "Version": 11,
+      "blockId": "500cc9ee-959e-42a0-8b4a-59455d67601c",
+      "center": {
+        "x": 2.54,
+        "y": 7.49255848
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": -90.0,
+      "modifierValues": {},
+      "attachmentPointDir": {
+        "x": -1.0,
+        "y": 0.0
+      },
+      "isAttached": true,
+      "attachedWall": {
+        "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+        "wallPieceSection": "2 8 2 7 0;0;1"
+      },
+      "randSeed": 547762455,
+      "id": "190afe09-a900-46e8-807c-be874e2fba21"
+    },
+    {
+      "Version": 11,
+      "blockId": "500cc9ee-959e-42a0-8b4a-59455d67601c",
+      "center": {
+        "x": 4.49255943,
+        "y": 7.45999956
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "modifierValues": {},
+      "attachmentPointDir": {
+        "x": 0.0,
+        "y": 1.0
+      },
+      "isAttached": true,
+      "attachedWall": {
+        "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+        "wallPieceSection": "5 8 4 8 0;0;1"
+      },
+      "randSeed": 441079029,
+      "id": "8bfca3d6-7c3d-47a7-9ba6-90aaa881177d"
+    },
+    {
+      "Version": 11,
+      "blockId": "500cc9ee-959e-42a0-8b4a-59455d67601c",
+      "center": {
+        "x": 7.46,
+        "y": 5.50744152
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 90.0,
+      "modifierValues": {},
+      "attachmentPointDir": {
+        "x": 1.0,
+        "y": 0.0
+      },
+      "isAttached": true,
+      "attachedWall": {
+        "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+        "wallPieceSection": "8 5 8 6 0;0;1"
+      },
+      "randSeed": 471307240,
+      "id": "ec1f3bcb-7062-4650-9ed5-7872910ef02e"
+    },
+    {
+      "Version": 11,
+      "blockId": "500cc9ee-959e-42a0-8b4a-59455d67601c",
+      "center": {
+        "x": 4.507441,
+        "y": 2.54
+      },
+      "height": 0.2,
+      "scale": 1.0,
+      "rotation": 180.0,
+      "modifierValues": {},
+      "attachmentPointDir": {
+        "x": 0.0,
+        "y": -1.0
+      },
+      "isAttached": true,
+      "attachedWall": {
+        "foundationId": "4eee7d98-1f00-41c8-a812-159daffb98ab",
+        "wallPieceSection": "4 2 5 2 0;0;1"
+      },
+      "randSeed": 676491367,
+      "id": "f9dc45ae-5bec-4412-be71-46f8be5ad86a"
+    },
+    {
+      "Version": 11,
+      "blockId": "b0a84040-86e3-4ca5-8fca-74e4e9042e2b",
+      "center": {
+        "x": 4.5,
+        "y": 4.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "a50cc0ad-3b10-48a2-9e66-e66e96bc34bc"
+    },
+    {
+      "Version": 11,
+      "blockId": "b0a84040-86e3-4ca5-8fca-74e4e9042e2b",
+      "center": {
+        "x": 4.5,
+        "y": 5.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {
+        "TerrainBlendMapModifierRenderer": "{\r\n  \"overlayCount\": 0,\r\n  \"overlayBuildingBlockConfigs\": [],\r\n  \"overlaySides\": [],\r\n  \"overlayRotations\": []\r\n}"
+      },
+      "id": "0ab2831f-91fd-4c2d-b120-26bbebcca016"
+    },
+    {
+      "Version": 11,
+      "blockId": "b0a84040-86e3-4ca5-8fca-74e4e9042e2b",
+      "center": {
+        "x": 5.5,
+        "y": 5.5
+      },
+      "height": 0.2001,
+      "scale": 1.0,
+      "modifierValues": {},
+      "id": "37de9b4b-c1c0-4275-9668-cac887592155"
+    }
+  ],
+  "binaryData": {},
+  "usedWorkshopItems": {},
+  "version": 4
+}

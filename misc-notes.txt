@@ -1,0 +1,27 @@
+Magic Items
+
+Prologue: Dagger +1 (Uncommon)
+Abandoned Village: Pearl of Power (Uncommon),
+    Flame Tongue Longsword (Rare)
+Crypt: Morning Star variation (Legendary),
+    Sentinel's Shield (Uncommon)
+Mansion Gate: Guardian Emblem (Uncommon)
+Shrine: Blazing Oathkeeper (Legendary),
+    Ring of Mind Shielding (Uncommon),
+Sunrise Keep: Ring of Protection (Rare),
+    Amulet of the Devout +1 (Uncommon),
+    Shortsword +1 (Uncommon),
+    Cloak of Protection (Uncommon)
+Watchtower: 2 items per request (Uncommon/Rare),
+    Arcane Grimoire +1/2 (Uncommon/Rare)
+Minor Locations: Rod of the Pact Keeper +1 (Uncommon),
+    Bloodwell Vial +1 (Uncommon)
+Finale: Belt of Hill Giant Strength (Rare)
+
+Buffs
+
+Abandoned Village: training by Renvel (only if left alive, +10 maximum hit points OR proficiency/expertise in two skills of choice (STR/DEX/WIS))
+Crypt: feat of choice
+Mansion Gate: nature blessing by Anariet (only if left alive)
+Shrine: one level of choice
+Sunrise Keep: one level of Warlock Genie (only if pact with Neshat is sealed)
