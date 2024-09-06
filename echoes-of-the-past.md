@@ -136,9 +136,9 @@ Abandoned Village has the following points of interest.
 
 Renvel's House, good condition, west part of the village. Renvel lives there. Will meet the group and offer a shelter, maybe some resources.
 
-Well, center of the village. WIS (Perception) check DC10 will help to find a clover leaf cut on one of the bricks. Toss 1G to get heroic inspiration, only works once a day. On the bottom, 20G can be found, but going down prevents party from getting heroic inspiration.
+Well, center of the village. WIS (Perception) check DC10 will help to find a clover leaf cut on one of the bricks. Toss 1G to get heroic inspiration, only works once a day. On the bottom, 100G can be found, but going down prevents party from getting heroic inspiration.
 
-Merchant's house, east part of the village, poor condition. Locked chest (DC15) contains 300G.
+Merchant's house, east part of the village, poor condition. Locked chest (DC15) contains 800G.
 
 House of Derek and Maya, ruined, south. Has a diary page written by Maya and Flower Ornated Lockbox (DC25 or Flower Ornated Key, found randomly in the Wood of Echoes). Note says the following:
 
@@ -190,7 +190,7 @@ _Entrance to the crypt of Sehanine_
 
 Crypt has the following parts.
 
-Main burial chamber, south part. First big room in the crypt, has several tombs in it. Disturbing the dead will summon ghosts for a fight. Inside 200G can be found.
+Main burial chamber, south part. First big room in the crypt, has several tombs in it. Disturbing the dead will summon ghosts for a fight. Inside 400G can be found.
 
 Lord's burial chamber, east part. Locked by stone door. Has Sentinel Shield laying on the stone tomb, touching it triggers a fight with two ghosts and three skeleton lords.
 
@@ -203,7 +203,7 @@ Worshipers room, central part. Has a statue of a man closing his eye, like tryin
 
 After illuminating the statue with Slumbering Morning Star, the blue barrier will disappear and weapon will turn into the Awakened Morning Star.
 
-Treasure room, south-west part. Opening the locked door triggers Cloudkill trap. Has a total of 3500G in treasures, but looting it will force the fight with the Judge later.
+Treasure room, south-west part. Opening the locked door triggers Cloudkill trap. Has a total of 5000G in treasures, but looting it will force the fight with the Judge later.
 
 Hall of Trials, north part. Final trial will happen here.
 
@@ -274,7 +274,7 @@ Fungal Cave has the following points of interest.
 
 Infested remains, south-east part. Inspecting them triggers the fight with one fungi abomination, four fungi hunters and three fungal zombies. Zombies can be looted for Guardian Emblem.
 
-Treasure chest, it the river, east part. Contains 250G, Potion of Healing (3) and a servant's note with the following text:
+Treasure chest, it the river, east part. Contains 400G, Potion of Healing (2), Potion of Clairvoyance and a servant's note with the following text:
 
 >I don't like what's happening here, at the lord's house. Everyone is getting suspicious, gossiping about his daughter. I am planning to leave soon, but before that, I have to hide my belongings somewhere safe.
 
@@ -352,7 +352,7 @@ Small cave - hall in the wall leads to a cave filled with luminescent fungi. Und
 
 Library - has a secret door to treasury (WIS (Perceprtion) DC 18).
 
-Treasury - contains 6000G worth of valuables in total and Amulet of the Devout +1. Amulet lies on a pedestal, and lifting it will trigger magic trap dealing everyone who can see it 4d8 Radiant damage (WIS (Perception) check DC20 to spot, can be deactivated only by dispelling magic from the pedestal). Connected to library, also can be reached from chapel but cannot return back.
+Treasury - contains 5000G worth of valuables in total and Amulet of the Devout +1. Amulet lies on a pedestal, and lifting it will trigger magic trap dealing everyone who can see it 4d8 Radiant damage (WIS (Perception) check DC20 to spot, can be deactivated only by dispelling magic from the pedestal). Connected to library, also can be reached from chapel but cannot return back.
 
 ### Meeting Neshat
 
@@ -393,7 +393,7 @@ Entrance, south part.
 
 Chapel, east part. Has a Ring of Mind Shielding laying on the pedestal. Taking this ring will trigger fight against ghosts/undeads. Attuning to this ring will reveal that it is inhabited by the spirit of lady Tinuviel, wife of lord Eavalur. She will talk in Elvish, revealing her name, her past of being not welcome by her husband for giving a birth to a daughter. She was praying for her dead friend Quenya, when something killed her, and her spirit was locked in the ring only knowing darkness and emptyness since. She will ask the party to check on the tree she planted on the graveyard as a part of ritual to honor Quenya's memory. Then she promises to show the way to the second gift.
 
-Treasure room, east part, behind the secret door. Contains 2500G in treasures.
+Treasure room, east part, behind the secret door DC20. Contains 4000G in treasures.
 
 Graveyard, west part. Has a giant oak growing among the graves, and a lot of daisies near it's roots. If someone is wearing the Ring of Mind Shielding, the lady will try to take one of the flowers by character's hand (CHA saving throw DC20 to resist). If character touches the flowers, ghosts and undead will appear. After the interaction, lady will say "Gift is hidden beneath the foot of The Protector, but beware those who sworn to him".
 
@@ -434,7 +434,7 @@ Looting the corpse will give one Potion of Greater Healing and a ring with famil
 
 ### Exploring Watchtower
 
-Ground level has a chest hidden behind the tower in spiderweb, contains 800G and Thieve's Tools.
+Ground level has a chest hidden behind the tower in spiderweb, contains 800G and Potion of Growth.
 
 There is some rusty equipment inside the tower, and a way upstairs.
 
