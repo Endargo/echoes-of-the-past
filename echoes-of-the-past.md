@@ -90,7 +90,7 @@ There will be one more chance to get the watch, if players didn't get it before 
 
 ## Road to the Wood of Echoes
 
-In the morning, your travels begin. Seimur greets the party and invites to enter the cart. The cab rides for about 3-4 hours before stumbling over Elturgard knights patrolling the area. The group consists of three Vengeance paladins, their squires and one warpriest of Tyr. Seeing them, Seimur will hide his head under the hood and try to remain silent.
+In the morning, your travels begin. Seimur greets the party and invites to enter the cart. The cab rides for about 3-4 hours before stumbling over Elturgard knights patrolling the area. The group consists of three Vengeance paladins, their squires and one priest of Lathander. Seeing them, Seimur will hide his head under the hood and try to remain silent.
 
 ![Elturgard Patrol](img/chars/elturgard-patrol.png)
 _Elthurgard patrol_
@@ -560,7 +560,7 @@ Only Grung and Yuan-Ti will recognise Yuan-ti and their racial traits, other rac
 |Dancing Sun - medium elf, neutral|20AC (natural armor), Bludgeoning/Piercing/Slashing (Resistance), Fire (Immunity), Charmed (Immunity), Frightened (Immunity)|125|45ft|13/20/15/11/16/14|STR +4, CHA +6|Acrobatics +8|-|Common, Elven (can't speak)|9|<ul><li>_Multiattack (action)._ Dancing Sun makes two melee attacks with flaming scimitars, 5ft reach, +9 bonus, one target. Hit: 3d6 + 5 Fire.</li><li>_Radiant Retribution (action)._ Dancing Sun  raises crossed scimitars to emit harmful light. Every creature of choice in 40ft radius who can see the light makes DEX saving throw DC17 or becomes Blinded for 1 minute and takes 4d8 Radiant damage (half of that if save if successful).</li><li>_Divine Grace (reaction)._ Dancing Sun can increase his AC by 5 against one weapon attack as a reaction. If the attack misses and attacker is within 5ft, Dancing Sun can make one attack agaist it.</li><li>_Swift Fangs (special)._ Dancing Sun makes attack of opportunity without spending his reaction.</li><li>_Spectral Weapon (special)._ Dancing Sun cannot be disarmed.</li><li>_Ethereal Dance (special)._ Dancing Sun imposes a disadvantage when receiving an attack of opportunity.</li></ul>|TO DO|
 |Elthurgard Paladin - medium half-elf, lawful good|19AC (full plate, shield)|75|30ft|18/10/16/9/12/15|WIS +5|Athletics +7, Intimidation +5|Darkvision 60ft|Common, Elvish|7|<ul><li>_Multittack (action)._ Paladin makes two melee attacks with a warhammer, 5ft reach, +7 bonus, one target. Hit: 1d8 + 5 Bludgeoning.</li><li>_Magic (action)._ Paladin can cast same spells as level 7 Paladin of Vengeance, with +6 modifier.</li><li>_Divine Smite (special)._ Once per turn, if weapon attack hits the target, Paladin can deal additional 2d8 Radiant damage.</li></ul>|TO DO|
 |Elthurgard Squire - medium human, lawful good|15AC (ring mail)|45|30ft|14/11/14/9/10/15|STR +4, WIS +3|Athletics +5|-|Common|5|<ul><li>_Multittack (action)._ Squire makes two melee attacks with a longsword, 5ft reach, +5 bonus, one target. Hit: 1d8 + 3 Slashing.</li><li>_Second Wind (action)._ Once per fight, Squire can restore 1d10 + 6 hit points.</li></ul>|TO DO|
-|Elthurgard Warpriest - medium human, lawful good|18AC (chainmail, shield)|65|30ft|15/11/16/8/16/11|WIS +6, CON +4|Religion +5|-|Common, Celestial|7|<ul><li>_Attack (action)._ Warpriest makes one melee attack with a mace, 5ft reach, +5 bonus, one target. Hit: 1d6 + 4 Bludgeoning.</li><li>_Magic (action)._ Warpriest can cast same spells as level 7 Priest, Domain of War, with +8 modifier.</li><li>_Divine Strike (special)._ If weapon attack hits the target, Warpriest can deal additional 1d8 Radiant damage.</li></ul>|TO DO|
+|Elthurgard Warpriest - medium human, lawful good|18AC (chainmail, shield)|65|30ft|15/11/16/8/16/11|WIS +6, CON +4|Religion +5|-|Common, Celestial|7|<ul><li>_Attack (action)._ Warpriest makes one melee attack with a mace, 5ft reach, +5 bonus, one target. Hit: 1d6 + 4 Bludgeoning.</li><li>_Magic (action)._ Warpriest can cast same spells as level 7 Priest, Domain of Light/War, with +8 modifier.</li><li>_Divine Strike (special)._ If weapon attack hits the target, Warpriest can deal additional 1d8 Radiant damage.</li></ul>|TO DO|
 |Fungal Bat - medium beast, unaligned|13AC (natural armor)|33|10ft, Fly 60ft|15/16/11/2/12/6|-|-|Blindsight 60ft|Common|5|<ul><li>_Attack (action)._ Giant Bat makes one melee attacks with a bite, 5ft reach, +5 bonus, one target. Hit: 1d6 + 4 Piercing + 1d6 Necrotic.</li><li>_Fungal Infestation (special)._ Creature bitten by Fungal Bat makes CON saving throw DC14. If it fails, it becomes slowed for 1 minute, it's speed is halved, it can only make action or bonus action on it's turn, and can't use reactions. Creature can repeat saving throw at the end of it's turn.</li></ul>|TO DO|
 |Fungal Zombie - medium undead, neutral evil|12AC (natural armor), Fire (Vulnerability), Necrotic (Resistance), Poison (Immunity), Poisoned (Immunity)|55|25ft|15/11/17/6/12/3|-|-|Darkvision 30ft|-|5|<ul><li>_Attack (action)._ Fungal Zombie makes one biting attack, 5ft reach, +5 bonus, one target. Hit: 1d6 + 4 Piercing + 1d6 Necrotic.</li><li>_Fungal Infestation (special)._ Creature bitten by Fungal Zombie makes CON saving throw DC14. If it fails, it becomes slowed for 1 minute, it's speed is halved, it can only make action or bonus action on it's turn, and can't use reactions. Creature can repeat saving throw at the end of it's turn.</li></ul>|TO DO|
 |Fungi Abomination - big plant, unaligned|17AC (natural armor)|65|30ft|17/14/15/9/10/8|STR +5, CHA +4|-|Darkvision 90ft|-|7|<ul><li>_Multiattack (action)._ Fungi Abomination makes two attacks with it's tentacles, 15ft reach, +8 bonus, one target. Hit: 2d6 + 3 Bludgeoning + 1d6 Acid.</li><li>_Cave Hunter (action)._ Fungi Abomination can attempt to restrain a target up to Large size within 15ft range (DEX save DC14).</li><li>_Devour (action)._ If there is a creature within 30ft which Fungi Abomination can see, is not an Undead and is grappled by Cave Hunter's tentacles, Fungi Abomination can instantly teleport to it an make three regular attacks. If this action lowers creature hit points to 0, Fungi Abomination swallows it, adding one failure to death saving throw count at the end of each turn.</li></ul>|TO DO|
@@ -597,11 +597,11 @@ This map depicting fogged Wood of Echoes is surprisingly detailed
 
 ## Awakened Morning Star
 
-_Weapon, very rare (requires attunement)_
+_Weapon, very rare_
 
 You have +2 bonus to attack and damage rolls made with this magic weapon.
 
-___Shining Star.___ Artifact emits bright, almost pure white light in a 30ft radius and dim light for additional 30ft.
+___Starlight.___ Artifact emits bright, almost pure white light in a 15ft radius and dim light for additional 15ft.
 
 ## Blazing Oathkeeper
 
@@ -630,15 +630,15 @@ _Miscellaneous, common_
 
 Small key, decorated with fine flower pattern. 
 
-## Seimur's Pocket Watch
-_Adventuring gear, uncommon_
-
-Family relic, given to Seimur by his dad. Shows time (who'd guess?).
-
 ## Fey Lantern
 _Wondrous item, rare_
 
 Looks like a regular lantern, but emits strange blue light. Somehow it doesn't even help to see in the dark.
+
+## Gem of Wishes
+_Wondrous item, rare_
+
+As an Action, you can crumble this gem, instanty getting effect of a spell which is level 3 of below.
 
 ## Radiant Morning Star
 
@@ -646,9 +646,14 @@ _Weapon, legendary (requires attunement)_
 
 You have +3 bonus to attack and damage rolls made with this magic weapon.
 
-___Shining Star.___ Artifact emits bright, almost pure white light in a 30ft radius and dim light for additional 30ft.
+___Starlight.___ Artifact emits bright, almost pure white light in a 30ft radius and dim light for additional 30ft.
 
-___Scorching Starlight.___ Once per turn, when you roll for Radiant damage, you can roll an additional 1d6 against one creature covered in Shining Starlight.
+___Star Fury.___ Once per turn, when you roll for Radiant damage, you can roll an additional 1d6 against one creature covered in Shining Starlight.
+
+## Seimur's Pocket Watch
+_Adventuring gear, uncommon_
+
+Family relic, given to Seimur by his dad. Shows time (who'd guess?).
 
 ## Shard of the Morning Star
 
@@ -656,19 +661,19 @@ _Wondrous item, legendary (requires attunement)_
 
 Tiny glowing crystal shard tied to the piece of rope, forming a handmade necklace.
 
-___Shining Star.___ Artifact emits bright, almost pure white light in a 30ft radius and dim light for additional 30ft.
+___Starlight.___ Artifact emits bright, almost pure white light in a 30ft radius and dim light for additional 30ft.
 
 ___Blessing of the Fey.___ You become immune to being charmed or frightened, if you are a Fey, Elf or have Fey Ancestry racial trait.
 
-___Scorching Starlight.___ Once per turn, when you roll for Radiant damage, you can roll an additional 1d6 against one creature covered in Shining Starlight.
+___Star Fury.___ Once per turn, when you roll for Radiant damage, you can roll an additional 1d6 against one creature covered in Starlight.
 
 ## Slumbering Morning Star
 
-_Weapon, rare (requires attunement)_
+_Weapon, rare_
 
 You have +1 bonus to attack and damage rolls made with this magic weapon.
 
-___Shining Star.___ Artifact emits bright, almost pure white light in a 30ft radius and dim light for additional 30ft.
+___Starlight.___ Artifact emits bright, almost pure white light in a 15ft radius and dim light for additional 15ft.
 
 # Appendix C. Decision Tables
 
@@ -682,12 +687,12 @@ During long rests, you can roll d20 and use the following table to determine ran
 |11|Rats eat 1d4 rations|
 |12|Neshat visits the pact keeper (if pact is sealed)|
 |13|Elven spirits wake one of the adventurers up and reveal one random minor location on the map|
-|14|Elven spirits don't allow players to rest, giving everyone one level of exaustion|
-|15|Shooting star grants inspiration|
-|16|
-|17|
-|18|
-|19|Random +1 weapon turns into the weapon of Vengeance and instantly attunes to a wearer, being posessed by a spirit|
+|14|Elven spirits interrupt the rest, giving everyone one level of exaustion|
+|15|Shooting star grants Gem of Wishes|
+|16|Pleasant childhood dream grants inspiration|
+|17|Unpleasant childhood dream grants disadvantage on all INT/WIS/CHA saving throws for a day|
+|18|Willow wisp lures players into danger|
+|19|Random +1 weapon turns into the weapon of Vengeance, being posessed by a spirit, and instantly attunes to a wearer when he's attacked, activating the curse|
 |20|Random +1 item turns into +2, draining Shadow Weave from the surroundings|
 
 ## Traveling at Night
