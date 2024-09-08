@@ -13,7 +13,7 @@ Sunrise Keep: Ring of Protection (Rare),
     Shortsword +1 (Uncommon),
     Cloak of Protection (Uncommon)
 Watchtower: 2 items per request (Uncommon/Rare),
-    Arcane Grimoire +1/2 (Uncommon/Rare)
+    Arcane Grimoire +1/2/Black (Uncommon/Rare/Very Rare)
 Minor Locations: Rod of the Pact Keeper +1 (Uncommon),
     Bloodwell Vial +1 (Uncommon)
 Finale: Belt of Hill Giant Strength (Rare)
