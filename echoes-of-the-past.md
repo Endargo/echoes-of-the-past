@@ -16,14 +16,16 @@
 [Chapter 3. Minor Locations and Events](#minor-locations-and-events)
 1.  [Bottled Surprise](#bottled-surprise)
 2.  [Chapel Ruins](#chapel-ruins)
-3.  [Graveyard](#graveyard)
-4.  [Hunting Spot](#hunting-spot)
-5.  [Lonely Grave](#lonely-grave)
-6.  [Ritual Site](#ritual-site)
-7.  [Secret Cave](#secret-cave)
-8.  [Unfortunate Vilager](#unfortunate-villager)
-9.  [Willow Wisp](#willow-wisp)
-10.  [Yuan-Ti Scouts](#yuan-ti-Scouts)
+3.  [Fey Pond](#fey-pond)
+4.  [Forest Hut](#forest-hut)
+5.  [Graveyard](#graveyard)
+6.  [Hunting Spot](#hunting-spot)
+7.  [Lonely Grave](#lonely-grave)
+8.  [Ritual Site](#ritual-site)
+9.  [Secret Cave](#secret-cave)
+10. [Unfortunate Villager](#unfortunate-villager)
+11. [Willow Wisp](#willow-wisp)
+12. [Yuan-Ti Scouts](#yuan-ti-scouts)
 
 [Chapter 4. Finale. Revelation.](#finale)
 
@@ -328,11 +330,9 @@ Living room - room filled with human bones connected to private room. Attempt to
 
 Private room - connected to bathroom. Party can find letter written for commander, talking about their mission to protect the Gift.
 
->Commander Aliott,
-
->I hope you understand that this assignment is much more important than anything I asked from you for the last ten years of service. When full moon enters the sky, bring the Heir's Gift to the Judge and let him do his job. And remember: noone should find out where we hide it for now. Not a single soul.
-
->Lord Eavalur 
+>Commander Aliott,  
+I hope you understand that this assignment is much more important than anything I asked from you for the last ten years of service. When full moon enters the sky, bring the Heir's Gift to the Judge and let him do his job. And remember: noone should find out where we hide it for now. Not a single soul.  
+Lord Eavalur 
 
 Bathroom - ???
 
@@ -511,13 +511,35 @@ The treasure is buried in the north-west house ruins in the Abandoned village, o
 
 Party comes across ruins of a small building. They can find some gold and scrolls inside, triggering a fight with a random group. Use Forest Ruins battlemap.
 
+## Fey Pond
+
+![Fey Pond](img/locations/fey-pond.png)
+_Fey pond_
+
+Party comes across a small pond, fizzling with fey magic. Drinking the water allows to restore half of maximum hit points, and every spellcaster rolls 1d4 and restores one spellslot of up to that level.
+
+## Forest Hut
+
+![Forest Hut](img/locations/forest-hut.png)
+_Forest hut_
+
+Party comes across small wooden hut. They can loot it for valuables.
+
 ## Graveyard
+
+![Graveyard](img/locations/graveyard.png)
+_Graveyard_
 
 ## Hunting Spot
 
 Party comes across a hunting spot with hidden bear traps. Traps deal 1d6 Piercing damage and can inflict Filth Fever disease (CON save DC15).
 
 ## Lonely Grave
+
+![Lonely Grave](img/locations/lonely-grave.png)
+_Lonely grave_
+
+Players come across the lonely grave deep in the woods. They can try to read elven symbols and discover the name and 
 
 ## Ritual Site
 
