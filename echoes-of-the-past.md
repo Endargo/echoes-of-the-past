@@ -23,7 +23,7 @@
 7.  [Secret Cave](#secret-cave)
 8.  [Unfortunate Vilager](#unfortunate-villager)
 9.  [Willow Wisp](#willow-wisp)
-10.  [Yuan-Ti Patrol](#yuan-ti-patrol)
+10.  [Yuan-Ti Scouts](#yuan-ti-Scouts)
 
 [Chapter 4. Finale. Revelation.](#finale)
 
@@ -534,10 +534,10 @@ _Unfortunate Villager_
 
 Group discovers a humanoid skeleton, somebody semmingly lost their way in the woods and drawned in the swamp. If party decides to search the surroundings, they will find Flower Ornated Key spending 1d4 hours. This key opens Flower Ornated Lockbox in the Abandoned Village.
 
-## Yuan-Ti Patrol
+## Yuan-Ti Scouts
 
-![Yuan-Ti Patrol](img/chars/yuan-ti-patrol.png)
-_Yuan-Ti patrol_
+![Yuan-Ti Scouts](img/chars/yuan-ti-scouts.png)
+_Yuan-Ti Scouts
 
 Group is met by yuan-ti scouts. Warlock, leading them, steps ahead and greets the adventurers. Then says "encircle them" in Abyssal, which can be heard and recognized by one of the players. Succesfull translation will eliminate surprize round. Party will encounter three warriors, two archers, one warlock and two vipers sneaking from behind. Use Swamp (day or night) battle map from Appendix D for this fight. All scouts drop their weapon, warlock drops Rod of the Pact Keeper +1.
 
@@ -545,7 +545,18 @@ Only Grung and Yuan-Ti will recognise Yuan-ti and their racial traits, other rac
 
 # Finale
 
+Before entering the finale chapter, Neshat will appear and warn the adventurers, that there might be no way back after they pass the gate. If players decide to proceed, she will grant another level of Genie Warlock to the pactbearer, and then disappear. Here, grant all the others level 8. Gates will be sealed behind the party, and force barrier will reappear.
+
 ## Discovering the Elven Estate
+
+![Elven Estate](img/locations/elven-estate.png)
+_Elven estate_
+
+When players discover the Elven Estate, read this:
+
+_TO DO_
+
+
 
 ## Witch ???
 
