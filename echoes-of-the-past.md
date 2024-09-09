@@ -154,6 +154,9 @@ Buried treasure chest, under the ground in north-west house remains. Inside the 
 
 ### Renvel's Fate
 
+![Renvel's House](img/locations/renvels-house.png)
+_Renvel's house_
+
 After finding Renvel in his house, he tells that he is living here in wilderness so nobody is bothered by his appearance, since he's a shapeshifter. At the edge of the wood noone is risking to seek for him, so he can safely live, hunt small animals and provide for himself. He suggests a party to stay for the night, and restock, giving each party member a daily ration for the night.
 
 In the morning, a group of paladins arrives, led by handsome blonde man with shining sword, who introduces as Damian, Crusader of Torm and will of Elturgard. He is here to find Renvel, and bring him to justice for being a monster. Players can side with Renvel, triggering the fight against the whole group, or give him out. Paladins execute him in place, and if anyone of the paladin group from prologue survived, Damian will comment that we helped to cover up another criminal earlier and force the fight anyway.
