@@ -140,7 +140,7 @@ Abandoned Village has the following points of interest.
 
 Renvel's House, good condition, west part of the village. Renvel lives there. Will meet the group and offer a shelter, maybe some resources.
 
-Well, center of the village. WIS (Perception) check DC10 will help to find a clover leaf cut on one of the bricks. Toss 1G to get heroic inspiration, only works once a day. On the bottom, 100G can be found, but going down prevents party from getting heroic inspiration.
+Well, center of the village. WIS (Perception) check DC10 will help to find a clover leaf cut on one of the bricks. Toss 1G to get heroic inspiration, only works once a day. On the bottom, 50G can be found, but going down prevents party from getting heroic inspiration.
 
 Merchant's house, east part of the village, poor condition. Locked chest (DC15) contains 800G.
 
@@ -150,7 +150,7 @@ House of Derek and Maya, ruined, south. Has a diary page written by Maya and Flo
 
 Inside the lockbox, Pearl of Power is found. Lockbox is charmed, so that it will break if verbal spell is cast directly onto it, crushing the pearl (like Knock).
 
-Buried treasure chest, under the ground in north-west house remains. Inside the chest, 1000G can be found. Hint for finding the chest can be found in random event ???.
+Buried treasure chest, under the ground in north-west house remains. Inside the chest, 1000G can be found. Hint for finding the chest can be found during minor event Bottled Surprise.
 
 ### Renvel's Fate
 
@@ -354,7 +354,7 @@ Small cave - hall in the wall leads to a cave filled with luminescent fungi. Und
 
 Library - has a secret door to treasury (WIS (Perceprtion) DC 18).
 
-Treasury - contains 5000G worth of valuables in total and Amulet of the Devout +1. Amulet lies on a pedestal, and lifting it will trigger magic trap dealing everyone who can see it 4d8 Radiant damage (WIS (Perception) check DC20 to spot, can be deactivated only by dispelling magic from the pedestal). Connected to library, also can be reached from chapel but cannot return back.
+Treasury - contains 5000G worth of valuables in total and Amulet of the Devout +1. Amulet lies on a pedestal, and lifting it will trigger magic trap dealing everyone who can see it 4d8 Radiant damage (WIS (Perception) check DC20 to spot, can be deactivated by dispelling magic from the pedestal, or placing another magic item before collecting amulet). Connected to library, also can be reached from chapel but cannot return back.
 
 ### Meeting Neshat
 
@@ -416,7 +416,7 @@ When party enters the main hall after fulfilling lady's request, they will see a
 
 After the fight, lady will ask ring wearer to come close to the central statue, and tell mhim the words which unseal the gift. Then her spirit peacefully leaves the ring. Inside a secret niche, party will find Blazing Oathkeeper, longbow which was purposed to be another gift. The ringbearer is granted a level up (or another character, if ringbearer is already level 8). Also, there will be a queen's revelation note with the following text:
 
->Here I am, Tinuviel, lady of this land, yet abandoned by everyone, even my husband. I have to spend days and days alone in this temple, praying to the Protector. Protector, who failed to protect my dearest friend. What an irony! The only thing I hope for is my daughter's happiness with this man. While she is carrying a child, I should try my best to prepare the ideal gift for the ritual of birthgiving. If this is a boy, maybe he will bring peace to this land. After all, all I have at this point, is hope...
+>Here I am, Tinuviel, lady of this land, yet abandoned by everyone, even my husband. I have to spend days and days alone in this temple, praying to the Protector. Protector, who failed to protect my dearest friend. What an irony! The only thing I hope for is my daughter's happiness with this man. While she is carrying a child, I should try my best to prepare the ideal gift for the ritual of birthgiving. If this is a boy, maybe he will bring peace to this land. After all, all I have at this point, is hope.
 
 ## Watchtower
 ![Watchtower](img/locations/watchtower.png)
@@ -530,6 +530,12 @@ Party comes across small wooden hut. They can loot it for valuables.
 ![Graveyard](img/locations/graveyard.png)
 _Graveyard_
 
+Players come across a graveyard with a small chapel. Behind the chapel they can find dug grave and a shovel. Inside the chapel there are human bones, a note and a strange magic scroll. Note says the following:
+
+>I was able to find something! All previous attempts failed, but after adjusting the magic formula and finding the right bones, I feel like this timme everything's gonna work. I'll have some sleep, and tommorrow will try the spell one more time.
+
+Players can revive the bones (spellcaster should read the scrolls in a presence of this exact skeleton, otherwise spell fails), creating a skeleton which obeys caster's commands for the next 24 hours, and then goes hostile. Use Skeleton Warrior stat block, but attack damage die depends on the weapon given to the skeleton. Alternatively they can bury the remains, which will grant Bless effect to the character who was digging for the next 24 hours. Digging graves can grant some valuables, but has a chance of summoning hostile skeletons, ghosts, and two bonemares from bigger dirt graves.
+
 ## Hunting Spot
 
 Party comes across a hunting spot with hidden bear traps. Traps deal 1d6 Piercing damage and can inflict Filth Fever disease (CON save DC15).
@@ -559,7 +565,7 @@ Group discovers a humanoid skeleton, somebody semmingly lost their way in the wo
 ## Yuan-Ti Scouts
 
 ![Yuan-Ti Scouts](img/chars/yuan-ti-scouts.png)
-_Yuan-Ti Scouts
+_Yuan-Ti Scouts_
 
 Group is met by yuan-ti scouts. Warlock, leading them, steps ahead and greets the adventurers. Then says "encircle them" in Abyssal, which can be heard and recognized by one of the players. Succesfull translation will eliminate surprize round. Party will encounter three warriors, two archers, one warlock and two vipers sneaking from behind. Use Swamp (day or night) battle map from Appendix D for this fight. All scouts drop their weapon, warlock drops Rod of the Pact Keeper +1.
 
@@ -760,7 +766,7 @@ When party travels across discovered locations at night time, or stays for the n
 
 ## Prologue
 
-![](img/maps/lucky-steps.jpg)
+![](img/maps/lucky-steps.png)
 _Lucky Steps, Singing Rats encounter battle map_
 
 ![](img/maps/elturgard-patrol.png)
@@ -812,6 +818,8 @@ _Estate, underground floor_
 _Estate, second floor_
 
 ## Minor Locations
+![](maps-foundryvtt/graveyard.jpg)
+_Graveyard_
 
 ![](img/maps/generic-ruins-day.png)
 _Forest Ruins (day) battle map_
