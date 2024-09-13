@@ -809,8 +809,8 @@ When party travels across discovered locations at night time, or stays for the n
 ![](img/maps/lucky-steps.png)
 _Lucky Steps, Singing Rats encounter battle map_
 
-![](img/maps/elturgard-patrol.png)
-_Elturgard Patrol battle map_
+![](img/maps/paladin-patrol.png)
+_Paladin Patrol battle map_
 
 ## Abandoned Village
 ![](img/maps/abandoned-village-day.jpg)
