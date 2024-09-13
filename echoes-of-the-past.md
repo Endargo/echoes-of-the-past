@@ -210,7 +210,7 @@ Worshipers room, central part. Has a statue of a man closing his eye, like tryin
 
 After illuminating the statue with Slumbering Morning Star, the blue barrier will disappear and weapon will turn into the Awakened Morning Star.
 
-Treasure room, south-west part. Opening the locked door triggers Cloudkill trap. Has a total of 5000G in treasures, but looting it will force the fight with the Judge later.
+Treasure room, south-west part. Opening the locked door triggers Cloudkill trap. Has a total of 5000G in treasures (can be taken as gold or spell components of an equal cost), but looting it will force the fight with the Judge later.
 
 Hall of Trials, north part. Final trial will happen here.
 
@@ -357,7 +357,7 @@ Small cave - hall in the wall leads to a cave filled with luminescent fungi. Und
 
 Library - has a secret door to treasury (WIS (Perceprtion) DC 18).
 
-Treasury - contains 5000G worth of valuables in total and Amulet of the Devout +1. Amulet lies on a pedestal, and lifting it will trigger magic trap dealing everyone who can see it 4d8 Radiant damage (WIS (Perception) check DC20 to spot, can be deactivated by dispelling magic from the pedestal, or placing another magic item before collecting amulet). Connected to library, also can be reached from chapel but cannot return back.
+Treasury - contains 5000G worth of valuables in total (can be taken as gold or spell components of an equal cost) and Amulet of the Devout +1. Amulet lies on a pedestal, and lifting it will trigger magic trap dealing everyone who can see it 4d8 Radiant damage (WIS (Perception) check DC20 to spot, can be deactivated by dispelling magic from the pedestal, or placing another magic item before collecting amulet). Connected to library, also can be reached from chapel but cannot return back.
 
 ### Meeting Neshat
 
@@ -398,7 +398,7 @@ Entrance, south part.
 
 Chapel, east part. Has a Ring of Mind Shielding laying on the pedestal. Taking this ring will trigger fight against ghosts/undeads. Attuning to this ring will reveal that it is inhabited by the spirit of lady Tinuviel, wife of lord Eavalur. She will talk in Elvish, revealing her name, her past of being not welcome by her husband for giving a birth to a daughter. She was praying for her dead friend Quenya, when something killed her, and her spirit was locked in the ring only knowing darkness and emptyness since. She will ask the party to check on the tree she planted on the graveyard as a part of ritual to honor Quenya's memory. Then she promises to show the way to the second gift.
 
-Treasure room, east part, behind the secret door DC20. Contains 4000G in treasures.
+Treasure room, east part, behind the secret door DC20. Contains 5000G in treasures (can be taken as gold or spell components of an equal cost).
 
 Graveyard, west part. Has a giant oak growing among the graves, and a lot of daisies near it's roots. If someone is wearing the Ring of Mind Shielding, the lady will try to take one of the flowers by character's hand (CHA saving throw DC20 to resist). If character touches the flowers, ghosts and undead will appear. After the interaction, lady will say "Gift is hidden beneath the foot of The Protector, but beware those who sworn to him".
 
@@ -633,7 +633,7 @@ After dealing with heir, Akreefa will appear, either alone or together with Isob
 |Dancing Sun - medium elf, neutral|20AC (natural armor), Bludgeoning/Piercing/Slashing (Resistance), Fire (Immunity), Charmed (Immunity), Frightened (Immunity)|125|45ft|14/20/16/11/16/14|STR +4, CHA +6|Acrobatics +10|-|Common, Elven (can't speak)|9|<ul><li>_Multiattack (action)._ Dancing Sun makes two melee attacks with flaming scimitars, 5ft reach, +9 bonus, one target. Hit: 3d6 + 8 Fire.</li><li>_Radiant Retribution (action)._ Dancing Sun raises crossed scimitars to emit harmful light. Every creature of choice in 40ft radius who can see the light makes DEX saving throw DC17 or becomes Blinded for 1 minute and takes 4d8 Radiant damage (half of that if save if successful).</li><li>_Divine Grace (reaction)._ Dancing Sun can increase his AC by 5 against one weapon attack as a reaction. If the attack misses and attacker is within 5ft, Dancing Sun can make one attack agaist it.</li><li>_Swift Fangs (special)._ Dancing Sun makes attack of opportunity without spending his reaction.</li><li>_Spectral Weapon (special)._ Dancing Sun cannot be disarmed.</li><li>_Ethereal Dance (special)._ Dancing Sun imposes a disadvantage when receiving an attack of opportunity.</li></ul>|TO DO|
 |Elthurgard Marksman - medium human, lawful good|14AC (scale mail)|45|30ft|12/16/13/10/10/12|STR +3, WIS +3|Athletics +3|-|Common|5|<ul><li>_Multittack (action)._ Marksman makes two ranged attacks with a heavy crossbow, 120ft reach, +6 bonus, one target. Hit: 1d10 + 3 Piercing.</li></ul>|TO DO|
 |Elthurgard Paladin - medium half-elf, lawful good|19AC (full plate, shield)|75|30ft|18/10/16/9/12/15|WIS +5|Athletics +7, Intimidation +5|Darkvision 60ft|Common, Elvish|7|<ul><li>_Multittack (action)._ Paladin makes two melee attacks with a warhammer, 5ft reach, +7 bonus, one target. Hit: 1d8 + 5 Bludgeoning.</li><li>_Magic (action)._ Paladin can cast same spells as level 7 Paladin of Vengeance, with +6 modifier.</li><li>_Divine Smite (special)._ Once per turn, if weapon attack hits the target, Paladin can deal additional 2d8 Radiant damage.</li></ul>|TO DO|
-|Elthurgard Squire - medium human, lawful good|15AC (ring mail)|45|30ft|14/11/14/9/10/15|STR +4, WIS +3|Athletics +5|-|Common|5|<ul><li>_Multiattack (action)._ Squire makes two melee attacks with a longsword, 5ft reach, +5 bonus, one target. Hit: 1d8 + 3 Slashing.</li><li>_Second Wind (action)._ Once per fight, Squire can restore 1d10 + 6 hit points.</li></ul>|TO DO|
+|Elthurgard Squire - medium human, lawful good|15AC (ring mail)|45|30ft|14/11/14/9/10/15|STR +4, WIS +3|Athletics +5|-|Common|5|<ul><li>_Attack (action)._ Squire makes one melee attack with a longsword, 5ft reach, +5 bonus, one target. Hit: 1d8 + 4 Slashing.</li><li>_Rock throw (action)._ Squire makes one ranged attack throwing a rock or similar object, 30ft reach, +5 bonus, one target. Hit: 1d4 + 4 Bludgeoning.</li><li>_Second Wind (action)._ Once per fight, Squire can restore 1d10 + 6 hit points.</li></ul>|TO DO|
 |Elthurgard Warpriest - medium human, lawful good|18AC (chainmail, shield)|65|30ft|15/11/16/8/16/11|WIS +6, CON +4|Religion +5|-|Common, Celestial|7|<ul><li>_Attack (action)._ Warpriest makes one melee attack with a mace, 5ft reach, +5 bonus, one target. Hit: 1d6 + 4 Bludgeoning.</li><li>_Magic (action)._ Warpriest can cast same spells as level 7 Priest, Domain of Light/War, with +8 modifier.</li><li>_Divine Strike (special)._ Once per turn, if weapon attack hits the target, Warpriest can deal additional 1d8 Radiant damage.</li></ul>|TO DO|
 |Fey Wolf - see Dire Wolf in PHB, change size to Medium|
 |Fungal Bat - medium beast, unaligned|13AC (natural armor)|33|10ft, Fly 60ft|15/16/11/2/12/6|-|-|Blindsight 60ft|Common|5|<ul><li>_Attack (action)._ Giant Bat makes one melee attacks with a bite, 5ft reach, +5 bonus, one target. Hit: 1d6 + 4 Piercing + 1d6 Necrotic.</li><li>_Fungal Infestation (special)._ Creature bitten by Fungal Bat makes CON saving throw DC14. If it fails, it becomes slowed for 1 minute, it's speed is halved, it can only make action or bonus action on it's turn, and can't use reactions. Creature can repeat saving throw at the end of it's turn.</li></ul>|TO DO|
@@ -733,7 +733,7 @@ You have +3 bonus to attack and damage rolls made with this magic weapon.
 
 ___Starlight.___ Artifact emits bright, almost pure white light in a 30ft radius and dim light for additional 30ft.
 
-___Star Fury.___ Once per turn, when you roll for Radiant damage, you can roll an additional 1d6 against one creature covered in Shining Starlight.
+___Star Fury.___ Once per turn, when you roll for Radiant damage, you can roll an additional 1d6 against one creature covered in Starlight.
 
 ## Rod of Planar Cage
 
@@ -846,14 +846,17 @@ _Watchtower, ground level_
 _Watchtower, top level_
 
 ## Finale
-![](maps-foundryvtt/estate-ground-floor)
+![](maps-foundryvtt/estate-ground-floor.jpg)
 _Estate, ground floor_
 
-![](maps-foundryvtt/estate-underground-floor)
+![](maps-foundryvtt/estate-underground-floor.jpg)
 _Estate, underground floor_
 
-![](maps-foundryvtt/estate-second-floor)
+![](maps-foundryvtt/estate-second-floor.jpg)
 _Estate, second floor_
+
+![](maps-foundryvtt/estate-ruined.jpg)
+_Estate, ruined remains_
 
 ## Minor Locations
 ![](maps-foundryvtt/graveyard.jpg)
