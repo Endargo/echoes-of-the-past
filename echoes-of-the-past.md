@@ -22,7 +22,7 @@
 6.  [Hunting Spot](#hunting-spot)
 7.  [Lonely Grave](#lonely-grave)
 8.  [Ritual Site](#ritual-site)
-9.  [Secret Cave](#secret-cave)
+9.  [Spider Cave](#spider-cave)
 10. [Unfortunate Villager](#unfortunate-villager)
 11. [Willow Wisp](#willow-wisp)
 12. [Yuan-Ti Scouts](#yuan-ti-scouts)
@@ -443,6 +443,8 @@ Ground level has a chest hidden behind the tower in spiderweb, contains 800G and
 
 There is some rusty equipment inside the tower, and a way upstairs.
 
+On the second floor, there is some furniture, locked chest with a Hand Crossbow, Bolts (20) and Woodcarver's Tools.
+
 On the top level, there is an abandoned camp with a bit of food, bedrolls and travel bags, can be looted for 1d4+3 rations and two Potions of Healing.
 
 Also on a table lies a weird artifact, looking like a closed eye. Players can figure out how to trigger it, and it will open, look at the party, and shortly after, a portal will open on the floor, where stones are burned. This portal will take all members who were standing at the four central tiles to Cormyr.
@@ -554,7 +556,7 @@ Players come across the lonely grave deep in the woods. They can try to read elv
 
 Party comes across a ritual site. They can find Bloodwell Vial +1, triggering fight with ghosts.
 
-## Secret Cave
+## Spider Cave
 
 One of the party members missteps and falls into a hidden cave, 20ft high. They can step down and find a way out together, or rescue the adventurer. Cave is inhabited by spiders.
 
@@ -632,7 +634,7 @@ After dealing with heir, Akreefa will appear, either alone or together with Isob
 |Damian, Crusader of Torm - medium human, lawful good|19AC (full plate)|100|30ft|19/12/16/11/14/16|WIS +6, CHA +7|Athletics +8, Persuasion +6, Intimidation +5|Darkvision 60ft|Common, Elvish|9|<ul><li>_Multittack (action)._ Damian makes two melee attacks with a flaming longsword, 5ft reach, +9 bonus, one target. Hit: 1d10 + 5 Slashing + 2d6 Fire.</li><li>_Magic (action)._ Damian can cast same spells as level 9 Paladin of Vengeance, with +7 modifier.</li><li>_Divine Smite (special)._ Once per turn, if weapon attack hits the target, Damian can deal additional 3d8 Radiant damage.</li><li>_Aura of Protection (special)._ When Damian or a friendly creature within 10ft from him must make a saving throw, the creature gains a +3 bonus to a saving throw.</li></ul>|TO DO|
 |Dancing Sun - medium elf, neutral|20AC (natural armor), Bludgeoning/Piercing/Slashing (Resistance), Fire (Immunity), Charmed (Immunity), Frightened (Immunity)|125|45ft|14/20/16/11/16/14|STR +4, CHA +6|Acrobatics +10|-|Common, Elven (can't speak)|9|<ul><li>_Multiattack (action)._ Dancing Sun makes two melee attacks with flaming scimitars, 5ft reach, +9 bonus, one target. Hit: 3d6 + 8 Fire.</li><li>_Radiant Retribution (action)._ Dancing Sun raises crossed scimitars to emit harmful light. Every creature of choice in 40ft radius who can see the light makes DEX saving throw DC17 or becomes Blinded for 1 minute and takes 4d8 Radiant damage (half of that if save if successful).</li><li>_Divine Grace (reaction)._ Dancing Sun can increase his AC by 5 against one weapon attack as a reaction. If the attack misses and attacker is within 5ft, Dancing Sun can make one attack agaist it.</li><li>_Swift Fangs (special)._ Dancing Sun makes attack of opportunity without spending his reaction.</li><li>_Spectral Weapon (special)._ Dancing Sun cannot be disarmed.</li><li>_Ethereal Dance (special)._ Dancing Sun imposes a disadvantage when receiving an attack of opportunity.</li></ul>|TO DO|
 |Elthurgard Marksman - medium human, lawful good|14AC (scale mail)|45|30ft|12/16/13/10/10/12|STR +3, WIS +3|Athletics +3|-|Common|5|<ul><li>_Multittack (action)._ Marksman makes two ranged attacks with a heavy crossbow, 120ft reach, +6 bonus, one target. Hit: 1d10 + 3 Piercing.</li></ul>|TO DO|
-|Elthurgard Paladin - medium half-elf, lawful good|19AC (full plate, shield)|75|30ft|18/10/16/9/12/15|WIS +5|Athletics +7, Intimidation +5|Darkvision 60ft|Common, Elvish|7|<ul><li>_Multittack (action)._ Paladin makes two melee attacks with a warhammer, 5ft reach, +7 bonus, one target. Hit: 1d8 + 5 Bludgeoning.</li><li>_Magic (action)._ Paladin can cast same spells as level 7 Paladin of Vengeance, with +6 modifier.</li><li>_Divine Smite (special)._ Once per turn, if weapon attack hits the target, Paladin can deal additional 2d8 Radiant damage.</li></ul>|TO DO|
+|Elthurgard Paladin - medium half-elf, lawful good|19AC (half plate, shield)|75|30ft|18/10/16/9/12/15|WIS +5|Athletics +7, Intimidation +5|Darkvision 60ft|Common, Elvish|7|<ul><li>_Multittack (action)._ Paladin makes two melee attacks with a warhammer, 5ft reach, +7 bonus, one target. Hit: 1d8 + 5 Bludgeoning.</li><li>_Magic (action)._ Paladin can cast same spells as level 7 Paladin of Vengeance, with +6 modifier.</li><li>_Divine Smite (special)._ Once per turn, if weapon attack hits the target, Paladin can deal additional 2d8 Radiant damage.</li></ul>|TO DO|
 |Elthurgard Squire - medium human, lawful good|15AC (ring mail)|45|30ft|14/11/14/9/10/15|STR +4, WIS +3|Athletics +5|-|Common|5|<ul><li>_Attack (action)._ Squire makes one melee attack with a longsword, 5ft reach, +5 bonus, one target. Hit: 1d8 + 4 Slashing.</li><li>_Rock throw (action)._ Squire makes one ranged attack throwing a rock or similar object, 30ft reach, +5 bonus, one target. Hit: 1d4 + 4 Bludgeoning.</li><li>_Second Wind (action)._ Once per fight, Squire can restore 1d10 + 6 hit points.</li></ul>|TO DO|
 |Elthurgard Warpriest - medium human, lawful good|18AC (chainmail, shield)|65|30ft|15/11/16/8/16/11|WIS +6, CON +4|Religion +5|-|Common, Celestial|7|<ul><li>_Attack (action)._ Warpriest makes one melee attack with a mace, 5ft reach, +5 bonus, one target. Hit: 1d6 + 4 Bludgeoning.</li><li>_Magic (action)._ Warpriest can cast same spells as level 7 Priest, Domain of Light/War, with +8 modifier.</li><li>_Divine Strike (special)._ Once per turn, if weapon attack hits the target, Warpriest can deal additional 1d8 Radiant damage.</li></ul>|TO DO|
 |Fey Wolf - see Dire Wolf in PHB, change size to Medium|
@@ -797,7 +799,7 @@ When party travels across discovered locations at night time, or stays for the n
 |17|Undead|
 |18|Fey Wolves|
 |19|Fungi|
-|20|Falling into a secret cave (see chapter 3, Secret Cave scenario)|
+|20|Falling into a Spider Cave (see chapter 3, Spider Cave scenario)|
 
 
 # Appendix D. Maps
@@ -812,10 +814,7 @@ _Elturgard Patrol battle map_
 
 ## Abandoned Village
 ![](img/maps/abandoned-village-day.jpg)
-_Abandoned Village (day)_
-
-![](img/maps/abandoned-village-night.jpg)
-_Abandoned Village (night)_
+_Abandoned Village_
 
 ## Crypt of Sehanine
 ![](maps-foundryvtt/crypt-of-sehanine.jpg)
@@ -842,6 +841,9 @@ _Temple of Corellon Larethian_
 ![](maps-foundryvtt/watchtower-ground.jpg)
 _Watchtower, ground level_
 
+![](maps-foundryvtt/watchtower-second.jpg)
+_Watchtower, second level_
+
 ![](maps-foundryvtt/watchtower-top.jpg)
 _Watchtower, top level_
 
@@ -865,8 +867,8 @@ _Graveyard_
 ![](img/maps/generic-ruins-day.png)
 _Forest Ruins (day) battle map_
 
-![](maps-foundryvtt/secret-cave.jpg)
-_Secret cave battle map_
+![](maps-foundryvtt/spider-cave.jpg)
+_Spider Cave battle map_
 
 ![](img/maps/generic-swamp-day.png)
 _Swamp (day) battle map_

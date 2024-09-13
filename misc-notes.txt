@@ -25,3 +25,5 @@ Crypt: feat of choice
 Mansion Gate: nature blessing by Anariet (only if left alive)
 Shrine: one level of choice
 Sunrise Keep: one level of Warlock Genie (only if pact with Neshat is sealed)
+
+Notes about maps:

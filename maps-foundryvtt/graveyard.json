@@ -12,24 +12,7 @@
   "gridAlpha": 0.2,
   "globalLight": true,
   "darkness": 0.0,
-  "lights": [
-    {
-      "x": 3384,
-      "y": 4045,
-      "dim": 25.0,
-      "bright": 12.5,
-      "tintColor": "#FF9800",
-      "tintAlpha": 0.0
-    },
-    {
-      "x": 5015,
-      "y": 4046,
-      "dim": 25.0,
-      "bright": 12.5,
-      "tintColor": "#FF9800",
-      "tintAlpha": 0.0
-    }
-  ],
+  "lights": [],
   "walls": [
     {
       "c": [
