@@ -514,7 +514,7 @@ The treasure is buried in the north-west house ruins in the Abandoned village, o
 
 ## Chapel Ruins
 
-Party comes across ruins of a small building. They can find some gold and scrolls inside, triggering a fight with a random group. Use Forest Ruins battlemap.
+Party comes across ruins of a small building. They can find 300G and scrolls (Common/Uncommon) inside, triggering a fight with a random group. Use Forest Ruins battlemap.
 
 ## Fey Pond
 
