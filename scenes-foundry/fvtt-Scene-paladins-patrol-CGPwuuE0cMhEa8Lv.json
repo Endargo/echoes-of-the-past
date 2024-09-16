@@ -1,0 +1,1053 @@
+{
+  "folder": "priaRFGCVNDSMWlx",
+  "name": "Paladins Patrol",
+  "navigation": true,
+  "navOrder": 350000,
+  "navName": "",
+  "background": {
+    "src": "paladin-patrol.png",
+    "anchorX": 0,
+    "anchorY": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "fit": "fill",
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": "#ffffff",
+    "alphaThreshold": 0
+  },
+  "foreground": null,
+  "foregroundElevation": 20,
+  "thumb": "worlds/echoes-of-the-past-campaign-1/assets/scenes/CGPwuuE0cMhEa8Lv-thumb.webp",
+  "width": 2000,
+  "height": 2000,
+  "padding": 0.25,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": 0.5
+  },
+  "backgroundColor": "#999999",
+  "grid": {
+    "type": 1,
+    "size": 100,
+    "style": "solidLines",
+    "thickness": 1,
+    "color": "#000000",
+    "alpha": 0.6,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fog": {
+    "exploration": true,
+    "overlay": null,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    }
+  },
+  "environment": {
+    "darknessLevel": 0,
+    "darknessLock": false,
+    "globalLight": {
+      "enabled": true,
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "luminosity": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "drawings": [],
+  "tokens": [
+    {
+      "name": "Seimur",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/seimur.Token.webp?1726258120831",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 120,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {
+        "dnd5e": {
+          "tokenRing": {
+            "effects": 1
+          }
+        }
+      },
+      "actorId": "rbBmlGOiBgrbnHXK",
+      "hidden": false,
+      "sort": 0,
+      "_id": "lB0YSNzHDr2Yew0x",
+      "delta": {
+        "_id": "JP4uzJNzrgyStHfw",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 2200,
+      "y": 2200,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Paladin",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/paladin.Token.webp?1726261243277",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "LFZETFeOfrnuVJJc",
+      "hidden": false,
+      "sort": 1,
+      "_id": "ZCX84LLYnDgBvg7z",
+      "delta": {
+        "_id": "hwXIKU0jsirztOx1",
+        "system": {
+          "attributes": {
+            "hp": {
+              "value": 75
+            }
+          }
+        },
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 1400,
+      "y": 1800,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Paladin",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/paladin.Token.webp?1726261243277",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "LFZETFeOfrnuVJJc",
+      "hidden": false,
+      "sort": 2,
+      "_id": "siVGNcwNdOfRWdsc",
+      "delta": {
+        "_id": "pRpVV7UAqZTNj9R3",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 1900,
+      "y": 1500,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Paladin",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/paladin.Token.webp?1726261243277",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "LFZETFeOfrnuVJJc",
+      "hidden": false,
+      "sort": 3,
+      "_id": "qXRs5f6kzzOfrnSP",
+      "delta": {
+        "_id": "rydPVJvNVPzMZyjY",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 1300,
+      "y": 1100,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Squire",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/squire.Token.webp?1726261016662",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "RR6ZbQYSvIEMzZbR",
+      "hidden": false,
+      "sort": 4,
+      "_id": "6HLoznDRQYGaxHfc",
+      "delta": {
+        "_id": "eqpVpw9UKBl3uZEZ",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 900,
+      "y": 1900,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Squire",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/squire.Token.webp?1726261016662",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "RR6ZbQYSvIEMzZbR",
+      "hidden": false,
+      "sort": 5,
+      "_id": "qPgpa6kcbR8PVvtr",
+      "delta": {
+        "_id": "HNdZKx4gwDsDudD1",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 2000,
+      "y": 1100,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Squire",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/squire.Token.webp?1726261016662",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "RR6ZbQYSvIEMzZbR",
+      "hidden": false,
+      "sort": 6,
+      "_id": "F9duoLsFOSAPnxYw",
+      "delta": {
+        "_id": "NfQ1ZB7rcgmQLuUk",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 1500,
+      "y": 800,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Warpriest",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/warpriest.Token.webp?1726261465236",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "AHwo6G2qqJkEYaPP",
+      "hidden": false,
+      "sort": 7,
+      "_id": "GJx7WrfiFFAFzJDY",
+      "delta": {
+        "_id": "d4nNWkVD8i3CPRQy",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 1000,
+      "y": 800,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    }
+  ],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "regions": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "flags": {
+    "exportSource": {
+      "world": "echoes-of-the-past-campaign-1",
+      "system": "dnd5e",
+      "coreVersion": "12.331",
+      "systemVersion": "4.0.0"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "3.3.1",
+    "createdTime": 1726260009967,
+    "modifiedTime": 1726276784541,
+    "lastModifiedBy": "HpSgOOYr3FX0uQOe"
+  }
+}

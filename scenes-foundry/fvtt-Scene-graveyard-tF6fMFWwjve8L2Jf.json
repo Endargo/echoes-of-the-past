@@ -1,0 +1,2800 @@
+{
+  "folder": "4vrAqRcW0i4ts6i7",
+  "name": "Graveyard",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "background": {
+    "src": "graveyard.jpg",
+    "anchorX": 0,
+    "anchorY": 0,
+    "offsetX": 0,
+    "offsetY": 0,
+    "fit": "fill",
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": "#ffffff",
+    "alphaThreshold": 0
+  },
+  "foreground": null,
+  "foregroundElevation": 20,
+  "thumb": "worlds/echoes-of-the-past-campaign-1/assets/scenes/tF6fMFWwjve8L2Jf-thumb.webp",
+  "width": 4350,
+  "height": 4800,
+  "padding": 0,
+  "initial": {
+    "x": null,
+    "y": null,
+    "scale": 0.5
+  },
+  "backgroundColor": "#999999",
+  "grid": {
+    "type": 1,
+    "size": 150,
+    "style": "solidLines",
+    "thickness": 1,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fog": {
+    "exploration": true,
+    "overlay": null,
+    "colors": {
+      "explored": null,
+      "unexplored": null
+    }
+  },
+  "environment": {
+    "darknessLevel": 0,
+    "darknessLock": false,
+    "globalLight": {
+      "enabled": true,
+      "alpha": 0.5,
+      "bright": false,
+      "color": null,
+      "coloration": 1,
+      "luminosity": 0,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "cycle": true,
+    "base": {
+      "hue": 0,
+      "intensity": 0,
+      "luminosity": 0,
+      "saturation": 0,
+      "shadows": 0
+    },
+    "dark": {
+      "hue": 0.7138888888888889,
+      "intensity": 0,
+      "luminosity": -0.25,
+      "saturation": 0,
+      "shadows": 0
+    }
+  },
+  "drawings": [],
+  "tokens": [
+    {
+      "name": "Seimur",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/seimur.Token.webp?1726258120831",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": 1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 120,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 0,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {
+        "dnd5e": {
+          "tokenRing": {
+            "effects": 1
+          }
+        }
+      },
+      "actorId": "rbBmlGOiBgrbnHXK",
+      "hidden": false,
+      "sort": 0,
+      "_id": "LwEdbNWOwxvCj4tv",
+      "delta": {
+        "_id": "mz5uZXOzcNWx4RzO",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 1800,
+      "y": 2250,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Bonemare",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 2,
+      "height": 2,
+      "texture": {
+        "src": "tokenizer/npc-images/bonemare.Token.webp?1726261848185",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "L4wkIWoCiOOjEGBv",
+      "hidden": true,
+      "sort": 1,
+      "_id": "AWSex2QavPLo0pE0",
+      "delta": {
+        "_id": "WNWQroPcnIVS9MGk",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 2700,
+      "y": 1350,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Bonemare",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 2,
+      "height": 2,
+      "texture": {
+        "src": "tokenizer/npc-images/bonemare.Token.webp?1726261848185",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "L4wkIWoCiOOjEGBv",
+      "hidden": true,
+      "sort": 2,
+      "_id": "rBUJ2xgY8zzKzSGF",
+      "delta": {
+        "_id": "EkpuC3JE6cL6MjBq",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 1350,
+      "y": 1650,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Skeleton Commander",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/skeleton_commander.Token.webp?1726262479655",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "9V9yg7tjZgKF3HhU",
+      "hidden": true,
+      "sort": 3,
+      "_id": "R8A4Ej9pG7K1eF81",
+      "delta": {
+        "_id": "IFW5Eqsvp4rwfcwS",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 1950,
+      "y": 2550,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Ghost",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/ghost.Token.webp?1726266223533",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 60,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "vRfPZhIMuM0dWe4Y",
+      "hidden": true,
+      "sort": 4,
+      "_id": "504IrmpxIkkOMgh3",
+      "delta": {
+        "_id": "rIsbiPTnUp8HMiK0",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 2700,
+      "y": 2400,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Ghost",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/ghost.Token.webp?1726266223533",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 60,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "vRfPZhIMuM0dWe4Y",
+      "hidden": true,
+      "sort": 5,
+      "_id": "ZoF695dD3O3nLQUR",
+      "delta": {
+        "_id": "3bueLXsNYx591CSc",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 1500,
+      "y": 2700,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Skeleton Warrior",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/skeleton_warrior.Token.webp?1726262156348",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "jzegmhB2HwN851xK",
+      "hidden": true,
+      "sort": 6,
+      "_id": "qodRRmAEiDSEmjzv",
+      "delta": {
+        "_id": "2EXeoOZu7Kdky8mV",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 1950,
+      "y": 3300,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Skeleton Warrior",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/skeleton_warrior.Token.webp?1726262156348",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "jzegmhB2HwN851xK",
+      "hidden": true,
+      "sort": 7,
+      "_id": "0gNp9DkfLrkgNRNF",
+      "delta": {
+        "_id": "25TMKM2NKhgvRSq8",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 3300,
+      "y": 2550,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    },
+    {
+      "name": "Skeleton Warrior",
+      "displayName": 30,
+      "actorLink": false,
+      "appendNumber": false,
+      "prependAdjective": false,
+      "width": 1,
+      "height": 1,
+      "texture": {
+        "src": "tokenizer/npc-images/skeleton_warrior.Token.webp?1726262156348",
+        "anchorX": 0.5,
+        "anchorY": 0.5,
+        "offsetX": 0,
+        "offsetY": 0,
+        "fit": "contain",
+        "scaleX": 1,
+        "scaleY": 1,
+        "rotation": 0,
+        "tint": "#ffffff",
+        "alphaThreshold": 0.75
+      },
+      "hexagonalShape": 0,
+      "lockRotation": false,
+      "rotation": 0,
+      "alpha": 1,
+      "disposition": -1,
+      "displayBars": 0,
+      "bar1": {
+        "attribute": "attributes.hp"
+      },
+      "bar2": {
+        "attribute": null
+      },
+      "light": {
+        "negative": false,
+        "priority": 0,
+        "alpha": 0.5,
+        "angle": 360,
+        "bright": 0,
+        "color": null,
+        "coloration": 1,
+        "dim": 0,
+        "attenuation": 0.5,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "animation": {
+          "type": null,
+          "speed": 5,
+          "intensity": 5,
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        }
+      },
+      "sight": {
+        "enabled": true,
+        "range": 60,
+        "angle": 360,
+        "visionMode": "darkvision",
+        "color": null,
+        "attenuation": 0,
+        "brightness": 0,
+        "saturation": -1,
+        "contrast": 0
+      },
+      "detectionModes": [
+        {
+          "id": "lightPerception",
+          "range": null,
+          "enabled": true
+        },
+        {
+          "id": "basicSight",
+          "range": 0,
+          "enabled": true
+        }
+      ],
+      "occludable": {
+        "radius": 0
+      },
+      "ring": {
+        "enabled": false,
+        "colors": {
+          "ring": null,
+          "background": null
+        },
+        "effects": 1,
+        "subject": {
+          "scale": 1,
+          "texture": null
+        }
+      },
+      "flags": {},
+      "actorId": "jzegmhB2HwN851xK",
+      "hidden": true,
+      "sort": 8,
+      "_id": "J4jgfQtFfucQDASs",
+      "delta": {
+        "_id": "iUdgaXsShzefKZG5",
+        "system": {},
+        "items": [],
+        "effects": [],
+        "flags": {},
+        "name": null,
+        "type": null,
+        "img": null
+      },
+      "x": 900,
+      "y": 2250,
+      "elevation": 0,
+      "locked": false,
+      "_regions": []
+    }
+  ],
+  "lights": [],
+  "notes": [],
+  "sounds": [],
+  "regions": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [
+    {
+      "c": [
+        3756,
+        1947,
+        3756,
+        893
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "AORp97jRApzSgqxO",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        896,
+        593,
+        3454,
+        593
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "PMa26hiyFKWA0iBe",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        594,
+        1646,
+        594,
+        893
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "2cvHVOtatbw07ynS",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        896,
+        593,
+        746,
+        633
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "oRsuOyJJhEwlgaPu",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        746,
+        633,
+        634,
+        743
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "TjqtPzq9w0GQbC9w",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        634,
+        743,
+        594,
+        893
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "zbPQREr1CWIJLpNJ",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        3756,
+        893,
+        3716,
+        743
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "Pp9vUMp1t95Rrvp7",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        3716,
+        743,
+        3604,
+        633
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "LqJp6q9ozfUJIttW",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        3604,
+        633,
+        3454,
+        593
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "Q2KB0EXp9WYeHWj0",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        3756,
+        3152,
+        3756,
+        1947
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "zzY4GEzddLg1Wn0A",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1197,
+        3603,
+        3454,
+        3603
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "TeDXfAbr1cziAQGs",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        3756,
+        3302,
+        3756,
+        3152
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "gs8nfF1Mk7RZITs3",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        594,
+        4205,
+        746,
+        4205
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "xPzekOUhQA74E6WI",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        746,
+        4205,
+        896,
+        4205
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 1,
+      "sight": 0,
+      "light": 0,
+      "_id": "VtfGkmkKIiywAAgY",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "doorSound": ""
+    },
+    {
+      "c": [
+        896,
+        4205,
+        1046,
+        4205
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 1,
+      "sight": 0,
+      "light": 0,
+      "_id": "bwXBcOIjKdpOhS1W",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {},
+      "doorSound": ""
+    },
+    {
+      "c": [
+        3454,
+        3603,
+        3604,
+        3563
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "XqS7a1zxRMrqNw2B",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        3604,
+        3563,
+        3716,
+        3452
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "hYbMFPIqV4IPcb0u",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        3716,
+        3452,
+        3756,
+        3302
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "KNALKYiemPKI3DvA",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        594,
+        3000,
+        594,
+        3753
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "EMsqiU1euVcrr3bL",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        594,
+        4055,
+        594,
+        3753
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "Zr0dNdDEGME1bADa",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        594,
+        4055,
+        594,
+        4205
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "JAtg5AbxPjQsvPsg",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        594,
+        1947,
+        594,
+        1646
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "3cudrzneFVtd5ayH",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        594,
+        3000,
+        594,
+        2399
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "48LIIktmRBaITLbz",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        594,
+        1947,
+        594,
+        2399
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "Cp0A8IT78SGSRya3",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1197,
+        3603,
+        1197,
+        4205
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "1wssug6hZgfj9r14",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1046,
+        4205,
+        1197,
+        4205
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 0,
+      "light": 0,
+      "_id": "olgETwWtVkInmPUg",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1647,
+        2097,
+        1798,
+        2097
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 20,
+      "light": 20,
+      "_id": "dIEMhXYjTaBmHeU8",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1647,
+        1193,
+        1647,
+        1947
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 20,
+      "light": 20,
+      "_id": "gM7uACkfG1HOAU0W",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1948,
+        2097,
+        2100,
+        2097
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 1,
+      "sight": 20,
+      "light": 20,
+      "_id": "Nt4OkyafGSeiOrHN",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1647,
+        1947,
+        1647,
+        2097
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 20,
+      "light": 20,
+      "_id": "YJVFYLICLZlwieGw",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1798,
+        2097,
+        1948,
+        2097
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 1,
+      "sight": 20,
+      "light": 20,
+      "_id": "lkUmcat8bxA8iDTR",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2100,
+        2097,
+        2250,
+        2097
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 1,
+      "sight": 20,
+      "light": 20,
+      "_id": "Ic9eDEOYWk563pfE",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2250,
+        2097,
+        2402,
+        2097
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 1,
+      "sight": 20,
+      "light": 20,
+      "_id": "dL0bSPUhDrOyKX4f",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2402,
+        2097,
+        2552,
+        2097
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 20,
+      "light": 20,
+      "_id": "j4SqRukKz41atgDR",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2552,
+        1193,
+        2552,
+        1947
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 20,
+      "light": 20,
+      "_id": "n1Nv9T0e7VkzJKyl",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2552,
+        2097,
+        2552,
+        1947
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 20,
+      "light": 20,
+      "_id": "yrjMYTyxToufJyvE",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1798,
+        1193,
+        2402,
+        1193
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 20,
+      "light": 20,
+      "_id": "oguXsbWWeyIs4Uu8",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2552,
+        1193,
+        2402,
+        1193
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 20,
+      "light": 20,
+      "_id": "Owf5QYcYYPjbvRQy",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1798,
+        1193,
+        1647,
+        1193
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 20,
+      "light": 20,
+      "_id": "TDYJ650SVDiifTtD",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1898,
+        1892,
+        1850,
+        1892
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "1NiC7MtqOnzfcfv1",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1876,
+        1902,
+        1842,
+        1869
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "qcFZQmF8b0ZKz6en",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1852,
+        1895,
+        1852,
+        1847
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "KnFjbCwafH0sXlWL",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1842,
+        1874,
+        1876,
+        1839
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "CBt8G8ckb8CkXIQQ",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1850,
+        1850,
+        1898,
+        1850
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "kkcPNhLYoneLSlH3",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1870,
+        1839,
+        1905,
+        1874
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "tdwBCUPdjHojuvEe",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1894,
+        1847,
+        1894,
+        1895
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "T0Svs7hUMtExISH6",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1905,
+        1869,
+        1870,
+        1902
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "MpxWrPmV4AqtgVdn",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2350,
+        1892,
+        2301,
+        1892
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "rTHbKVEb3nTz3JZv",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2328,
+        1902,
+        2294,
+        1869
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "5hrV1C3gpaC6Hz7S",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2306,
+        1895,
+        2306,
+        1847
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "VddkBPclzUC6SASy",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2294,
+        1874,
+        2328,
+        1839
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "WsiZKf5BTCFbaUZp",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2301,
+        1850,
+        2350,
+        1850
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "eRC0JG15AgNOAxbX",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2324,
+        1839,
+        2358,
+        1874
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "8ROWAtuQnxUm7XGE",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2346,
+        1847,
+        2346,
+        1895
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "2CWLV1B879vsawNC",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2358,
+        1869,
+        2324,
+        1902
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "UHM8pjECAjZsdk3N",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1898,
+        1440,
+        1850,
+        1440
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "Dwccwtb4YfQ5kE80",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1876,
+        1451,
+        1842,
+        1416
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "PNUQYcK2U3dVV36z",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1852,
+        1443,
+        1852,
+        1395
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "htDK7TcAtBAq0WNA",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1842,
+        1421,
+        1876,
+        1388
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "pvdsTHJFomvuQPDT",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1850,
+        1398,
+        1898,
+        1398
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "I7hzax30ZejwKnz1",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1870,
+        1388,
+        1905,
+        1421
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "LLNS3hpkImf6dYLK",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1894,
+        1395,
+        1894,
+        1443
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "Laeoa3FPIqXtd2wr",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        1905,
+        1416,
+        1870,
+        1451
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "Bx9hyKYx6Cj0mri9",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2350,
+        1440,
+        2301,
+        1440
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "kptwrFM4djjmwhTL",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2328,
+        1451,
+        2294,
+        1416
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "oZKeR6cAwh4fafnp",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2306,
+        1443,
+        2306,
+        1395
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "8xnNAq7AxlTeqNDX",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2294,
+        1421,
+        2328,
+        1388
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "MHes5bZm0x9ja6XI",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2301,
+        1398,
+        2350,
+        1398
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "RLK7q03d9tJFlTko",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2324,
+        1388,
+        2358,
+        1421
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "DUeQk49STV5i92lB",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2346,
+        1395,
+        2346,
+        1443
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "fYRmEnUwyvOkm1wF",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    },
+    {
+      "c": [
+        2358,
+        1416,
+        2324,
+        1451
+      ],
+      "move": 20,
+      "sound": 20,
+      "door": 0,
+      "sight": 10,
+      "light": 10,
+      "_id": "Ta4OhxgO08Pcc3ms",
+      "dir": 0,
+      "ds": 0,
+      "threshold": {
+        "light": null,
+        "sight": null,
+        "sound": null,
+        "attenuation": false
+      },
+      "flags": {}
+    }
+  ],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "journalEntryPage": null,
+  "weather": "",
+  "flags": {
+    "exportSource": {
+      "world": "echoes-of-the-past-campaign-1",
+      "system": "dnd5e",
+      "coreVersion": "12.331",
+      "systemVersion": "4.0.0"
+    }
+  },
+  "_stats": {
+    "coreVersion": "12.331",
+    "systemId": "dnd5e",
+    "systemVersion": "4.0.0",
+    "createdTime": 1726277641519,
+    "modifiedTime": 1726277676264,
+    "lastModifiedBy": "HpSgOOYr3FX0uQOe"
+  }
+}
