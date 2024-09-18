@@ -159,7 +159,7 @@ _Renvel's house_
 
 After finding Renvel in his house, he tells that he is living here in wilderness so nobody is bothered by his appearance, since he's a shapeshifter. At the edge of the wood noone is risking to seek for him, so he can safely live, hunt small animals and provide for himself. He suggests a party to stay for the night, and restock, giving each party member a daily ration for the night.
 
-In the morning, a group of paladins arrives, led by handsome blonde man with shining sword, who introduces as Damian, Crusader of Torm and will of Elturgard. He is here to find Renvel, and bring him to justice for being a monster. Players can side with Renvel, triggering the fight against the whole group, or surrender him. Paladins execute him in place, and if anyone of the paladin group from prologue survived, Damian will comment that we helped to cover up another criminal earlier and force the fight anyway.
+In the morning, a group of paladins arrives, led by handsome blonde man with shining sword, who introduces as Damian, Crusader of Torm and will of Elturgard. He is here to find Renvel, and bring him to justice for being a monster. Players can (A) side with Renvel, triggering the fight against the whole group, (B) try to persuade Damian (only possible if noone from the first patrol is left alive; otherwise alive member will step ahead and uncover your deeds of helping a criminal), or (C) surrender Renvel. Paladins execute him in place, and if anyone of the paladin group from prologue survived, Damian will comment that we helped to cover up another criminal earlier and force the fight anyway.
 
 ![](img/chars/damian-crusader-of-torm.png)
 _Damian, Crusader of Torm_
@@ -396,16 +396,26 @@ Temple has the following locations.
 
 Entrance, south part.
 
-Chapel, east part. Has a Ring of Mind Shielding laying on the pedestal. Taking this ring will trigger fight against ghosts/undeads. Attuning to this ring will reveal that it is inhabited by the spirit of lady Tinuviel, wife of lord Eavalur. She will talk in Elvish, revealing her name, her past of being not welcome by her husband for giving a birth to a daughter. She was praying for her dead friend Quenya, when something killed her, and her spirit was locked in the ring only knowing darkness and emptyness since. She will ask the party to check on the tree she planted on the graveyard as a part of ritual to honor Quenya's memory. Then she promises to show the way to the second gift.
+Library, south-east part. Searching it will trigger a fight with animated books, chairs and bookshelves. Whole room is easily flammable, casting any fire area of effect spell or ability will set the whole room on fire. Unless destroyed, alchemy table can be looted for ingredients/potions. If Ring of Mind Shielding is worn with her spirit inside, she will be able to identify book of magic secrets which will allow to turn Elven Darkwood Longbow into Hand of the Protector (one of the gift options).
+
+Cellar, central part. Can be looted for vine (2d4 rations).
+
+Dining room, central part.
+
+Acolyte bedroom, west part. Acolyte's Note can be found with the following text:
+
+>TO DO
+
+Chapel, east part. Has a Ring of Mind Shielding laying on the pedestal. Taking this ring will trigger fight against ghosts/undeads. Attuning to this ring will reveal that it is inhabited by the spirit of lady Tinuviel, wife of lord Eavalur. She will talk in Elvish, revealing her name, and her past of being not welcome by her husband for giving a birth to a daughter. She was praying for her dead friend Quenya, when something killed her, and her spirit was locked in the ring only knowing darkness and emptyness since. First she will ask for a help in finishing the gift (Acolyte's Note or magic book from the library will satisfy). After that, she will ask the party to check on the tree she planted on the graveyard as a part of ritual to honor Quenya's memory. Then she promises to show the way to the second gift.
 
 Treasure room, east part, behind the secret door DC20. Contains 5000G in treasures (can be taken as gold or spell components of an equal cost).
 
-Graveyard, west part. Has a giant oak growing among the graves, and a lot of daisies near it's roots. If someone is wearing the Ring of Mind Shielding, the lady will try to take one of the flowers by character's hand (CHA saving throw DC20 to resist). If character touches the flowers, ghosts and undead will appear. After the interaction, lady will say "Gift is hidden beneath the foot of The Protector, but beware those who sworn to him".
+Garden, west part. Has a giant oak growing among the graves, and a lot of daisies near it's roots. If someone is wearing the Ring of Mind Shielding and at least one of the gist options is discovered, the lady will try to take one of the flowers by character's hand (CHA saving throw DC20 to resist). If character touches the flowers, ghosts will be drawn from the Ethereal plane. After the interaction, lady will say "Gift is hidden beneath the foot of The Protector, but beware those who sworn to him".
 
 ![Great Oak](img/locations/great-oak.png)
 _Great oak_
 
-Main hall, north part. Statues of two elven warriors and Corellon Larethian himself located here. Serves as an arena for Divine Twins fight.
+Main hall, north part. Spacious hall with ruined walls and ceiling. Statues of two elven warriors and Corellon Larethian himself located here. Serves as an arena for Divine Twins fight.
 
 ### Divine Twins
 
@@ -415,9 +425,9 @@ _Dancing Sun, twin-protector_
 ![Silent Moon](img/chars/silent-moon.png)
 _Silent Moon, twin-protector_
 
-When party enters the main hall after fulfilling lady's request, they will see a spectral figure bending a knee in front of Corellian statue. If stranger notices the party, he turns arond facing them, then two flaming curved swords appear in his hands. At the same time, two companion statues come to life. Also, behind one of the columns another figure will appear, an elven woman wearing icy longbow. Silently, they will stare at the party for a moment and then attack.
+When party enters the main hall after fulfilling lady's requests, they will see a spectral figure bending a knee in front of Corellian statue. If stranger notices the party, he turns arond facing them, then two flaming curved swords appear in his hands. At the same time, two companion statues come to life. Also, behind one of the columns another figure will appear, an elven woman wearing icy longbow. Silently, they will stare at the party for a moment and then attack.
 
-After the fight, lady will ask ring wearer to come close to the central statue, and tell mhim the words which unseal the gift. Then her spirit peacefully leaves the ring. Inside a secret niche, party will find Blazing Oathkeeper, longbow which was purposed to be another gift. The ringbearer is granted a level up (or another character, if ringbearer is already level 8). Also, there will be a queen's revelation note with the following text:
+After the fight, lady will ask ring wearer to come close to the central statue, and tell mhim the words which unseal the gift. Then her spirit peacefully leaves the ring. Inside a secret niche, party will find Elven Ebenwood Longbow, which was purposed to be another gift. Here Tinuviel's spirit will either convert it to a gift (if only one option was discovered) and leave the ring, or will offer a choice between "smite the enemies" or "protect the dear to one's heart" (this can be made later). The ringbearer is granted a level up (or another character, if ringbearer is already level 8). Also, there will be a Lady's Revelation note with the following text:
 
 >Here I am, Tinuviel, lady of this land, yet abandoned by everyone, even my husband. I have to spend days and days alone in this temple, praying to the Protector. Protector, who failed to protect my dearest friend. What an irony! The only thing I hope for is my daughter's happiness with this man. While she is carrying a child, I should try my best to prepare the ideal gift for the ritual of birthgiving. If this is a boy, maybe he will bring peace to this land. After all, all I have at this point, is hope.
 
@@ -445,7 +455,7 @@ There is some rusty equipment inside the tower, and a way upstairs.
 
 On the second floor, there is some furniture, locked chest with a Hand Crossbow, Bolts (20) and Woodcarver's Tools.
 
-On the top level, there is an abandoned camp with a bit of food, bedrolls and travel bags, can be looted for 1d4+3 rations and two Potions of Healing.
+On the top level, there is an abandoned camp with a bit of food, bedrolls and travel bags, can be looted for 2d4 rations and two Potions of Healing.
 
 Also on a table lies a weird artifact, looking like a closed eye. Players can figure out how to trigger it, and it will open, look at the party, and shortly after, a portal will open on the floor, where stones are burned. This portal will take all members who were standing at the four central tiles to Cormyr.
 
@@ -491,7 +501,8 @@ Once player come back and trigger the portal once again after a full day, Adelma
 |Commander's Instructions|Sunrise Keep, Ground Level|Charm Monster|
 |Prisoner's Note|Sunrise Keep, Underground Level|Knock|
 |Lord's Diary Page|Crypt of Sehanine|Cone of Cold|
-|Lady's Revelation|Shrihe of Corellon Larethian|Flame Strike|
+|Lady's Revelation|Temple of Corellon Larethian|Flame Strike|
+|Acolyte's Note|Temple of Corellon Larethian|Comprehend Languages|
 |Servant's Note|Mansion Gate, Fungal Cave|Locate Creature|
 
 Bringing him at least two notes is required for the trade to happen. Bringing three notes, including Lord's Diary Page or Lady's Revelation, will get the party Arcane Grimoire +1. Bringing four notes and both special records will grant Arcane Grimoire +2. Bringing all five notes and telling him about the Judge and lady Tinuviel's spirit will grant Black Grimoire (Arcane Grimoire +2, which gives the attuned character the ability to change prepared spells at Short Rest).
@@ -629,7 +640,10 @@ After dealing with heir, Akreefa will appear, either alone or together with Isob
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |Akreefa - see Djinni|
 |Anariet - medium high elf, neutral|16AC (studded leather), Charmed (Resistance), Sleep (Immunity)|52|35ft|10/15/14/10/18/11|INT, WIS|Nature, History, Medicine|Darkvision 60ft|Common, Elvish, Druidic|7|<ul><li>_Attack (action)._ Anariet makes one melee attack with an enchanted quarterstuff, 5ft reach, +7 bonus, one target. Hit: 1d6 + 4 Bludgeoning.</li><li>_Magic (action)._ Anariet can cast same spells as level 7 Druid, Circle of the Stars, with +8 modifier.</li><li>_Constellation of the Dragon (special)._ When Anariet makes INT, WIS or CHA saving throw, whe can threat any roll of 9 and below as 10.</li></ul>|TO DO|
-|Animated Statue - medium construct, neutral|17AC (natural armor), Frightened (immunity), Poison (immunity), Poisoned (immunity)|50|30ft|16/13/18/9/12/8|-|-|Blindsense 30ft|Common (can't speak)|6|<ul><li>_Attack (action)._ Animated Statue makes one attack with stone sword, 5ft reach, +8 bonus, one target. Hit: 2d6 + 7 Slashing.</li><li>_Weather the Storm (reaction)._ As a reaction, when Animated Statue takes damage from one source, it can reduce it in half.</li></ul>|TO DO|
+|Animated Book - tiny construct, unaligned|17AC (natural armor), Fire (Vulnerability), Poison, Psychic (Immunity), Blinded, Charmed, Deafened, Frighened, Paralyzed, Petrified, Poisoned (Immunity)|17|30ft|12/15/11/1/8/1|DEX|-|Blindsense 60ft|-|5|<ul><li>_Attack (action)._ Animated Book makes one attack, 5ft reach, +8 bonus, one target. Hit: 1d4 + 4 Bludgeoning.</li><li>_Magic Page (action)._ Animated Book can cast up to a 2nd level spell with +6 bonus, sacrificing one of it's pages and losing 1 hit point per spell level.</li></ul>|TO DO|
+|Animated Bookshelf - large construct, unaligned|13AC (natural armor), Fire (Vulnerability), Poison, Psychic (Immunity), Blinded, Charmed, Deafened, Frighened, Paralyzed, Petrified, Poisoned (Immunity)|56|30ft|16/9/13/1/8/1|STR|-|Blindsense 60ft|-|7|<ul><li>_Attack (action)._ Animated Bookshelf makes one attack, 5ft reach, +8 bonus, one target. Hit: 2d10 + 2 Bludgeoning.</li><li>_Magic Page (action)._ Animated Bookshelf can cast up to a 3rd level spell with +8 bonus, sacrificing one of the pages from it's books and losing 1 hit point per spell level.</li></ul>|TO DO|
+|Animated Chair - small construct, unaligned|16AC (natural armor), Fire (Vulnerability), Poison, Psychic (Immunity), Blinded, Charmed, Deafened, Frighened, Paralyzed, Petrified, Poisoned (Immunity)|36|30ft|13/14/12/1/8/1|DEX|-|Blindsense 60ft|-|6|<ul><li>_Attack (action)._ Animated Chair makes one attack, 5ft reach, +8 bonus, one target. Hit: 1d10 + 4 Bludgeoning.</li></ul>|TO DO|
+|Animated Statue - medium construct, neutral|17AC (natural armor), Poison, Psychic (Immunity), Blinded, Charmed, Deafened, Frighened, Paralyzed, Petrified, Poisoned (Immunity)|50|30ft|16/13/18/9/12/8|-|-|Blindsense 30ft|Common (can't speak)|6|<ul><li>_Attack (action)._ Animated Statue makes one attack with stone sword, 5ft reach, +8 bonus, one target. Hit: 2d6 + 7 Slashing.</li><li>_Weather the Storm (reaction)._ As a reaction, when Animated Statue takes damage from one source, it can reduce it in half.</li></ul>|TO DO|
 |Bonemare - large undead, neutral evil|14AC (natural armor), Necrotic (immunity), Poison (immunity), Poisoned (immunity), Radiant (vulnerability)|68|60ft|18/15/16/10/13/15|-|-|Darkision 60ft|Common (can't speak)|7|<ul><li>_Multiattack (action)._ Bonemare makes one attack with it's head and one more with hooves.</li><li>_Ram (melee weapon attack)._ 5ft reach, +6 bonus, one target. Hit: 1d8 + 4 Bludgeoning.</li><li>_Hooves (melee weapon attack)._ 5ft reach, +6 bonus, one target. Hit: 1d6 + 4 Bludgeoning + 1d6 Necrotic.</li><li>_Undead Rush (special)._ If Bonemare attacks immediately after moving 20ft in straight line, first attack gets an advangtage and can knock target prone, if it fails STR saving throw (DC14).</li></ul>|TO DO|
 |Damian, Crusader of Torm - medium human, lawful good|19AC (full plate)|100|30ft|19/12/16/11/14/16|WIS, CHA|Athletics, Persuasion, Intimidation|Darkvision 60ft|Common, Elvish|9|<ul><li>_Multittack (action)._ Damian makes two melee attacks with a flaming longsword, 5ft reach, +9 bonus, one target. Hit: 1d10 + 5 Slashing + 2d6 Fire.</li><li>_Magic (action)._ Damian can cast same spells as level 9 Paladin of Vengeance, with +7 modifier.</li><li>_Divine Smite (special)._ Once per turn, if weapon attack hits the target, Damian can deal additional 3d8 Radiant damage.</li><li>_Aura of Protection (special)._ When Damian or a friendly creature within 10ft from him must make a saving throw, the creature gains a +3 bonus to a saving throw.</li></ul>|TO DO|
 |Dancing Sun - medium elf, neutral|20AC (natural armor), Bludgeoning/Piercing/Slashing (Resistance), Fire (Immunity), Charmed (Immunity), Frightened (Immunity)|125|45ft|14/20/16/11/16/14|STR +4, CHA +6|Acrobatics|-|Common, Elven (can't speak)|9|<ul><li>_Multiattack (action)._ Dancing Sun makes two melee attacks with flaming scimitars, 5ft reach, +9 bonus, one target. Hit: 3d6 + 8 Fire.</li><li>_Radiant Retribution (action)._ Dancing Sun raises crossed scimitars to emit harmful light. Every creature of choice in 40ft radius who can see the light makes DEX saving throw DC17 or becomes Blinded for 1 minute and takes 4d8 Radiant damage (half of that if save if successful).</li><li>_Divine Grace (reaction)._ Dancing Sun can increase his AC by 5 against one weapon attack as a reaction. If the attack misses and attacker is within 5ft, Dancing Sun can make one attack agaist it.</li><li>_Swift Fangs (special)._ Dancing Sun makes attack of opportunity without spending his reaction.</li><li>_Spectral Weapon (special)._ Dancing Sun cannot be disarmed.</li><li>_Ethereal Dance (special)._ Dancing Sun imposes a disadvantage when receiving an attack of opportunity.</li></ul>|TO DO|
@@ -691,15 +705,17 @@ While you are holding this leather-bound book, you can use it as a spellcasting 
 
 You can use this book as a spellbook. In addition, when you use your Arcane Recovery feature, you can increase the number of spell slot levels you regain by 1. Also, while attuned to this book, you can change prepared spells after finishing a short rest.
 
-## Blazing Oathkeeper
+## Blazing Avenger
 
 _Weapon, legendary (requires attunement)_
 
 You have +2 bonus to attack and damage made with this magic longbow.
 
-___Sworn Enemy.___ Whenever you hit with an attack with this weapon, you mark the creature as a sworn enemy. This creature cannot hide from your sight while on the same plane of existence as you even in magical darkness, always visible as in bright light, and doesn't receive bonuses from cover. All following attacks made with this weapon against the sworn enemy receive an advantage, deal additional 1d6 damage, and when you score a critical strike with it, you can roll all damage dice one additional time. Creature remains your sworn enemy until it dies, or until you dedicate another creature. While your sworn enemy is alive, you have disadvantage on attacks with any weapon other than this longbow.
+___Sworn Enemy.___ Whenever you hit with an attack with this weapon, you mark the creature as a sworn enemy. This creature cannot hide from your sight while on the same plane of existence as you even in magical darkness and always visible as in bright light, unless you are blinded and have no special senses. All following attacks made with this weapon against the sworn enemy ignore obstacles, deal additional 1d6 Fire damage, and when you score a critical strike with it, you can roll all damage dice one additional time. Creature remains your sworn enemy until it dies, or until you dedicate another creature. While your sworn enemy is alive, you have disadvantage on attacks with any weapon other than this longbow.
 
 ___Enchanted Arrows.___ This weapon produces magical ammunition when you shoot, which disappears after you hit or miss.
+
+_Elven longbow made of dark wood. It radiates with fire magic, and it's string becomes hot when shooting arrows._
 
 ## Corrupted Morning Star
 
@@ -712,6 +728,12 @@ ___Bloodstar.___ Artifact emits bright bloody-red light in a 30ft radius and dim
 ___Dread of the Fey.___ All creatures affected by Bloodstar, who are Fey, Elf or have Fey Ancestry racial trait, can be put to sleep as normal, and automatically fail saving throws against being charmed. During long rest, they can't use Trance, instead the should sleep as normal, and in the end they receive -2 penalty to one ability with the highest score (if multiple abilities have the same score, DM choses one or rolls dice to determine). Penalty is lifted once the creature completes a normal long rest. This feature is hidden from players and only revealed whenever they suffer from it's effect.
 
 ___Heir's Bane.___ Once per turn, when you hit with attack with this weapon and roll for damage, you can roll an additional 1d6, deal that much magical Piercing to the target, and restore the same amount of hit points. This damage doesnt multiply on critical hits.
+
+## Elven Ebenwood Longbow
+
+_Weapon, rare_
+
+You have +2 bonus to attack and damage made with this magic longbow.
 
 ## Flower Ornate Key
 _Miscellaneous, common_
@@ -727,6 +749,18 @@ Looks like a regular lantern, but emits strange blue light. Somehow it doesn't e
 _Wondrous item, rare_
 
 As an Action, you can crumble this gem, instanty getting effect of a spell which is level 3 of below.
+
+## Hand of the Protector
+
+_Weapon, legendary (requires attunement)_
+
+You have +2 bonus to attack and damage made with this magic longbow.
+
+___Arvandor's Retaliation.___ When a creature, attuned to this longbow, is reduced to 0 hit points, bow's magic negates damage from this source and releases a devastating shockwave. You and all creatures of your choice within 30ft receive 3d10 temporary hit points, all others take the same amount of Force damage and make STR saving throw DC16, knocked prone in case of failure. This ability also can triggered when receiving damage as a reaction. After it is used, at each dawn, roll a d6. If 5 or 6 is rolled, it is restored.
+
+___Enchanted Arrows.___ This weapon produces magical ammunition when you shoot, which disappears after you hit or miss.
+
+_Elven longbow made of dark wood. It radiates with nature's magic, and sprouts cover the wearer's hand when shooting._
 
 ## Radiant Morning Star
 
@@ -779,7 +813,7 @@ During long rests, you can roll d20 and use the following table to determine ran
 |-|-|
 |1-10|-|
 |11|Rats eat 1d4 rations|
-|12|Neshat visits the pact keeper (if pact is sealed)|
+|12|Neshat visits the pact keeper (if pact is sealed; works pretty much as Contact Other Plane with your patron)|
 |13|Elven spirits wake one of the adventurers up and reveal one random minor location on the map|
 |14|Elven spirits interrupt the rest, giving everyone one level of exaustion|
 |15|Shooting star grants Gem of Wishes|
