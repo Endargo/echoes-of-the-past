@@ -586,6 +586,10 @@ _Unfortunate Villager_
 
 Group discovers a humanoid skeleton, somebody semmingly lost their way in the woods and drawned in the swamp. If party decides to search the surroundings, they will find Flower Ornated Key spending 1d4 hours. This key opens Flower Ornated Lockbox in the Abandoned Village.
 
+## Willow Wisp
+
+Wisp will guide party to a fight with random group, at the end Moon Sickle +1 can be obtained.
+
 ## Yuan-Ti Scouts
 
 ![Yuan-Ti Scouts](img/chars/yuan-ti-scouts.png)

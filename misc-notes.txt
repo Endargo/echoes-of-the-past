@@ -18,7 +18,8 @@ Watchtower: 2 items per request (Uncommon/Rare),
     Arcane Grimoire +1/2/Black (Uncommon/Rare/Very Rare),
     Toxic Gland (Rare)
 Minor Locations: Rod of the Pact Keeper +1 (Uncommon),
-    Bloodwell Vial +1 (Uncommon)
+    Bloodwell Vial +1 (Uncommon),
+    Moon Sickle +1 (Uncommon)
 Finale: Belt of Hill Giant Strength (Rare),
     Vial of Gold Blood (Very Rare)
 
@@ -29,5 +30,3 @@ Crypt: feat of choice
 Mansion Gate: nature blessing by Anariet (only if left alive)
 Shrine: one level of choice
 Sunrise Keep: one level of Warlock Genie (only if pact with Neshat is sealed)
-
-Notes about maps:
