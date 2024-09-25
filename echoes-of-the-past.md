@@ -16,15 +16,15 @@
 [Chapter 3. Minor Locations and Events](#minor-locations-and-events)
 1.  [Bottled Surprise](#bottled-surprise)
 2.  [Chapel Ruins](#chapel-ruins)
-3.  [Fey Pond](#fey-pond)
-4.  [Forest Hut](#forest-hut)
-5.  [Graveyard](#graveyard)
-6.  [Hunting Spot](#hunting-spot)
-7.  [Lonely Grave](#lonely-grave)
-8.  [Ritual Site](#ritual-site)
-9.  [Spider Cave](#spider-cave)
-10. [Unfortunate Villager](#unfortunate-villager)
-11. [Willow Wisp](#willow-wisp)
+3.  [Cropfield](#cropfield)
+4.  [Fey Pond](#fey-pond)
+5.  [Forest Hut](#forest-hut)
+6.  [Graveyard](#graveyard)
+7.  [Hunting Spot](#hunting-spot)
+8.  [Lonely Grave](#lonely-grave)
+9.  [Ritual Site](#ritual-site)
+10. [Spider Cave](#spider-cave)
+11. [Unfortunate Villager](#unfortunate-villager)
 12. [Yuan-Ti Scouts](#yuan-ti-scouts)
 
 [Chapter 4. Finale. Revelation.](#finale)
@@ -535,6 +535,13 @@ The treasure is buried in the north-west house ruins in the Abandoned village, o
 
 Party comes across ruins of a small building. They can find 300G and scrolls (Common/Uncommon) inside, triggering a fight with a random group. Use Forest Ruins battlemap.
 
+## Cropfield
+
+![Cropfield](img/locations/cropfield.png)
+_Cropfield_
+
+Party finds small abandoned cropfield in the woods. Passing through it triggers a fight with a group of pertrified enemies. After examining haystags Moon Sickle +1 can be obtained.
+
 ## Fey Pond
 
 ![Fey Pond](img/locations/fey-pond.png)
@@ -585,10 +592,6 @@ One of the party members missteps and falls into a hidden cave, 20ft high. They 
 _Unfortunate Villager_
 
 Group discovers a humanoid skeleton, somebody semmingly lost their way in the woods and drawned in the swamp. If party decides to search the surroundings, they will find Flower Ornated Key spending 1d4 hours. This key opens Flower Ornated Lockbox in the Abandoned Village.
-
-## Willow Wisp
-
-Wisp will guide party to a fight with random group, at the end Moon Sickle +1 can be obtained.
 
 ## Yuan-Ti Scouts
 
@@ -685,7 +688,7 @@ After dealing with heir, Akreefa will appear, either alone or together with Isob
 
 |Creature|Defenses|HP|Speed|Stats|Saves|Skills|Senses|Languages|Level(CR)|Actions,Reactions,Specials|Description|
 |-|-|-|-|-|-|-|-|-|-|-|-|
-|Akreefa - see Djinni|
+|Akreefa - see Djinni, change alignment to Chaotic Evil|
 |Anariet - medium high elf, neutral|16AC (studded leather), Charmed (Resistance), Sleep (Immunity)|52|35ft|10/15/14/10/18/11|INT, WIS|Nature, History, Medicine|Darkvision 60ft|Common, Elvish, Druidic|7(TBD)|<ul><li>_Attack (action)._ Anariet makes one melee attack with an enchanted quarterstuff, 5ft reach, +7 bonus, one target. Hit: 1d6 + 4 Bludgeoning.</li><li>_Magic (action)._ Anariet can cast same spells as level 7 Druid, Circle of the Stars, with +8 modifier.</li><li>_Constellation of the Dragon (special)._ When Anariet makes INT, WIS or CHA saving throw, whe can threat any roll of 9 and below as 10.</li></ul>|TO DO|
 |Animated Book - tiny construct, unaligned|17AC (natural armor), Fire (Vulnerability), Poison, Psychic (Immunity), Blinded, Charmed, Deafened, Frighened, Paralyzed, Petrified, Poisoned (Immunity)|17|Fly 30ft|12/15/11/1/8/1|DEX|-|Blindsense 60ft|-|5(1)|<ul><li>_Attack (action)._ Animated Book makes one attack, 5ft reach, +8 bonus, one target. Hit: 1d4 + 4 Bludgeoning.</li><li>_Magic Page (action)._ Animated Book can cast up to a 2nd level spell with +6 bonus, sacrificing one of it's pages and losing 1 hit point per spell level.</li></ul>|TO DO|
 |Animated Bookshelf - large construct, unaligned|13AC (natural armor), Fire (Vulnerability), Poison, Psychic (Immunity), Blinded, Charmed, Deafened, Frighened, Paralyzed, Petrified, Poisoned (Immunity)|56|30ft|16/10/13/1/8/1|STR|-|Blindsense 60ft|-|7(4)|<ul><li>_Attack (action)._ Animated Bookshelf makes one attack, 5ft reach, +8 bonus, one target. Hit: 2d10 + 2 Bludgeoning.</li><li>_Magic Page (action)._ Animated Bookshelf can cast up to a 3rd level spell with +8 bonus, sacrificing one of the pages from it's books and losing 1 hit point per spell level.</li></ul>|TO DO|
@@ -706,7 +709,7 @@ After dealing with heir, Akreefa will appear, either alone or together with Isob
 |Fungi Hunter - small plant, unaligned|14AC (natural armor)|28|25ft|13/16/11/6/7/3|STR +3|-|Darkvision 60ft|-|5|<ul><li>_Multiattack (action)._ Fungi Hunter makes two attacks with it's tentacles, 10ft reach, +6 bonus, one target. Hit: 1d6 + 3 Bludgeoning + 1d6 Acid.</li><li>_Cave Hunter (action)._ Fungi Hunter can attempt to restrain a target up to Large size within 10ft range (DEX save DC14).</li><li>_Shining Coat (special)._ Creature hit by Fungi Hunter attack is covered in glittering dust, preventing it from going Invisible. All attacks against such a creature is made with an advantage.</li></ul>|TO DO|
 |Fungi Tyrant - huge monstrosity, unaligned|19AC (natural armor)|100|35ft|19/15/18/12/16/15|STR, CHA|Athletics, Perception|Darkvision 120ft|-|9|<ul><li>_Multiattack (action)._ Fungi Tyrant makes two attacks with it's tentacles, 15ft reach, +9 bonus, one target. Hit: 2d8 + 4 Bludgeoning + 1d8 Acid.</li><li>_Cave Hunter (action)._ Fungi Abomination can attempt to restrain a target up to Large size within 15ft range (DEX save DC14).</li><li>_Devour (action)._ If there is a creature within 30ft which Fungi Abomination can see, is not an Undead and is grappled by Cave Hunter's tentacles, Fungi Abomination can instantly teleport to it an make three regular attacks. If this action lowers creature hit points to 0, Fungi Abomination swallows it, adding one failure to death saving throw count at the end of each turn.</li><li>_Fungal Infestation (reaction)._ When another plant dies within 30ft, Fungi Tyrant can immediately raise it as a Fungi Hunter as a reaction. When a humanoid dies, Fungi Tyrant can raise a Fungal Zombie instead.</li><li>_Alert (special)._ Fungi Tyrant has +5 bonus to initiative, and can't be surprised.</li><li>_Legendary Resistance (special, 1/day)._ If Fungi Tyrant fails a saving throw, it can choose to succeed instead.</li></ul>|TO DO|
 |Ghost - see Ghost in PHB|
-|Heir of Sorrow - large undead, neutral evil|19AC (natural armor), Acid, Fire, Cold, Lightning, Thunder, Bludgeoning, Piercing, and Slashing from Nonmagical Attacks (Resistance), Necrotic, Poison, Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained (Immunity)|250|30ft|19/17/18/13/16/16|STR +8, DEX + 8, WIS +7|-|Darkvision 90ft|Common, Elvish (can't speak)|11|<ul><li>_Multiattack (action)._ Heir makes two melee attacks with claws, 5ft reach, +10 bonus, one target. Hit: 2d8 + 9 Slashing.</li><li>_Dark Hunt (action)._ Heir makes one melee attack with claws, if it's successful, the target is grappled. Heir then moves vertically for the remaining distance, lifting the target and can release in the air. Hit: 2d8 + 9 Slashing.</li><li>_Confusion (magic action)._ Heir makes all creatures in 90ft who can see or hear him go mad. Every affected creature should make CHA saving throw DC18, and if failed, it can't control it's actions. At the end of it's turn, it can repeat saving throw to end this effect.</li><li>_Mental Overload (magic action)._ Heir chooses a target which can see or hear him, it should make WIS saving throw DC18, and of failed, receive 2d8 Psychic damage for each magic item it's attuned to plus 2d8 Psychic damage if it's concentrating on a spell, or half of that amount if succeded.</li><li>_Absorb Magic (reaction)._ As a reaction, when receiving damage from non-weapon source, Heir can receive resistance to that damage, and deal additional 1d10 damage of that type with it's next attack.</li><li>_Ethereal Fly (special)._ Heir receives only half the damage during it's turn, and immune to non-magic weapon.</li><li>_Extra Action (special)._ Heir performs two actions in one turn, one of them can only be Multiattack.</li><li>_Alert (special)._ Heir has +5 bonus to initiative, and can't be surprised.</li><li>_Legendary Resistance (special, 3/day)._ If Heir fails a saving throw, he can choose to succeed instead.</li></ul>|TO DO|
+|Heir of Sorrow - large undead, neutral evil|19AC (natural armor), Acid, Fire, Cold, Lightning, Thunder, Bludgeoning, Piercing, and Slashing from Nonmagical Attacks (Resistance), Necrotic, Poison, Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained (Immunity)|250|30ft, Fly 50ft|19/17/18/13/16/18|STR, DEX, WIS|-|Darkvision 90ft|Common, Elvish (can't speak)|11|<ul><li>_Multiattack (action)._ Heir makes two melee attacks with claws, 5ft reach, +10 bonus, one target. Hit: 2d8 + 9 Slashing.</li><li>_Dark Hunt (action)._ Heir makes one melee attack with claws, if it's successful, the target is grappled. Heir then moves vertically for the remaining distance, lifting the target and can release in the air. Hit: 2d8 + 9 Slashing.</li><li>_Confusion (magic action)._ Heir makes all creatures in 90ft who can see or hear him go mad. Every affected creature should make CHA saving throw DC18, and if failed, it can't control it's actions. At the end of it's turn, it can repeat saving throw to end this effect.</li><li>_Mental Overload (magic action)._ Heir chooses a target which can see or hear him, it should make WIS saving throw DC18, and of failed, receive 2d8 Psychic damage for each magic item it's attuned to plus 2d8 Psychic damage if it's concentrating on a spell, or half of that amount if succeded.</li><li>_Absorb Magic (reaction)._ As a reaction, when receiving damage from non-weapon source, Heir can receive resistance to that damage, and deal additional 1d10 damage of that type with it's next attack.</li><li>_Ethereal Fly (special)._ Heir receives only half the damage during it's turn, and immune to non-magic weapon.</li><li>_Extra Action (special)._ Heir performs two actions in one turn, one of them can only be Multiattack.</li><li>_Alert (special)._ Heir has +5 bonus to initiative, and can't be surprised.</li><li>_Legendary Resistance (special, 3/day)._ If Heir fails a saving throw, he can choose to succeed instead.</li></ul>|TO DO|
 |Isobel - medium human, neutral evil|17AC (natural armor)|108|10ft, Fly 30ft (Hover)|10/11/21/17/14/22|CON, INT, WIS, CHA|Arcana, Deception, Intimidation, Perception, Persuasion, Religion|Darkvision 120ft|Common, Elvish|12|<ul><li>_Siphoning Attack (action)._ Isobel makes one unarmed attack, 5ft reach, +12 bonus, one target. Hit: 1d6 + 3 Bludgeoning + 3d8 Necrotic, and regains hit points equal to Necrotic damage dealt.</li><li>_Chilling Touch (action)._ Isobel makes one magic attack with an otherwordly hand, 60ft reach, +12 bonus, one target. Hit: 3d8 Necrotic, target can't regain health until the start of your next turn.</li><li>_Magic (action)._ Isobel can cast spells as level 12 Sorcerer, Shadow Magic, with +12 modifier.</li><li>_Alert (special)._ Isobel has +5 bonus to initiative, and can't be surprised.</li><li>_Strength of the Grave (special)._ See Strength of the Grave, Shadow Magic.</li><li>_Legendary Resistance (special, 3/day)._ If Isobel fails a saving throw, it can choose to succeed instead.</li><li>_Legendary Actions (special)._ Isobel can make 2 legendary actions, choosing from options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Isobel regains it's legendary actions at the start of it's turn.</li><li>_Cover of Shadows (legendary action)._ If a creature harmed Isobel in some way, at the end of it's turn it should make CON saving throw DC20 or become blinded until the end of it's next turn.</li><li>_Hound of Ill Omen (legendary action, 2 actions)._ See Hound of Ill Omen, Shadow Magic, only one hound at a time.</li></ul>|TO DO|
 |Judge - medium undead, neutral|17AC (natural armor), Acid, Fire, Lightning, Thunder, Bludgeoning, Piercing, and Slashing from Nonmagical Attacks (Resistance), Cold, Necrotic, Poison, Charmed, Exhaustion, Frightened, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained (Immunity)|90|30ft|11/14/16/19/14/17|WIS +7|-|Darkvision 60ft|Common, Elvish|8|<ul><li>_Attack (action)._ Judge makes one attack with quarterstaff, 5ft reach, +7 bonus, one target. Hit: 1d8 + 4 Bludgeoning.</li><li>_Chilling Touch (action)._ Judge makes one magic attack with an otherwordly hand, 60ft reach, +9 bonus, one target. Hit: 3d8 Necrotic, target can't regain health until the start of your next turn.</li><li>_Smaller Maze (action)._ See Maze spell, change DC to 16, can be cast once per battle.</li><li>_Confusion (action)._ See Confusion spell, can be cast once per battle.</li><li>_Counterspell (reaction)._ See Counterspell spell, can be cast once per battle as a level 4 spell.</li><li>_Alert (special)._ Judge has +5 bonus to initiative, and can't be surprised.</li><li>_Legendary Resistance (special, 2/day)._ If Judge fails a saving throw, it can choose to succeed instead.</li></ul>|TO DO|
 |Petrified Archer - medium construct, neutral|15AC (natural armor), Piercing/Slashing (Resistance), Charmed, Frightened, Poisoned (Immunity), Poison (Immunity)|45|30ft|13/16/15/9/12/8|-|-|Blindsense 60ft|Common (can't speak)|7|<ul><li>_Attack (action)._ Petrified Archer makes one attack with stone longbow, 5ft reach, +8 bonus, one target. Hit: 1d8 + 6 Piercing.</li></ul>|TO DO|
@@ -997,6 +1000,9 @@ _Estate, second floor_
 _Estate, ruined remains_
 
 ## Minor Locations
+![](img/maps/cropfield-map.png)
+_Cropfield_
+
 ![](maps-foundryvtt/graveyard.jpg)
 _Graveyard_
 

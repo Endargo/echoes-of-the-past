@@ -1,14 +1,14 @@
 Magic Items
 
 Prologue: Dagger +1 (Uncommon)
-Abandoned Village: Pearl of Power (Uncommon),
-    Flame Tongue Longsword (Rare),
-    Heart of Shadow Beast (Rare)
+Abandoned Village: Flame Tongue Longsword (Rare),
+    Heart of Shadow Beast (Rare),
+    Pearl of Power (Uncommon)
 Crypt: Morning Star variation (Legendary),
     Sentinel's Shield (Uncommon)
 Mansion Gate: Guardian Emblem (Uncommon),
     Fey Root (Rare)
-Shrine: Blazing Oathkeeper (Legendary),
+Temple: Blazing Avenger/Hand of the Protector (Legendary),
     Ring of Mind Shielding (Uncommon),
 Sunrise Keep: Ring of Protection (Rare),
     Amulet of the Devout +1 (Uncommon),
